@@ -1,4 +1,4 @@
->    [主页](#)
+- [主页](https://qyxblog.github.io/)
 
 - 记录
 
