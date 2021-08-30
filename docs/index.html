@@ -7,24 +7,6 @@
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
-  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.css">
-  
-  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/gitalk.min.js"></script>
-  <script src="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.min.js"></script>
-  <script>
-    const gitalk = new Gitalk({
-      clientID: 'Github Application Client ID',
-      clientSecret: 'Github Application Client Secret',
-      repo: 'Github repo',
-      owner: 'Github repo owner',
-      admin: ['Github repo collaborators, only these guys can initialize github issues'],
-      // facebook-like distraction free mode
-      distractionFreeMode: false
-    })
-  </script>
-  
-  <script src="//unpkg.com/docsify-count/dist/countable.js"></script>
-  
 </head>
 <body>
   <div id="app">稍等片刻，好事即将发生</div>
@@ -37,19 +19,6 @@
 	  name: 'MaxLenの博客',
 	  nameLink: '/',
 	  coverpage: true,
-	  count:{
-	      countable:true,
-	      fontsize:'0.9em',
-	      color:'rgb(90,90,90)',
-	      language:'chinese'
-	    }
-	  formatUpdated: '{MM}/{DD} {HH}:{mm}',
-	  
-	    formatUpdated: function(time) {
-	      // ...
-	  
-	      return time;
-		 },
     };
   </script>
   <!-- Docsify v4 -->
