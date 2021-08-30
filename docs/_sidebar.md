@@ -1,4 +1,6 @@
-- [主页](https://qyxblog.github.io/)
+- 公告  
+
+  - [关于](公告\关于.md)
 
 - 记录
 
@@ -25,3 +27,4 @@
   - [被收购的小a的新产品——Avast One](科技波动/avastone.md)
   - [卡巴斯基发布(f)补丁](科技波动/卡巴斯基21.3.10.391f补丁发布.md)
   - [是时候离开并放弃Emsisoft了](科技波动/放弃Emsisoft.md)
+  - [是时候放弃Emsisoft（完整版）](科技波动/完整版放弃Emsisoft.md)
