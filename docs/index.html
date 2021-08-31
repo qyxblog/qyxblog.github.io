@@ -20,8 +20,9 @@
 	  notFoundPage: true,  //404页面
 	  repo: 'https://github.com/qyxblog/qyxblog.github.io',   //github控件
 	  loadNavbar: true,  //导航栏
-	  // subMaxLevel: 2,  //侧目录标题
+	  subMaxLevel: 2,  //侧目录标题
 	  loadSidebar: true,  //侧边栏
+	  maxLevel: 4,
 	  
 	  count:{
 	    countable:true,
@@ -33,7 +34,7 @@
 	  
       search: {
         maxAge: 86400000, // 过期时间，单位毫秒，默认一天
-        paths: [auto], // or 'auto'
+        paths: 'auto', // or 'auto'
         placeholder: 'Max搜索',
         noData: '啊？！找不到结果！',
       // 搜索标题的最大层级, 1 - 6
