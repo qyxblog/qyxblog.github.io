@@ -13,15 +13,15 @@
   <div id="app">稍等片刻，好事即将发生</div>
   <script>
     window.$docsify = {
-	  auto2top: true,
-	  name: 'MaxLenの博客',
-	  nameLink: '/',
-	  coverpage: true,
-	  notFoundPage: true,
-	  repo: 'https://github.com/qyxblog/qyxblog.github.io',
-	  loadNavbar: true,
-	  subMaxLevel: 6,
-	  loadSidebar: true,
+	  auto2top: true,    //自动回顶
+	  name: 'MaxLenの博客',   //侧栏标题
+	  nameLink: '/',   //点击侧栏标题触发事件
+	  coverpage: true,  //封面
+	  notFoundPage: true,  //404页面
+	  repo: 'https://github.com/qyxblog/qyxblog.github.io',   //github控件
+	  loadNavbar: true,  //导航栏
+	  subMaxLevel: 2,  //侧目录标题
+	  loadSidebar: true,  //侧边栏
 	  
 	  
 	  
@@ -31,30 +31,30 @@
 	    color:'rgb(122, 122, 122)',
 	    language:'chinese'
 	  },
+	  //字数统计
 	  
       search: {
         maxAge: 86400000, // 过期时间，单位毫秒，默认一天
-        paths: [], // or 'auto'
+        paths: [auto], // or 'auto'
         placeholder: 'Max搜索',
-
         noData: '啊？！找不到结果！',
-
       // 搜索标题的最大层级, 1 - 6
         depth: 6,
-
         hideOtherSidebarContent: true, // 是否隐藏其他侧边栏内容
-	  }
+	  },
+	  //搜索
 	  
     };
   </script>
   
   <!-- Docsify v4 -->
 
-    <script src="//cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"></script>
-	<script src="//unpkg.com/docsify-count/dist/countable.js"></script>
-    <script src="//cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.min.js"></script>
-	<script src="https://cdn.jsdelivr.net/npm/jquery/dist/jquery.min.js"></script>
-	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/font-awesome/css/font-awesome.min.css"/>
-	<script src="https://cdn.jsdelivr.net/gh/stevenjoezhang/live2d-widget/autoload.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"></script>  <!--基本组件 -->
+	<script src="//unpkg.com/docsify-count/dist/countable.js"></script>    <!-- 字数统计 -->
+    <script src="//cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.min.js"></script> <!-- 搜索组件 -->
+	
+	<script src="https://cdn.jsdelivr.net/npm/jquery/dist/jquery.min.js"></script>  <!-- 看板娘 -->
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/font-awesome/css/font-awesome.min.css"/>   <!-- 看板娘 -->
+	<script src="https://cdn.jsdelivr.net/gh/stevenjoezhang/live2d-widget/autoload.js"></script>   <!-- 看板娘 -->
 </body>
 </html>
