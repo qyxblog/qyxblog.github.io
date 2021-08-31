@@ -24,6 +24,8 @@
 	  maxLevel: 4,
 	  loadSidebar: true,
 	  
+	  
+	  
 	  count:{
 	    countable:true,
 	    fontsize:'0.9em',
@@ -59,5 +61,20 @@
 	<script src="https://cdn.jsdelivr.net/npm/jquery/dist/jquery.min.js"></script>
 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/font-awesome/css/font-awesome.min.css"/>
 	<script src="https://cdn.jsdelivr.net/gh/stevenjoezhang/live2d-widget/autoload.js"></script>
+	
+	<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.css">
+	<script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/gitalk.min.js"></script>
+	<script src="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.min.js"></script>
+	<script>
+	  const gitalk = new Gitalk({
+	    clientID: '48cbaae42599ce7b816b',
+	    clientSecret: '010b60664fd58d4695fa51e7eb21ac17dcec29a1',
+	    repo: 'MaxのBlog',
+	    owner: 'qyxyyds',
+	    admin: ['qyxyyds'],
+	    // facebook-like distraction free mode
+	    distractionFreeMode: false
+	  })
+	</script>
 </body>
 </html>
