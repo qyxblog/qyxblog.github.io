@@ -20,8 +20,7 @@
 	  notFoundPage: true,
 	  repo: 'https://github.com/qyxblog/qyxblog.github.io',
 	  loadNavbar: true,
-	  subMaxLevel: 2,
-	  maxLevel: 4,
+	  subMaxLevel: 6,
 	  loadSidebar: true,
 	  
 	  
@@ -41,7 +40,7 @@
         noData: '啊？！找不到结果！',
 
       // 搜索标题的最大层级, 1 - 6
-        depth: 2,
+        depth: 6,
 
         hideOtherSidebarContent: true, // 是否隐藏其他侧边栏内容
 	  }
@@ -61,28 +60,6 @@
 	<script src="https://cdn.jsdelivr.net/npm/jquery/dist/jquery.min.js"></script>
 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/font-awesome/css/font-awesome.min.css"/>
 	<script src="https://cdn.jsdelivr.net/gh/stevenjoezhang/live2d-widget/autoload.js"></script>
-	
-	<link rel="stylesheet" href="//unpkg.com/gitalk/dist/gitalk.css">
-	<script src="//unpkg.com/gitalk/dist/gitalk.min.js"></script>
-	<script src="//unpkg.com/docsify/lib/plugins/gitalk.min.js"></script>
-	<script>
-      var gitalk = new Gitalk({
-        clientID: '48cbaae42599ce7b816b',
-        clientSecret: '231c0965c4eb482ccbeb79217e847eed17771d63',
-        repo: 'MaxBlog',
-        owner: 'qyxyyds',
-        admin: ['qyxyyds'],
-        title: location.hash.match(/#(.*?)([?]|$)/)[1],
-        id: location.hash.match(/#(.*?)([?]|$)/)[1],
-      })
-      // 监听URL中hash的变化，如果发现换了一个MD文件，那么刷新页面，解决整个网站使用一个gitalk评论issues的问题。
-      window.onhashchange = function(event){
-        if(event.newURL.split('?')[0] !== event.oldURL .split('?')[0]) {
-          location.reload()
-        }
-      }
-      // 由于docsify/lib/plugins/gitalk.min.js文件中已经有下面代码了，所以不需要在写一次了
-      // gitalk.render('gitalk-container')
-    </script>
+	<script src="//unpkg.com/docsify"></script>
 </body>
 </html>
