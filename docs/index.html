@@ -61,7 +61,7 @@
 	<script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/gitalk.min.js"></script><!-- doc官方引入 -->
 	<div id="gitalk-container"></div>
 	<script>
-	  var gitalk = new Gitalk({
+	  const gitalk = new Gitalk({
 	    clientID: 'b51c894fbe9c135cebe2', // GitHub Application Client ID
 	    clientSecret: '76d77d86985436ddb567a4bf68d4daef992c5d13', // GitHub Application Client Secret
 	    repo: 'gitalk-comment'      // 存放评论的仓库
@@ -70,10 +70,7 @@
 		title: location.hash.match(/#(.*?)([?]|$)/)[1],  //标题
 	    id: location.hash.match(/#(.*?)([?]|$)/)[1],     // 用于标记评论是哪个页面的，确保唯一，并且长度小于50
 	  })
-	  
 	  gitalk.render('gitalk-container')
-	</script>
-	<script>
 	  window.onhashchange = function(event){   //监听hash
 	    if(event.newURL.split('?')[0] !== event.oldURL .split('?')[0]) {
 		  location.reload()
