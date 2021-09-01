@@ -102,4 +102,7 @@ theme: fluid
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repo: <git@github.com:qyxblog/qyxblog.github.io.git> //SSH
+  branch: [master] //当前的分支，一般是master
+  message: [message] // 可不填
