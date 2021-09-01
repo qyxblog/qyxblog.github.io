@@ -55,5 +55,27 @@
 	<script src="https://cdn.jsdelivr.net/npm/jquery/dist/jquery.min.js"></script>  <!-- 看板娘 -->
 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/font-awesome/css/font-awesome.min.css"/>   <!-- 看板娘 -->
 	<script src="https://cdn.jsdelivr.net/gh/stevenjoezhang/live2d-widget/autoload.js"></script>   <!-- 看板娘 -->
+	
+	<link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">  <!-- gitalk官方引入 -->
+	<script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>  <!-- gitalk官方引入 -->
+	<div id="gitalk-container"></div>  <!-- gitalk容器 -->
+	<script>  //JS中的gitalk
+	  var gitalk = new Gitalk({
+	    clientID: 'b51c894fbe9c135cebe2', // GitHub Application Client ID
+	    clientSecret: '76d77d86985436ddb567a4bf68d4daef992c5d13', // GitHub Application Client Secret
+	    repo: 'gitalk-comment'      // 存放评论的仓库
+	    owner: 'qyxyyds',          // 仓库的创建者，
+	    admin: ['qyxyyds'],        // 如果仓库有多个人可以操作，那么在这里以数组形式写出
+		title: location.hash.match(/#(.*?)([?]|$)/)[1],  //标题
+	    id: location.hash.match(/#(.*?)([?]|$)/)[1],     // 用于标记评论是哪个页面的，确保唯一，并且长度小于50
+	  })
+	  window.onhashchange = function(event){   //监听hash
+	    if(event.newURL.split('?')[0] !== event.oldURL .split('?')[0]) {
+		  location.reload()
+		}
+	  }
+	  //gitalk.render('gitalk-container');    // 渲染Gitalk评论组件
+	</script>
+	
 </body>
 </html>
