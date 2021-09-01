@@ -56,10 +56,11 @@
 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/font-awesome/css/font-awesome.min.css"/>   <!-- 看板娘 -->
 	<script src="https://cdn.jsdelivr.net/gh/stevenjoezhang/live2d-widget/autoload.js"></script>   <!-- 看板娘 -->
 	
-	<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.css">  <!-- doc官方引入 -->
-	<script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/gitalk.min.js"></script>
-	<script src="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.min.js"></script>  <!-- doc官方引入 -->
-	<script>  //JS中的gitalk
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css">
+    <script src="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js"></script>
+	<script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/gitalk.min.js"></script><!-- doc官方引入 -->
+	<div id="gitalk-container"></div>
+	<script>
 	  var gitalk = new Gitalk({
 	    clientID: 'b51c894fbe9c135cebe2', // GitHub Application Client ID
 	    clientSecret: '76d77d86985436ddb567a4bf68d4daef992c5d13', // GitHub Application Client Secret
@@ -69,6 +70,8 @@
 		title: location.hash.match(/#(.*?)([?]|$)/)[1],  //标题
 	    id: location.hash.match(/#(.*?)([?]|$)/)[1],     // 用于标记评论是哪个页面的，确保唯一，并且长度小于50
 	  })
+	  
+	  gitalk.render('gitalk-container')
 	</script>
 	<script>
 	  window.onhashchange = function(event){   //监听hash
@@ -76,7 +79,6 @@
 		  location.reload()
 		}
 	  }
-	  gitalk.render('gitalk-container');    // 渲染Gitalk评论组件
 	</script>
 	
 </body>
