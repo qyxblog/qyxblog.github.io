@@ -1,0 +1,577 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>MaxLenの博客站</title>
+  
+  <subtitle>硬核极客的自留地</subtitle>
+  <link href="https://qyxblog.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://qyxblog.github.io/"/>
+  <updated>2021-10-04T08:03:34.360Z</updated>
+  <id>https://qyxblog.github.io/</id>
+  
+  <author>
+    <name>MaxLen</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>纯纯写作：安卓端最棒的写作应用</title>
+    <link href="https://qyxblog.github.io/2021/10/04/%E7%BA%AF%E7%BA%AF%E5%86%99%E4%BD%9C/"/>
+    <id>https://qyxblog.github.io/2021/10/04/%E7%BA%AF%E7%BA%AF%E5%86%99%E4%BD%9C/</id>
+    <published>2021-10-04T07:54:00.127Z</published>
+    <updated>2021-10-04T08:03:34.360Z</updated>
+    
+    <content type="html"><![CDATA[<p>纯纯写作本身和它背后的一些事</p><span id="more"></span><hr><h3 id="😀前言"><a href="#😀前言" class="headerlink" title="😀前言"></a>😀前言</h3><p>这篇文章可能和以往一点点不一样，你现在看的是我们的全新定位：Pure类型的文章，Pure相比普通文章，更多的是思考，是深度。</p><p>朋友们，写这篇文章我写得可以说是底气十足，因为我通过播客这个小众渠道了解到了开发者的很多思想，所以说这篇文章可以说是对纯纯写作及其开发者的深度解构。</p><p>这篇文章不会对纯纯写作的功能有过多评价，我想和你聊聊纯纯写作背后的一些事。</p><hr><h3 id="⁉纯纯写作为何物"><a href="#⁉纯纯写作为何物" class="headerlink" title="⁉纯纯写作为何物"></a>⁉纯纯写作为何物</h3><p>纯纯写作是一款在安卓端有一定知名度的写作、记录APP。口号是和理念是：不丢失</p><hr><h3 id="🌵详细介绍"><a href="#🌵详细介绍" class="headerlink" title="🌵详细介绍"></a>🌵详细介绍</h3><h4 id="付费系统"><a href="#付费系统" class="headerlink" title="付费系统"></a>付费系统</h4><p>这款APP有付费系统，不过不付费也完全能用。</p><p>我接触纯纯写作是在2019/2019年期间，当时没有手机端写作的需求，所以用了没几天我就删了，当时的高级版好像只要5元还是9元，但是当时功能少，感觉不值，但没想到这是一款“理财产品”。后期有了很多功能，非常值。而现在纯纯写作的高级版价格已经飙到了100多元，哈哈。</p><p><img src="https://p.pstatp.com/origin/pgc-image/f2be42ff16e04ebfa3d680415977cb1d" alt="国庆特惠"></p><h4 id="为什么会有纯纯写作"><a href="#为什么会有纯纯写作" class="headerlink" title="为什么会有纯纯写作"></a>为什么会有纯纯写作</h4><p>纯纯写作的作者是“微软三剑客”之一——Drakeet。</p><p>其作者喜好在手机端写作，曾在少数派播客中提到：灵感转瞬即逝，来不及打开电脑，你第一时间想到的肯定是手机。但是作者曾经在手机端写的文章遇到了丢失的情况，于是这让作者萌生了自己开发一个写作工具的想法。加上作者收到过“字里行间”的邀请，曾受邀去协助开发一款编辑器，但由于安卓的种种限制，开发完成后的效果不尽人意，但是由此作者也积累了非常丰富的经验。</p><h4 id="纯纯写作的优势"><a href="#纯纯写作的优势" class="headerlink" title="纯纯写作的优势"></a>纯纯写作的优势</h4><p>安卓端的编辑器大致有两种类型：系统自带和第三方开发</p><p>但是系统自带的体验非常差，纯纯写作作者称“还没有IOS的十分之一好用”，而自己写一个第三方的又会导致性能很差劲，且安装包体积增大，微软的Word就是一个很好的例子。这也是为什么安卓端一直没有出现近乎完美的编辑器的原因。</p><p>但是纯纯写作做到了，它在系统编辑器上做了很多的魔改和优化，达到了安卓端数一数二且近乎iOS的完美体验。</p><p>纯纯写作流畅且美观，作者始终走在安卓的最前沿，纯纯写作早已率先支持安卓12 beta版且移植了很多的先进特性进纯纯写作，纯纯写作率先适配完美状态栏、沉浸虚拟按键、深色模式、MD、MD2等等先进特性。</p><p>我们都知道安卓打开APP后会先加载服务，再加载界面，而iOS则是先加载界面后加载服务，所以感觉上iOS比安卓快很多。但纯纯写作做了很多功夫，保证它的冷启动足够快，让你点开即可记录，不让珍贵的想法流失。<br><img src="https://p.pstatp.com/origin/pgc-image/d51cc743847d4d54917525743cdc3ec4" alt="纯纯写作的其它特性"></p><hr><h3 id="🎇入了！"><a href="#🎇入了！" class="headerlink" title="🎇入了！"></a>🎇入了！</h3><p>我强烈建议大家入手一个纯纯写作的高级版，这东西只会越来越贵。<br>其实你要明白一个理念：你用的这个软件，你只不过是在试用。当你觉得这软件不错时，你付费了，这才是开始了正真意义的使用。</p><p>纯纯写作作者说过：”遇到喜欢的东西就把它买下来，钱并不是真的花掉了，只是换一种方式，陪伴在你身边…”😋</p><hr><h3 id="🚗纯纯写作最近的进展"><a href="#🚗纯纯写作最近的进展" class="headerlink" title="🚗纯纯写作最近的进展"></a>🚗纯纯写作最近的进展</h3><p>作者表明电脑版正在完善，不再是作者一个人开发（精力有限），作者找了另一位精通电脑开发的小伙伴一起做，希望纯纯越来越好。</p><hr><h3 id="💘作者的痛"><a href="#💘作者的痛" class="headerlink" title="💘作者的痛"></a>💘作者的痛</h3><p>我搜集了很多资料，以证作者清白。</p><p>纯纯写作旧版遭人破解，作者之前说：纯纯写作不可能被破解。而这次的破解性质不同，你是APK层面的，而是直接使用了XP框架劫持Hook。<br>虽然后台早已报错，但作者没有在意，直至问题猖獗。</p><p>破解者正是：大圣净化</p><p>这是一款走在被起诉边缘的APP，可以净化广告、破解应用。</p><p>于是便触发了大圣和作者的冷战。</p><p>二人本是微信好友，且互相拉黑了。</p><p>作者给纯纯加入了Root扫描和XP框架扫描，并开始要求用户强制更新纯纯写作。</p><p>后来大圣下架了此功能，并关闭了VIP的售卖，并承诺1年后，大圣净化所有会员全部失效。此事算是有了个终结。</p><p>作者其实人很好，曾经有位酷安用户，学生党由于钱不够去联系开发者，希望5元购买纯纯写作，开发者直接同意。这样的善事开发者已经不是第一次了。</p><p>但后来的种种，让开发者的心境发生了巨大的改变。</p><p>作者的改变也引发出我们对于中国消费习惯的思考…</p><hr><h3 id="👵最后"><a href="#👵最后" class="headerlink" title="👵最后"></a>👵最后</h3><p>最后我希望你可以入坑一个纯纯写作。</p><p>哦对了，纯纯写作是安卓端最棒的Markdown编辑器，这篇文章全部由纯纯写作完成编写。</p><hr><h3 id="👍拓展推荐"><a href="#👍拓展推荐" class="headerlink" title="👍拓展推荐"></a>👍拓展推荐</h3><p><a href="https://www.xiaoyuzhoufm.com/episode/604a3f13ceabf4ca8cc5143d?s=eyJ1IjoiNjBiYzc0NzRlMGY1ZTcyM2JiZWUwYWZjIn0=">一派：与钟颖聊盗版：2019 年的地下黑产，居然都在这么玩儿</a></p><p><a href="https://www.xiaoyuzhoufm.com/episode/605af2b122311a69e7572923?s=eyJ1IjoiNjBiYzc0NzRlMGY1ZTcyM2JiZWUwYWZjIn0=">一派：碎片信息的收集与管理</a></p><hr><h3 id="📕参考资料"><a href="#📕参考资料" class="headerlink" title="📕参考资料"></a>📕参考资料</h3><p><img src="https://p.pstatp.com/origin/pgc-image/b0e27d3baf03484d93940a83caa0a526"><br><img src="https://p.pstatp.com/origin/pgc-image/25a9ad49769e43c7899c9b2a69360c71"><br><img src="https://p.pstatp.com/origin/pgc-image/a36635d0ec504837bac55de734f6d79f"><br><img src="https://p.pstatp.com/origin/pgc-image/7403ffc3bc3c4a04bb6014d02eb5a088"><br><img src="https://p.pstatp.com/origin/pgc-image/fbf420b9fed1429fbe4f82f14d4d3076"><br><a href="https://www.xiaoyuzhoufm.com/episode/604a3f13ceabf4ca8cc51438?s=eyJ1IjoiNjBiYzc0NzRlMGY1ZTcyM2JiZWUwYWZjIn0=">一派：你想在 Android 上完成一次纯粹的写作，先得确保稿子不会丢啊</a></p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;纯纯写作本身和它背后的一些事&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Pure" scheme="https://qyxblog.github.io/categories/Pure/"/>
+    
+    
+    <category term="纯纯写作" scheme="https://qyxblog.github.io/tags/%E7%BA%AF%E7%BA%AF%E5%86%99%E4%BD%9C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>上手实操：从Fluid到Icarus</title>
+    <link href="https://qyxblog.github.io/2021/10/03/%E6%8D%A2%E4%B8%BB%E9%A2%98/"/>
+    <id>https://qyxblog.github.io/2021/10/03/%E6%8D%A2%E4%B8%BB%E9%A2%98/</id>
+    <published>2021-10-03T06:34:22.024Z</published>
+    <updated>2021-10-04T07:52:39.310Z</updated>
+    
+    <content type="html"><![CDATA[<p>闲来无聊，给Hexo博客换个主题</p><span id="more"></span><hr><h3 id="🎨前言"><a href="#🎨前言" class="headerlink" title="🎨前言"></a>🎨前言</h3><p>今天无聊，看着这平淡无趣的博客主题，突然想换个主题</p><p><img src="https://i.bmp.ovh/imgs/2021/10/6ffbb519f78fa3d9.png" alt="2021.10.3时我的博客网站"></p><p>我突然想起了这个大佬</p><p><img src="https://i.bmp.ovh/imgs/2021/10/69a599902539974c.png" alt="Whatk大佬"></p><p>又想起了它的<a href="https://blog.whatk.me/">博客网站</a>：</p><p><img src="https://i.bmp.ovh/imgs/2021/10/5bdcc365bb939377.png" alt="长这个样子"></p><p>哎？好像还蛮不错的啊</p><p>所以我决定：换！</p><hr><h3 id="🚗过程"><a href="#🚗过程" class="headerlink" title="🚗过程"></a>🚗过程</h3><p>先安装它</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install -S hexo-theme-icarus</span><br></pre></td></tr></table></figure><p>然后启用它！</p><p>OK，搞定了。</p><p>这么简单？配置文件呢？</p><p>不管了，先本地预览一下！结果…</p><p><img src="https://i.bmp.ovh/imgs/2021/10/d7df34135bd601cd.png" alt="喜闻乐见的报错"></p><p>哈哈，貌似缺了个依赖包，装！</p><p><img src="https://i.bmp.ovh/imgs/2021/10/f7ff401519010d07.png" alt="配置包"></p><p>？？？不对啊！怎么长这个样！</p><p><img src="https://i.bmp.ovh/imgs/2021/10/e23eefc7f5bdf226.png" alt="本地预览"></p><p>然后我又到<a href="https://github.com/ppoffice/hexo-theme-icarus">他们的Github</a>上研究了一下，进入了<a href="https://github.com/ppoffice/hexo-theme-icarus">官方文档</a>。<del>所以我们要新建<code>_config.icarus.yml</code>文件</del>，哈哈，原来已经有一个了</p><p><img src="https://i.bmp.ovh/imgs/2021/10/2a4ac1ff7849c675.png" alt="已经存在了"></p><p>那我们就简单配置一下它，差不多了。</p><p>还是很简单的。</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;闲来无聊，给Hexo博客换个主题&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="折腾" scheme="https://qyxblog.github.io/categories/%E6%8A%98%E8%85%BE/"/>
+    
+    <category term="其它" scheme="https://qyxblog.github.io/categories/%E6%8A%98%E8%85%BE/%E5%85%B6%E5%AE%83/"/>
+    
+    
+    <category term="Hexo" scheme="https://qyxblog.github.io/tags/Hexo/"/>
+    
+    <category term="主题" scheme="https://qyxblog.github.io/tags/%E4%B8%BB%E9%A2%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>一些想法</title>
+    <link href="https://qyxblog.github.io/2021/09/25/%E6%83%B3%E6%B3%95/"/>
+    <id>https://qyxblog.github.io/2021/09/25/%E6%83%B3%E6%B3%95/</id>
+    <published>2021-09-25T09:17:10.290Z</published>
+    <updated>2021-10-04T07:43:56.469Z</updated>
+    
+    <content type="html"><![CDATA[<p>置顶必读！</p><span id="more"></span><hr><h3 id="🤓我想说"><a href="#🤓我想说" class="headerlink" title="🤓我想说"></a>🤓我想说</h3><p>额，写个博客站其实不是一个容易的事，这需要时间和精力，我是初二学生，人在覃怀，时间很紧（甚至2021年中秋没放假…），压力很大，每周能从百忙之中抽出一点时间写一篇文章就算奢求了…但是我每天都会有新点子，新想法。我想记下来、分享出去，但不久我就会忘记我的想法。</p><p>每当周末放学回家，我看着挤满安排的GTD计划本，又一想我的博客还没更新，且还有很多像写的东西没有写，我就会异常烦躁。</p><p>我希望以后自己可以慢下来。</p><p>慢下来…</p><p>希望不要那么急，希望自己有点耐心。</p><p>或许我们要思考的是：是否我们真的太快了？！</p><p>我希望能把更新速度放慢，把质量提高。</p><p>所以大家只要每月看一次RSS订阅，或者说翻一翻你的邮箱，看看这个急躁的学生是否更新了文章就行了。更新了就看看，图一乐，增技能，是吧？</p><hr><h3 id="😀还有"><a href="#😀还有" class="headerlink" title="😀还有"></a>😀还有</h3><p>我想把我的灵感记在这里，防止忘记它们，这些文章我会按顺序陆续补上。</p><hr><h3 id="📝以下就是我的灵感"><a href="#📝以下就是我的灵感" class="headerlink" title="📝以下就是我的灵感"></a>📝以下就是我的灵感</h3><ul><li>半份隐私捍卫指南</li><li>沁中见闻<ul><li>我来到了大沁中</li><li>打疫苗</li><li>餐厅真不辍</li><li>原班级的相聚</li><li>寝室说话一窝端</li><li>完蛋了！语文小测</li><li>脚又崴了</li><li>怎么是这个物理老师！</li><li>老卫还是那个老卫</li></ul></li><li>Nexmoe主题使用指南及如何写博客</li><li>吃个月饼还“杀人”</li><li>快生活？不妨慢一点</li></ul><hr><h3 id="😜再来个有意思的事"><a href="#😜再来个有意思的事" class="headerlink" title="😜再来个有意思的事"></a>😜再来个有意思的事</h3><p>你猜怎么了？！</p><p>我这篇文章写完了，但当时忘记保存了，没想到Typora也没有提醒我保存！</p><p>结果就是——文档丢了！气死了，又得重写。</p><p>我想：它有没有自动保存功能啊！防止再丢文档！</p><p>然后我就去看Typora的设置，真有！但是吸引我的是下面那个按钮：寻找丢失的文档。</p><p>没想到，真找到了！！！</p><p>厉害啊！</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;置顶必读！&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="记录" scheme="https://qyxblog.github.io/categories/%E8%AE%B0%E5%BD%95/"/>
+    
+    <category term="memo" scheme="https://qyxblog.github.io/categories/%E8%AE%B0%E5%BD%95/memo/"/>
+    
+    
+    <category term="想法" scheme="https://qyxblog.github.io/tags/%E6%83%B3%E6%B3%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>知乎月饼事件及对“低糖”的思考</title>
+    <link href="https://qyxblog.github.io/2021/09/25/%E6%9C%88%E9%A5%BC%E6%B8%85%E9%99%A4%E5%A4%A7V/"/>
+    <id>https://qyxblog.github.io/2021/09/25/%E6%9C%88%E9%A5%BC%E6%B8%85%E9%99%A4%E5%A4%A7V/</id>
+    <published>2021-09-25T03:01:30.036Z</published>
+    <updated>2021-10-04T07:51:25.329Z</updated>
+    
+    <content type="html"><![CDATA[<p>知乎月饼清除“大V”</p><span id="more"></span><hr><h3 id="😱这是发生啥了？！"><a href="#😱这是发生啥了？！" class="headerlink" title="😱这是发生啥了？！"></a>😱这是发生啥了？！</h3>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;知乎月饼清除“大V”&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="来点新鲜的" scheme="https://qyxblog.github.io/categories/%E6%9D%A5%E7%82%B9%E6%96%B0%E9%B2%9C%E7%9A%84/"/>
+    
+    
+    <category term="月饼" scheme="https://qyxblog.github.io/tags/%E6%9C%88%E9%A5%BC/"/>
+    
+    <category term="中秋" scheme="https://qyxblog.github.io/tags/%E4%B8%AD%E7%A7%8B/"/>
+    
+    <category term="低糖" scheme="https://qyxblog.github.io/tags/%E4%BD%8E%E7%B3%96/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>诚信</title>
+    <link href="https://qyxblog.github.io/2021/09/24/%E8%AF%9A%E4%BF%A1/"/>
+    <id>https://qyxblog.github.io/2021/09/24/%E8%AF%9A%E4%BF%A1/</id>
+    <published>2021-09-24T10:04:22.029Z</published>
+    <updated>2021-10-04T07:52:30.730Z</updated>
+    
+    <content type="html"><![CDATA[<p>随便唠唠诚信</p><span id="more"></span><hr><h3 id="引入"><a href="#引入" class="headerlink" title="引入"></a>引入</h3><p>诚信是立身之本。一个人如果失去了诚信，将在社会上没有立足之地。诚信是中华民族的传统美德，是社会主义核心价值观的重要内容，是做人的根本。古往今来，人们写出了很多关于诚信的名言和故事，由此可见诚信的重要性。</p><h3 id="那么，何为诚信？"><a href="#那么，何为诚信？" class="headerlink" title="那么，何为诚信？"></a>那么，何为诚信？</h3><p>诚信是由两个字组成的：“诚”与“信”。“诚”即真实，实在。“信”则不仅要求人们说话诚实可靠，切忌大话、空话、假话，而且要求做事也要诚实可靠。而“信”的基本内涵也是信守诺言、言行一致、诚实不欺。简单说诚信就是一个道德范畴，是公民的第二个“身份证”，是日常行为的诚实和正式交流的信用的统称。</p><h3 id="诚信的故事"><a href="#诚信的故事" class="headerlink" title="诚信的故事"></a>诚信的故事</h3><p>那么，我给大家分享一下诚信的小故事。</p><h4 id="曾子杀猪"><a href="#曾子杀猪" class="headerlink" title="曾子杀猪"></a>曾子杀猪</h4><p>曾子是孔子的学生，他博学多才，且十分注重修身养性，德行高尚。一次，他的妻子要到集市上办事，年幼的孩子吵着要去。妻子不愿带孩子去，便对他说：“等妈妈回来将家里的猪杀了给你吃。”孩子听了，非常高兴，不再吵着要去集市了。这话本是哄孩子说着玩的，过后，妻子便忘了。不料，曾子却真要杀猪。妻子说，“我是骗他的啊，你怎么当真呢！”曾参说：“孩子是不能欺骗的。孩子小，只得学习别人的样子，尤其是以父母作为生活的榜样。今天你欺骗了孩子，明天孩子就会欺骗你、欺骗别人。“</p><h4 id="商鞅的立木为信"><a href="#商鞅的立木为信" class="headerlink" title="商鞅的立木为信"></a>商鞅的立木为信</h4><p>春秋战国时，商鞅在主持变法。当时处于人心惶惶之际，为了树立威信，推进改革，商鞅下令在都城南门外立一根三丈长的木头，并当众许下诺言：谁能把这根木头搬到北门，赏金十两。围观的人不相信如此轻而易举的事能得到如此高的赏赐，结果没人肯出手一试。于是，商鞅将赏金提高到50金。重赏之下必有勇夫，终于有人站起将木头扛到了北门。商鞅立即赏了他五十金。商鞅这一举动，在百姓心中树立起了威信，而商鞅接下来的变法就很快在秦国推广开了。新法使秦国渐渐强盛，最终统一了中国。</p><h4 id="小结"><a href="#小结" class="headerlink" title="小结"></a>小结</h4><p>由此，我们可以看出诚信的重要性，那么如果社会没有诚信呢？</p><h3 id="社会失掉了诚信"><a href="#社会失掉了诚信" class="headerlink" title="社会失掉了诚信"></a>社会失掉了诚信</h3><p>社会必将失去基本的公平正义，而且人与人之间也就不会有基本的信任，失去了信任人本身存在也就失去了道德的支撑，没有了道德我们也就失去了生存的基本的进化之根！那必将是人类的灾难。</p><h3 id="守住身边的诚信"><a href="#守住身边的诚信" class="headerlink" title="守住身边的诚信"></a>守住身边的诚信</h3><p>所以我们更要诚实守信，答应别人的事说到做到，不欺骗他人！</p><hr><h3 id="🙌不装了"><a href="#🙌不装了" class="headerlink" title="🙌不装了"></a>🙌不装了</h3><p>这玩意是老师要求写的，我就顺手分享到博客上吧。</p><p><del>哈哈，你们不用说，我也觉得这个写的很烂，因为都是网上的东拼西凑的啊！</del></p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;随便唠唠诚信&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="记录" scheme="https://qyxblog.github.io/categories/%E8%AE%B0%E5%BD%95/"/>
+    
+    <category term="memo" scheme="https://qyxblog.github.io/categories/%E8%AE%B0%E5%BD%95/memo/"/>
+    
+    
+    <category term="诚信" scheme="https://qyxblog.github.io/tags/%E8%AF%9A%E4%BF%A1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Nexmoe主题的配置及如何写在博客中文章</title>
+    <link href="https://qyxblog.github.io/2021/09/07/nexmoe/"/>
+    <id>https://qyxblog.github.io/2021/09/07/nexmoe/</id>
+    <published>2021-09-07T10:34:38.280Z</published>
+    <updated>2021-10-04T07:47:00.370Z</updated>
+    
+    <content type="html"><![CDATA[<p>配置主题题，好烦烦</p><span id="more"></span><hr><h3 id="🖊前言"><a href="#🖊前言" class="headerlink" title="🖊前言"></a>🖊前言</h3><p>这个嘛…搭博客的教程鸽了…</p><p>不过我把他们拆分了，以后就是会给大家介绍一些主题，也带大家配置一下主题，这一篇我们接着上一篇的Nexmoe主题讲</p><p>没写完…因为开学了…先发一个半成品</p><p>10月3日补：嘿嘿，来填填坑喽！</p><hr><h3 id="👌Nexmoe配置"><a href="#👌Nexmoe配置" class="headerlink" title="👌Nexmoe配置"></a>👌Nexmoe配置</h3><p>怎么安装主题、部署博客之类的问题，<a href="https://qyxblog.github.io/2021/09/04/%E6%90%AD%E5%8D%9A%E5%AE%A2/">上一篇</a>都提过了，本篇不再赘述。</p><h4 id="代码高亮"><a href="#代码高亮" class="headerlink" title="代码高亮"></a>代码高亮</h4><p>我们经常需要在博客里分享一些含代码的技术文章，但Nexmoe默认不开启代码高亮，它也不在主题配置中显示，我们可以这样开启：</p><p>复制这一段代码：</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">highlight:</span><br><span class="line">  enable: true</span><br><span class="line">  hljs: true</span><br><span class="line">  auto_detect: true</span><br></pre></td></tr></table></figure><p>添加到<code>_config.yml</code>文件里，然后保存</p><p><img src="https://i.bmp.ovh/imgs/2021/10/589eaf359bacedd5.png" alt="代码高亮的开启"></p><p>完成！</p><h4 id="文章梗概"><a href="#文章梗概" class="headerlink" title="文章梗概"></a>文章梗概</h4><p>某些主题不需要自己配置这个，但是Nexmoe需要</p><p>你需要在文章中添加<code>&lt;!--more--&gt;</code>（注意换行）分割文章，这串代码上面的是梗概，下面的就是正文。</p><h4 id="评论"><a href="#评论" class="headerlink" title="评论"></a>评论</h4><p>这个主题支持很多评论系统，这里我选用Gitalk。</p><p>详细请参考Gitalk官方文档</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;配置主题题，好烦烦&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="折腾" scheme="https://qyxblog.github.io/categories/%E6%8A%98%E8%85%BE/"/>
+    
+    <category term="其它" scheme="https://qyxblog.github.io/categories/%E6%8A%98%E8%85%BE/%E5%85%B6%E5%AE%83/"/>
+    
+    
+    <category term="Hexo" scheme="https://qyxblog.github.io/tags/Hexo/"/>
+    
+    <category term="主题" scheme="https://qyxblog.github.io/tags/%E4%B8%BB%E9%A2%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>什么！竟然可以用电邮订阅本站！</title>
+    <link href="https://qyxblog.github.io/2021/09/06/%E7%94%B5%E9%82%AE/"/>
+    <id>https://qyxblog.github.io/2021/09/06/%E7%94%B5%E9%82%AE/</id>
+    <published>2021-09-06T03:17:36.881Z</published>
+    <updated>2021-10-04T07:48:55.372Z</updated>
+    
+    <content type="html"><![CDATA[<p>舒服了！</p><span id="more"></span><hr><p>就是这样的，和标题一样</p><p><a href="https://mailchi.mp/2f6ce4e5c3eb/maxlen">订阅地址</a></p><p>文章很短…</p><p>貌似国内访问不是很通畅，不过也还好啦！</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;舒服了！&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="折腾" scheme="https://qyxblog.github.io/categories/%E6%8A%98%E8%85%BE/"/>
+    
+    <category term="其它" scheme="https://qyxblog.github.io/categories/%E6%8A%98%E8%85%BE/%E5%85%B6%E5%AE%83/"/>
+    
+    
+    <category term="Hexo" scheme="https://qyxblog.github.io/tags/Hexo/"/>
+    
+    <category term="电子邮件" scheme="https://qyxblog.github.io/tags/%E7%94%B5%E5%AD%90%E9%82%AE%E4%BB%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Win 10完美深色2.0</title>
+    <link href="https://qyxblog.github.io/2021/09/06/Win%E5%AE%8C%E7%BE%8E%E6%B7%B1%E8%89%B22/"/>
+    <id>https://qyxblog.github.io/2021/09/06/Win%E5%AE%8C%E7%BE%8E%E6%B7%B1%E8%89%B22/</id>
+    <published>2021-09-05T23:24:23.017Z</published>
+    <updated>2021-10-04T07:52:12.534Z</updated>
+    
+    <content type="html"><![CDATA[<p>这回舒服了。</p><span id="more"></span><hr><h3 id="🖊前言"><a href="#🖊前言" class="headerlink" title="🖊前言"></a>🖊前言</h3><p>我之前写过一篇让Windows自动切换深色和浅色模式的文章，在那篇文章里，我们使用的是计划任务，但是它有一个缺点：比如说我把自动切换深色的时间设在18:00，那么如果我在18:00没开电脑，而在18:00后开了电脑，那么就不会自动切换深色模式，浅色模式的切换，缺点也是如此。</p><p>那么有没有更好的方案？</p><hr><h3 id="🤜第一式：Windows-Auto-Night-Mode"><a href="#🤜第一式：Windows-Auto-Night-Mode" class="headerlink" title="🤜第一式：Windows-Auto-Night-Mode"></a>🤜第一式：Windows-Auto-Night-Mode</h3><p>Windows-Auto-Night-Mode是一个在Github上开源的软件，意味着纯净、免费、不作恶。</p><p>安装界面多语言可选，但是没有中文，不过不用担心，安装完毕后，主界面是中文的。</p><p><img src="https://inews.gtimg.com/newsapp_ls/0/13952719874/0.png" alt="Windows-Auto-Night-Mode 主界面"></p><p>你可以通过<code>自定义时间</code>或者<code>日出至日落</code>来自动切换深色和浅色。</p><p>点击<code>应用程序</code>，可以进一步自定义</p><p><img src="https://inews.gtimg.com/newsapp_ls/0/13952725035/0.png" alt="应用程序配置"></p><p>最棒的是，它支持切换壁纸！我可以在白天使用浅色壁纸，在夜晚自动切换为深色壁纸！</p><p><img src="https://inews.gtimg.com/newsapp_ls/0/13952727308/0.png" alt="详细的设置里也并没有什么"></p><hr><h3 id="⚔第二式：Twinkle-Tray"><a href="#⚔第二式：Twinkle-Tray" class="headerlink" title="⚔第二式：Twinkle Tray"></a>⚔第二式：Twinkle Tray</h3><p>如果你是笔记本用户，你可以按动笔记本上的亮度切换，以此调整亮度</p><p>但如果你是台式机用户…是的，我知道你不想打开显示屏复杂的菜单去调亮度，所以就有了Twinkle Tray</p><p>和Windows-Auto-Night-Mode一样，它也在Github上开源。</p><p><img src="https://inews.gtimg.com/newsapp_ls/0/13952735150/0.png" alt="主界面"></p><p>首次使用，它会躲在你的托盘里。当你把鼠标移到它的图标上，再滚动滑轮时，电脑屏幕的亮度也会跟着改变。</p><p>点击托盘图标也可以调亮度。</p><p><img src="https://inews.gtimg.com/newsapp_ls/0/13952748526/0.png" alt="这个风格仿Windows10，基本无割裂"></p><p>它还支持根据时间自动切换显示屏的亮度</p><p><img src="https://inews.gtimg.com/newsapp_ls/0/13952738007/0.png" alt="定时调整亮度"></p><p>当然也少不了快捷键控制亮度，笔记本般的体验！</p><p><img src="https://inews.gtimg.com/newsapp_ls/0/13952741356/0.png" alt="快看！是快捷键!"></p><p>值得一提的是，Twinkle Tray对多显示器有着较好的支持。</p><hr><h3 id="📕总结"><a href="#📕总结" class="headerlink" title="📕总结"></a>📕总结</h3><p>有了这两款应用，你的电脑基本就可以实现完美的Dark Mode了！</p><hr><h3 id="🏠资源下载"><a href="#🏠资源下载" class="headerlink" title="🏠资源下载"></a>🏠资源下载</h3><p><a href="https://github.com/AutoDarkMode/Windows-Auto-Night-Mode/releases/tag/3.0">Windows-Auto-Night-Mode</a></p><p><a href="https://twinkletray.com/">Twinkle Tray</a></p><hr><h3 id="📃参考资料"><a href="#📃参考资料" class="headerlink" title="📃参考资料"></a>📃参考资料</h3><p><a href="https://github.com/AutoDarkMode/Windows-Auto-Night-Mode">Windows-Auto-Night-Mode Github</a></p><p><a href="https://topbook.cc/overview/9?selectedArticle=1892">想让Windows更好用，来把这几件事做好</a></p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;这回舒服了。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="折腾" scheme="https://qyxblog.github.io/categories/%E6%8A%98%E8%85%BE/"/>
+    
+    <category term="电脑" scheme="https://qyxblog.github.io/categories/%E6%8A%98%E8%85%BE/%E7%94%B5%E8%84%91/"/>
+    
+    
+    <category term="Windows" scheme="https://qyxblog.github.io/tags/Windows/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>未加密的Git将不受支持</title>
+    <link href="https://qyxblog.github.io/2021/09/05/git%E5%A4%B1%E6%95%88/"/>
+    <id>https://qyxblog.github.io/2021/09/05/git%E5%A4%B1%E6%95%88/</id>
+    <published>2021-09-05T02:04:22.290Z</published>
+    <updated>2021-10-04T07:35:42.492Z</updated>
+    
+    <content type="html"><![CDATA[<p>摘自IT之家</p><span id="more"></span><hr><h3 id="🤒不好的消息"><a href="#🤒不好的消息" class="headerlink" title="🤒不好的消息"></a>🤒不好的消息</h3><p>刚刚把Github搭博客的文章写完，这边就出事了：</p><h4 id="Github-未加密的Git协议即将成为历史"><a href="#Github-未加密的Git协议即将成为历史" class="headerlink" title="Github:未加密的Git协议即将成为历史"></a>Github:未加密的Git协议即将成为历史</h4><blockquote><p>摘自IT之家</p></blockquote><p>Github发表博客，表示：将提高Github上的Git协议的安全性，将删除未加密的Git协议。</p><p>GitHub 官方宣布，正在更改 SSH 支持的密钥并删除未加密的 Git 协议，具体来说：</p><ul><li>取消对所有 DSA 密钥的支持</li><li>添加对新添加的 RSA 密钥的要求</li><li>删除一些旧的 SSH 算法（HMAC-SHA-1 和 CBC 密码）</li><li>为 SSH 添加 ECDSA 和 Ed25519 主机密钥</li><li>关闭未加密的 Git 协议</li></ul><p>GitHub 表示，这一改变仅影响使用 SSH 或 git:// 进行连接的仓库，以 https:// 开头的连接协议完全不受影响。</p><p>GitHub 官方认为，公钥密码术依赖于安全算法和足够强大的密钥来保持安全。“更少的位数”通常意味着“更容易暴力破解”，而较旧的算法也已经出现了攻击方式。考虑到计算能力的变化、新的攻击等，在 2001 年被认为是安全的密钥，今天可能不再安全了。</p><p>IT之家了解到，GitHub 在上个月还宣布取消对 HTTPS 密码的支持，总之就是要确保 GitHub 用户数据的安全。官方表示，将继续观察使用 SHA-1 算法的 RSA 密钥，一旦出现风险或者过时，将向社区通报弃用它。</p><hr><h3 id="😀不过"><a href="#😀不过" class="headerlink" title="😀不过"></a>😀不过</h3><p>不过我教你们的方法恰好不是SSH</p><hr><h3 id="📕总结"><a href="#📕总结" class="headerlink" title="📕总结"></a>📕总结</h3><p>请大家放心！Github对SSH的封禁完全不影响我们继续建网站！</p><hr><h3 id="🗄参考资料"><a href="#🗄参考资料" class="headerlink" title="🗄参考资料"></a>🗄参考资料</h3><p><a href="https://www.ithome.com/0/573/502.htm">GitHub：未加密的 Git 协议即将成为历史</a></p><p><a href="https://github.blog/2021-09-01-improving-git-protocol-security-github/">Improving Git protocol security on GitHub</a></p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;摘自IT之家&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="来点新鲜的" scheme="https://qyxblog.github.io/categories/%E6%9D%A5%E7%82%B9%E6%96%B0%E9%B2%9C%E7%9A%84/"/>
+    
+    
+    <category term="Github" scheme="https://qyxblog.github.io/tags/Github/"/>
+    
+    <category term="SSH" scheme="https://qyxblog.github.io/tags/SSH/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>来免费搭个博客站</title>
+    <link href="https://qyxblog.github.io/2021/09/04/%E6%90%AD%E5%8D%9A%E5%AE%A2/"/>
+    <id>https://qyxblog.github.io/2021/09/04/%E6%90%AD%E5%8D%9A%E5%AE%A2/</id>
+    <published>2021-09-04T09:12:48.789Z</published>
+    <updated>2021-10-04T07:52:33.331Z</updated>
+    
+    <content type="html"><![CDATA[<p>上！一起搭网站！</p><span id="more"></span><hr><h3 id="📖前言"><a href="#📖前言" class="headerlink" title="📖前言"></a>📖前言</h3><p>没有错，没有错！MaxLen来教大家搭建博客站了！不需要任何编程基础，人人都可以有一个个人网站！</p><p>本教程主要讲的是Hexo，其它工具也类似，部署平台是Github。教程适用于Windows端，利用手机建站请另寻高明（也不会有人在手机上码字吧）。</p><hr><h3 id="🔧准备"><a href="#🔧准备" class="headerlink" title="🔧准备"></a>🔧准备</h3><p>我们需要三个东西：</p><ol><li><a href="https://nodejs.org/en/">Node</a></li><li><a href="https://git-scm.com/">Git</a></li><li><a href="https://github.com/">Github</a>账号</li></ol><p>如果没有Github账号请注册一个~</p><p>只不过啊，需要注意：以后你网站的网址就是你的Github账号名+github.io</p><p>所以注册的时候建议简短一些，并且好记一些，比如说我的Github账号就叫“qyxyyds”，哎~是不是很好记。</p><p>如果你的网络环境不能访问Github，请自行寻找访问的 <del>办法</del> 魔法（<del>WinXray是个很好的电脑工具</del>）</p><hr><h3 id="📦Hexo的配置"><a href="#📦Hexo的配置" class="headerlink" title="📦Hexo的配置"></a>📦Hexo的配置</h3><h4 id="简单配置"><a href="#简单配置" class="headerlink" title="简单配置"></a>简单配置</h4><p>新建一个文件夹，就叫它<code>blog</code></p><p>然后我们打开<code>CMD</code>（有<code>PowerShell</code>就用<code>PowerShell</code>）输入这样的命令：</p><p>（**下文中为了方便，我们一并把<code>CMD</code>和<code>PowerShell</code>叫做<code>终端</code>**）</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install -g hexo-cli</span><br></pre></td></tr></table></figure><p>进入刚刚新建的文件夹（也就是<code>blog</code>）</p><p>按住<kbd>Shift</kbd>，再按鼠标右键，选择在此处打开终端，<strong>依次</strong>执行以下指令：</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">hexo init mkhexo</span><br><span class="line">cd mkhexo</span><br><span class="line">npm install</span><br><span class="line">hexo s</span><br></pre></td></tr></table></figure><p>注意：在执行第三条命令的时候可能会这样</p><p><img src="https://i.bmp.ovh/imgs/2021/09/2d7997906d0e4d8a.png" alt="无关紧要的报错"></p><p>你不用慌啊，我是个过来人，当年我也是个小白，啊。这个的意思是说你的电脑缺mac环境，这玩意无关紧要，没事，不影响。</p><p>然后在浏览器里输入这个网址：<a href="http://localhost:4000/">http://localhost:4000</a></p><p>然后它应该会是这样子的</p><p><img src="https://i.bmp.ovh/imgs/2021/09/093a5801fdccd9c4.png" alt="网站雏形"></p><p>这就是你网站的样子。只不过还没完，这个网站目前还只有你一个人可以访问。待会啊，我们还需要给它部署到Github上，让所有网民都能访问。</p><h4 id="好看的主题"><a href="#好看的主题" class="headerlink" title="好看的主题"></a>好看的主题</h4><p>哎？你觉得网站怎么样？是不是很丑啊？</p><p>这时候就要说到主题了！这是Hexo的一大优势，有着丰富的主题生态。</p><p>主题这个东西呀，Hexo官网有三百多套，好看的就拿几套，持续维护的少之又少。</p><p>我也就给你们捡着那几个好看且还在维护的讲讲。</p><p>但由于时间和篇幅啊，咱今天先说一个主题——<a href="https://github.com/theme-nexmoe/hexo-theme-nexmoe">Nexmoe</a></p><p>他们制作团队也给出了<a href="https://nexmoe.com/">Demo</a>，感兴趣的可以看一下什么效果</p><p>行，啊~不多废话，咱们开始。</p><p>首先，把刚才运行的终端关掉，然后再在<code>mkhexo</code>文件夹里按住<kbd>Shift</kbd>+鼠标右键，在此处打开终端，依次执行以下指令：</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">npm i hexo-theme-nexmoe</span><br><span class="line">npm i --save hexo-wordcount</span><br></pre></td></tr></table></figure><p>执行完毕之后，你的文件夹里应该有这些文件（图标不一样没关系）：</p><p><img src="https://i.bmp.ovh/imgs/2021/09/a27036a52c5bd177.png" alt="mkhexo"></p><p>然后我们需要编辑<code>config.yml</code>文件，你可能会问：“不对啊MK，这是yml，不是txt，这咋编辑啊?”</p><p>哎~作为过来人，我告诉你：你去下载一个<a href="https://www.dcloud.io/hbuilderx.html">HBuilder</a>（或者VS Code，NotePad++都可以）</p><p>不要自作聪明用记事本编辑（我是逊，之前我用记事本，后面出了一大堆问题）</p><p>咱把这个文件打开啊，然后你往下翻翻，你找找，在一百来行的位置有个这玩意儿</p><p><img src="https://i.bmp.ovh/imgs/2021/09/bd532211a15f4770.png" alt="theme参数"></p><p>咱们把它后面的<code>landscape</code>改成<code>nexmoe</code>，然后点一下保存，点完保存就能把这个关了</p><p><img src="https://i.bmp.ovh/imgs/2021/09/019f4fa91a149f4b.png" alt="这样操作啊"></p><p>然后你再在终端里输入：</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo s</span><br></pre></td></tr></table></figure><p>浏览器打开 <a href="http://localhost:4000/">http://localhost:4000</a> 看看，看看啊，是不是不一样了？</p><p><img src="https://i.bmp.ovh/imgs/2021/09/58326f0804cf112b.png" alt="整完之后的样子"></p><p>剩下的站点配置交给你们自己琢磨了！</p><p>可以参考这两份资料：</p><p><a href="https://docs.nexmoe.com/">Nexmoe主题官方教程文档</a></p><p><a href="https://hexo.io/zh-cn/docs/">Hexo官方教程文档</a></p><p>整完之后记得在评论区交作业哦！</p><hr><h3 id="🖱Github的配置"><a href="#🖱Github的配置" class="headerlink" title="🖱Github的配置"></a>🖱Github的配置</h3><p>我们打开Github，新建一个仓库</p><p><img src="https://i.bmp.ovh/imgs/2021/09/952934e2a0bd2d9c.png" alt="新建仓库"></p><p>仓库的名字有要求：它必须是你的Github用户名+github.io</p><p>比如说我的Github账号名是<code>qyxyyds</code>，我的仓库名就叫<code>qyxyyds.github.io</code></p><p><img src="https://i.bmp.ovh/imgs/2021/09/31a761a0290e8e31.png" alt="仓库配置"></p><p>Ok，新建完成。</p><p>网上的Github搭网站教程普遍都是用git+ssh部署，但是我们不这样做，我们来整点邪门的：</p><p>下载并安装GitHub Desktop客户端</p><p>在Github Desktop里登录你的Github账号</p><p>我们选择克隆仓库</p><p><img src="https://files.catbox.moe/gddpel.png" alt="克隆你的仓库"></p><p>然后我们回到终端里，输入：</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">hexo c</span><br><span class="line">hexo g</span><br></pre></td></tr></table></figure><p>然后你会发现mkhexo文件夹里又多了一个文件夹，叫<code>public</code></p><p><img src="https://files.catbox.moe/0euuf7.png" alt="新文件夹"></p><p>我们把这个文件夹里的东西删完，让它变成空文件夹</p><p>然后我们打开Github Desktop</p><p>选择<code>URL</code></p><p>第一个框框如果里面有内容的话就不用改，如果没有内容我们就需要把仓库（就是那个我们之前新建的仓库）的git地址复制下来，填进去</p><p><img src="https://files.catbox.moe/ifj4fa.png" alt="复制git仓库地址"></p><p>然后在<code>Local path</code>里填那个<code>public</code>空文件夹的位置</p><p><img src="https://files.catbox.moe/bl1hhl.png" alt="Github Desktop 克隆配置"></p><p>点<code>Clone</code>就行，稍做等待，然后会进入一个这样的界面：</p><p><img src="https://files.catbox.moe/i31jzt.png" alt="Github Desktop 仓库的样子"></p><p>然后我们回到终端，输入：</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">hexo c</span><br><span class="line">hexo g</span><br></pre></td></tr></table></figure><p>然后你的Github Desktop就发生了神奇的变化，我们接着这样操作：</p><p><img src="https://files.catbox.moe/7x912p.png" alt="设置Github提交记录名"></p><p>再点击这个：</p><p><img src="https://files.catbox.moe/z8qwt3.png" alt="Push到Github"></p><p>稍做等待…</p><p>完成之后回到浏览器，刷新一下你的Github仓库</p><p><img src="https://files.catbox.moe/chyfjr.png" alt="Push完成"></p><p>看见了这些文件了吗？恭喜你！部署完成了！</p><p>再检查一遍Github Pages是否开启</p><p><img src="https://files.catbox.moe/tdknoy.png" alt="Github Pages设置"></p><p>现在你就可以访问自己的网站了！它的网址是：你的用户名+github.io</p><p>比如说我的用户名是<code>qyxyyds</code>，那我的网站地址就是<code>qyxyyds.github.io</code></p><hr><h3 id="🛠总结"><a href="#🛠总结" class="headerlink" title="🛠总结"></a>🛠总结</h3><p>怎么样是不是很简单？</p><p>恭喜你有了自己的网站！</p><p>写这篇文章真的很不容易，花了我2个小时…</p><p>其它的配置当成作业，整完之后在评论区交作业啊！</p><hr><h3 id="✒参考资料"><a href="#✒参考资料" class="headerlink" title="✒参考资料"></a>✒参考资料</h3><p><a href="https://docs.nexmoe.com/">Nexmoe主题官方文档</a></p><p><a href="https://hexo.io/zh-cn/docs/">Hexo官方帮助文档</a></p><p><a href="https://zhuanlan.zhihu.com/p/26625249">Github+Hexo搭建个人网站</a></p><p><a href="https://segmentfault.com/a/1190000017986794">超详细Hexo+Github Page搭建技术博客教程</a></p><p><a href="https://blog.gd1214b.icu/post/F2_C5EVQh/">解决Gridea同步失败问题</a></p><p><a href="https://blog.csdn.net/sinat_37781304/article/details/82729029">Hexo最全搭站教程</a></p><p><a href="https://github.com/theme-nexmoe/hexo-theme-nexmoe">Nexmoe主题Github开源主题</a></p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;上！一起搭网站！&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="折腾" scheme="https://qyxblog.github.io/categories/%E6%8A%98%E8%85%BE/"/>
+    
+    <category term="其它" scheme="https://qyxblog.github.io/categories/%E6%8A%98%E8%85%BE/%E5%85%B6%E5%AE%83/"/>
+    
+    
+    <category term="Hexo" scheme="https://qyxblog.github.io/tags/Hexo/"/>
+    
+    <category term="Github" scheme="https://qyxblog.github.io/tags/Github/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>出现了！RSS！</title>
+    <link href="https://qyxblog.github.io/2021/09/04/rss/"/>
+    <id>https://qyxblog.github.io/2021/09/04/rss/</id>
+    <published>2021-09-04T03:30:58.800Z</published>
+    <updated>2021-10-04T07:47:48.957Z</updated>
+    
+    <content type="html"><![CDATA[<p>Rss这个老家伙又复活了</p><span id="more"></span><hr><h3 id="👏关于RSS的喜讯"><a href="#👏关于RSS的喜讯" class="headerlink" title="👏关于RSS的喜讯"></a>👏关于RSS的喜讯</h3><p>现在您可以使用<a href="https://qyxblog.github.io/atom.xml">RSS</a>订阅我的博客啦！</p><hr><h3 id="🤔如何实现"><a href="#🤔如何实现" class="headerlink" title="🤔如何实现"></a>🤔如何实现</h3><p>因为本博客基于Hexo，Hexo已经有比较成熟的RSS插件，所以我们直接选用<a href="https://github.com/hexojs/hexo-generator-feed">hexo-generator-feed</a></p><p>在博客目录下打开终端，输入以下内容即可安装插件：</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo-generator-feed --save</span><br></pre></td></tr></table></figure><p>打开博客<strong>配置文件_config.yml</strong>，最底部输入：</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">feed:</span><br><span class="line">  type: atom</span><br><span class="line">  path: atom.xml</span><br><span class="line">  limit: false</span><br></pre></td></tr></table></figure><p>然后我们去修改themes，打开<strong>themes的_config.yml</strong>，在最底部输入：</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">rss: /atom.xml</span><br></pre></td></tr></table></figure><p>搞定，你的RSS地址就是“你的博客域名/atom.xml”</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;Rss这个老家伙又复活了&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="折腾" scheme="https://qyxblog.github.io/categories/%E6%8A%98%E8%85%BE/"/>
+    
+    <category term="其它" scheme="https://qyxblog.github.io/categories/%E6%8A%98%E8%85%BE/%E5%85%B6%E5%AE%83/"/>
+    
+    
+    <category term="RSS" scheme="https://qyxblog.github.io/tags/RSS/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>IPhone13支持卫星通信？我觉得你想多了</title>
+    <link href="https://qyxblog.github.io/2021/09/04/IPhone13%E5%8D%AB%E6%98%9F%E9%80%9A%E4%BF%A1/"/>
+    <id>https://qyxblog.github.io/2021/09/04/IPhone13%E5%8D%AB%E6%98%9F%E9%80%9A%E4%BF%A1/</id>
+    <published>2021-09-03T22:20:56.570Z</published>
+    <updated>2021-10-04T07:45:51.572Z</updated>
+    
+    <content type="html"><![CDATA[<p>到时候发布会结束别打我脸</p><span id="more"></span><hr><h3 id="👄网传信息："><a href="#👄网传信息：" class="headerlink" title="👄网传信息："></a>👄网传信息：</h3><blockquote><p>美国CNET科技资讯网站9月1日称，天风国际证券分析师郭明錤预测，即将发布的iPhone  13将支持低地球轨道卫星通信连接。“即使在没有4G或5G网络的环境下，用户只需打开iPhone  13的卫星通信链接，就通过手机搭载的卫通模块来通话和接发消息。”他还透露，最有可能与苹果公司合作的卫星通信公司是Globalstar，该公司是专注于提供高速互联网和其他服务的卫星网络企业之一，在近地轨道上拥有24颗卫星。号称有实力同SpaceX公司的“星链”卫星星座分庭抗礼。</p></blockquote><hr><h3 id="👀可能吗？"><a href="#👀可能吗？" class="headerlink" title="👀可能吗？"></a>👀可能吗？</h3><h4 id="先说结论"><a href="#先说结论" class="headerlink" title="先说结论"></a>先说结论</h4><p>现在网传普遍都是相信，我倒是觉得<strong>不大可能</strong></p><h4 id="从这个技术本身来讲"><a href="#从这个技术本身来讲" class="headerlink" title="从这个技术本身来讲"></a>从这个技术本身来讲</h4><p>卫星通信好像看起来离我们不远，经常在电影里出现，但你要知道：</p><p>接收卫星频段很简单（即GPS），但你要发射卫星频段比较困难</p><p>你回忆一下你用GPS的时候：是不是必须到室外才能接收到信号？</p><p>再回想一下电影里：是不是卫星通信的手机都像块“砖”。</p><p><img src="https://s.pc.qq.com/tousu/img/20210904/1823330_1630708825.jpg" alt="电影中的卫星通信"></p><p>并且手机想要发射频率是需要很多电量的（<del>苹果挨打吧你，就是不愿意把电池做大！</del>）</p><h4 id="再谈谈基带"><a href="#再谈谈基带" class="headerlink" title="再谈谈基带"></a>再谈谈基带</h4><p>咱们再来说说这个来自高通的“X60”基带，据说这个会是IPhone 13用的通信基带</p><p><img src="https://s.pc.qq.com/tousu/img/20210904/7578968_1630709051.jpg" alt="1ad0f53641afa23fd3b21b4baf2f72dc.jpeg"></p><p>但这个基带支持卫星通信？</p><p>抱歉，目前网传的是：X65支持卫星通信</p><p><img src="https://s.pc.qq.com/tousu/img/20210904/8413542_1630709176.jpg" alt="9597fe58d3cd3bff25f2c587f15d5ba4.jpeg"></p><p>但在我看来：X65卫星通信也不太靠谱，原因上文也说了</p><h4 id="还有报告的不专业性"><a href="#还有报告的不专业性" class="headerlink" title="还有报告的不专业性"></a>还有报告的不专业性</h4><p>再说这个报告里面谈到了：可与“SpaceX”公司分庭抗礼</p><p>乖乖，你知道星链是什么吗？</p><p>那玩意在中国是犯法的，在外国也只是给无法上网了偏远贫困地区用的。</p><h4 id="也离不了苹果本身的原因"><a href="#也离不了苹果本身的原因" class="headerlink" title="也离不了苹果本身的原因"></a>也离不了苹果本身的原因</h4><p>再说，IPhone之前拜英特尔基带所赐，地面通信还是个问题呢，就想搞卫星？</p><hr><h3 id="💥还有一些有趣的事"><a href="#💥还有一些有趣的事" class="headerlink" title="💥还有一些有趣的事"></a>💥还有一些有趣的事</h3><p>害，当这个报道爆出的时候：卫星通信的股票竟然涨了!</p><p><img src="https://s.pc.qq.com/tousu/img/20210904/1174739_1630711365.jpg" alt="股票大涨啦"></p><p>看来苹果的影响力还不小啊！</p><hr><h3 id="📕参考资料"><a href="#📕参考资料" class="headerlink" title="📕参考资料"></a>📕参考资料</h3><p><a href="https://baijiahao.baidu.com/s?id=1709832284045729294&wfr=spider&for=pc">iPhone 13能直接卫星通信？</a></p><p><a href="https://baike.baidu.com/item/%E5%8D%AB%E6%98%9F%E9%80%9A%E4%BF%A1/413212?fr=aladdin">卫星通信</a></p><p><a href="https://baijiahao.baidu.com/s?id=1709564851782755764&wfr=spider&for=pc">苹果将推出黑科技？iPhone13或支持卫星通信美股合作商一度暴涨60%（附股）</a></p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;到时候发布会结束别打我脸&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="来点新鲜的" scheme="https://qyxblog.github.io/categories/%E6%9D%A5%E7%82%B9%E6%96%B0%E9%B2%9C%E7%9A%84/"/>
+    
+    
+    <category term="苹果" scheme="https://qyxblog.github.io/tags/%E8%8B%B9%E6%9E%9C/"/>
+    
+    <category term="IPhone" scheme="https://qyxblog.github.io/tags/IPhone/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>那些好用的CDN图床们</title>
+    <link href="https://qyxblog.github.io/2021/09/03/%E5%9B%BE%E5%BA%8A/"/>
+    <id>https://qyxblog.github.io/2021/09/03/%E5%9B%BE%E5%BA%8A/</id>
+    <published>2021-09-03T08:49:16.716Z</published>
+    <updated>2021-10-04T07:52:47.352Z</updated>
+    
+    <content type="html"><![CDATA[<p>玩Hexo博客必不可少的当然是图床了！</p><span id="more"></span><hr><h3 id="👍站长啦图床"><a href="#👍站长啦图床" class="headerlink" title="👍站长啦图床"></a>👍站长啦图床</h3><p>别小看它，它内置了很多大厂的图床API哦！</p><p>内置图床一览：</p><p><strong>头条图床</strong></p><p><strong>腾讯图床</strong></p><p><strong>阿里图床</strong></p><p><strong>搜狗图床</strong></p><p><strong>58图床</strong></p><p><strong>华为图床</strong></p><p><strong>搜狗图床</strong></p><p><strong>侠聚图床</strong></p><p><strong>京东图床</strong></p><p>怎么样？强不强？</p><hr><h3 id="💪遇见图床"><a href="#💪遇见图床" class="headerlink" title="💪遇见图床"></a>💪遇见图床</h3><p>单张最大10MB，最多同时上传100张</p><hr><h3 id="❤ImgURL图床"><a href="#❤ImgURL图床" class="headerlink" title="❤ImgURL图床"></a>❤ImgURL图床</h3><p>Max个人比较喜欢的一个图床，游客每日最多10张，单张不超过5MB，支持<kbd>Ctrl</kbd>+<kbd>V</kbd>上传</p><hr><h3 id="🐖路过图床"><a href="#🐖路过图床" class="headerlink" title="🐖路过图床"></a>🐖路过图床</h3><p>图床界大佬，可能是最知名的免费图床</p><p>全球CDN加速, 支持外链, 原图保存, 最大单张支持10 MB</p><hr><h3 id="📕资源地址"><a href="#📕资源地址" class="headerlink" title="📕资源地址"></a>📕资源地址</h3><ol><li><p><a href="http://top.cnzzla.com/tuchuang/">站长啦图床</a></p></li><li><p><a href="https://www.hualigs.cn/">遇见图床</a></p></li><li><p><a href="https://imgurl.org/">ImgURL图床</a></p></li><li><p><a href="https://imgtu.com/">路过图床</a></p></li></ol>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;玩Hexo博客必不可少的当然是图床了！&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="折腾" scheme="https://qyxblog.github.io/categories/%E6%8A%98%E8%85%BE/"/>
+    
+    <category term="其它" scheme="https://qyxblog.github.io/categories/%E6%8A%98%E8%85%BE/%E5%85%B6%E5%AE%83/"/>
+    
+    
+    <category term="CDN图床" scheme="https://qyxblog.github.io/tags/CDN%E5%9B%BE%E5%BA%8A/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Windows应用商店的代替方案</title>
+    <link href="https://qyxblog.github.io/2021/09/03/%E4%BB%A3%E6%9B%BFWinStore/"/>
+    <id>https://qyxblog.github.io/2021/09/03/%E4%BB%A3%E6%9B%BFWinStore/</id>
+    <published>2021-09-03T08:27:21.124Z</published>
+    <updated>2021-10-04T07:49:46.348Z</updated>
+    
+    <content type="html"><![CDATA[<p>滚！Windows Store！</p><span id="more"></span><hr><h3 id="📘引入"><a href="#📘引入" class="headerlink" title="📘引入"></a>📘引入</h3><h5 id="什么鬼？Windows应用商店？你还敢用这玩意？"><a href="#什么鬼？Windows应用商店？你还敢用这玩意？" class="headerlink" title="什么鬼？Windows应用商店？你还敢用这玩意？"></a>什么鬼？Windows应用商店？你还敢用这玩意？</h5><p>俗话说：微软的东西不能碰，但是Windows自带的应用商店可以说是诚意满满（<del>主要是因为里面有很多UWP啊</del>）资源比较丰富，并且里面的UWP大多数轻量、纯净、好用。</p><h5 id="那你为什么要抛弃它？"><a href="#那你为什么要抛弃它？" class="headerlink" title="那你为什么要抛弃它？"></a>那你为什么要抛弃它？</h5><p>哎，那当然是因为Windows的自动更新啊！自动更新关闭后，商店就废废的啦！</p><h5 id="那我该怎么办？"><a href="#那我该怎么办？" class="headerlink" title="那我该怎么办？"></a>那我该怎么办？</h5><p>你别急，这篇文章就是解决这个问题的。</p><hr><h3 id="👂Store-RG，不错的镜像站"><a href="#👂Store-RG，不错的镜像站" class="headerlink" title="👂Store RG，不错的镜像站"></a>👂Store RG，不错的镜像站</h3><h4 id="用法介绍"><a href="#用法介绍" class="headerlink" title="用法介绍"></a>用法介绍</h4><p><img src="https://i.bmp.ovh/imgs/2021/08/939e773ada348159.png"></p><p>整个网页界面十分朴素，吼吼~</p><p>是不是一目了然？没错，这玩意小白一看都会用——输入链接即可</p><p>但是软件们还需要一些依赖库，下面我们慢慢讲~</p><h4 id="实例"><a href="#实例" class="headerlink" title="实例"></a>实例</h4><p>以这款HyPlayer为例</p><p><img src="https://i.bmp.ovh/imgs/2021/08/671fc59305fe2ab2.png"></p><p>只需要复制它在Windows Store中的<a href="https://www.microsoft.com/zh-cn/p/hyplayer/9n5td916686k?activetab=pivot:overviewtab">链接</a></p><p>就可以抓取到安装包了</p><p><strong>哎！别走啊，还没完呢！</strong></p><p>这些UWP是有<strong>各自的运行库</strong>的，这个网站也一并会把他们所需的运行库抓取下来，对应自己的电脑版本下载就好了哦</p><p><img src="https://i.bmp.ovh/imgs/2021/08/3fab10433786be2c.png"></p><h4 id="资源地址"><a href="#资源地址" class="headerlink" title="资源地址"></a>资源地址</h4><p><a href="https://store.rg-adguard.net/">Store RG</a></p><hr><h3 id="👅总结"><a href="#👅总结" class="headerlink" title="👅总结"></a>👅总结</h3><p>虽然需要下载运行库，很不方便，但也是一种目前已知可用的较完美代替了。  </p><p><del>否则你就给我开自动更新吧！</del></p><hr><h3 id="😎还有一个骚操作"><a href="#😎还有一个骚操作" class="headerlink" title="😎还有一个骚操作"></a>😎还有一个骚操作</h3><p>虽然一些应用在Windows应用商店里下架了，但只要你知道它的网址，你就依然可以下载哦！</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;滚！Windows Store！&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="折腾" scheme="https://qyxblog.github.io/categories/%E6%8A%98%E8%85%BE/"/>
+    
+    <category term="电脑" scheme="https://qyxblog.github.io/categories/%E6%8A%98%E8%85%BE/%E7%94%B5%E8%84%91/"/>
+    
+    
+    <category term="Windows" scheme="https://qyxblog.github.io/tags/Windows/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>让Windows 10自动切换深色模式</title>
+    <link href="https://qyxblog.github.io/2021/09/02/%E8%87%AA%E5%8A%A8%E6%B7%B1%E8%89%B2/"/>
+    <id>https://qyxblog.github.io/2021/09/02/%E8%87%AA%E5%8A%A8%E6%B7%B1%E8%89%B2/</id>
+    <published>2021-09-02T07:51:42.109Z</published>
+    <updated>2021-10-04T07:51:32.395Z</updated>
+    
+    <content type="html"><![CDATA[<p>自动任务so easy</p><span id="more"></span><hr><h3 id="🚗引入"><a href="#🚗引入" class="headerlink" title="🚗引入"></a>🚗引入</h3><p>Windows 10中，你可以手动在设置中切换浅色or深色模式，但不能自动切换</p><p>Windows 10中，还有一个夜间模式，但它并不是人们所理解的“夜间模式”，我更愿意称他为“护眼模式”。</p><p>那有没有办法让Windows 10自动切换深色模式呢？有两种方法。</p><hr><h3 id="⏲这个被你忽视的小功能：计划任务"><a href="#⏲这个被你忽视的小功能：计划任务" class="headerlink" title="⏲这个被你忽视的小功能：计划任务"></a>⏲这个被你忽视的小功能：计划任务</h3><h4 id="二分之一"><a href="#二分之一" class="headerlink" title="二分之一"></a>二分之一</h4><blockquote><p>打开<code>任务计划程序</code>，如果你不知道它在哪里可以找到，你可以使用<kbd>Windows</kbd>+<kbd>S</kbd>打开搜索找到它但这里我们依然提供它的路径：<code>控制面板 &gt; 所有控制面板选项 &gt; 管理工具</code>   </p></blockquote><p>点击”创建基本任务”</p><p><img src="https://i.bmp.ovh/imgs/2021/08/b2bc70ecb18ff789.png"></p><p><img src="https://i.bmp.ovh/imgs/2021/08/c46d9d49f3a9212f.png"></p><p><img src="https://i.bmp.ovh/imgs/2021/08/f0f0821586d62e72.png"></p><p><img src="https://i.bmp.ovh/imgs/2021/08/101645260cd0d4da.png"></p><p><img src="https://i.bmp.ovh/imgs/2021/08/a925587b4ab4384c.png"></p><p>在启动程序中，输入<code>reg.exe</code>，而参数则输入：</p><p><code>add HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\Themes\Personalize /v SystemUsesLightTheme /t REG_DWORD /d 0 /f</code></p><p><img src="https://i.bmp.ovh/imgs/2021/08/c516ce3897975ffa.png"></p><p>唉？你以为好了？其实还没好哦！这只是切换了Windows为深色，而应用还不是深色哦，依法炮制，我们再创建一个计划程序，在启动程序中同样输入 <code>reg.exe</code>，参数输入：</p><p><code>add HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\Themes\Personalize /v AppsUseLightTheme /t REG_DWORD /d 0 /f</code></p><p><strong>OK，至此，自动深色部分已经完成，接下来我们还需要让它自动变为浅色</strong></p><h4 id="其余的二分之一"><a href="#其余的二分之一" class="headerlink" title="其余的二分之一"></a>其余的二分之一</h4><p>我们依然依法炮制：在启动程序中同样输入 <code>reg.exe</code>，参数输入：</p><p><code>add HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\Themes\Personalize /v SystemUsesLightTheme /t REG_DWORD /d 1 /f</code></p><p>再创建另一个：在启动程序中同样输入 <code>reg.exe</code>，参数输入：</p><p><code>add HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\Themes\Personalize /v AppsUseLightTheme /t REG_DWORD /d 1 /f</code></p><h4 id="二分之二"><a href="#二分之二" class="headerlink" title="二分之二"></a>二分之二</h4><p>至此，自动开启or关闭深色模式的第一种方法就结束了！</p><hr><h3 id="更加快速简单的方法：Windows-Auto-Night-Mode"><a href="#更加快速简单的方法：Windows-Auto-Night-Mode" class="headerlink" title="更加快速简单的方法：Windows-Auto-Night-Mode"></a>更加快速简单的方法：Windows-Auto-Night-Mode</h3><blockquote><p>这玩意是开源的，也就是说它可以保证绝不耍流氓，代码透明、人人可见，绝无病毒！</p><blockquote><p>值得一提的是：MaxLenの博客站和随机波动博客站也是在Github上开源的哦！</p></blockquote></blockquote><p>这个应用在此就不多赘述，详见请看<a href="https://sspai.com/">少数派</a>的测评报告</p><p>下载地址：<a href="https://github.com/Armin2208/Windows-Auto-Night-Mode">Github</a> （国内直链稍微困难）</p><blockquote><p>图片来源：少数派</p></blockquote><p><img src="https://i.bmp.ovh/imgs/2021/08/4462a2a88dd4a19c.png"></p><hr><h3 id="👍总结"><a href="#👍总结" class="headerlink" title="👍总结"></a>👍总结</h3><p>OK，这篇教程到这里就结束了，但它们并不完美无缺，想要无割裂且完美的体验，只能等待微软官方的跟进。这个功能能否在Windows 11正式版上实现？以微软的尿性，我觉得很难。</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;自动任务so easy&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="折腾" scheme="https://qyxblog.github.io/categories/%E6%8A%98%E8%85%BE/"/>
+    
+    <category term="电脑" scheme="https://qyxblog.github.io/categories/%E6%8A%98%E8%85%BE/%E7%94%B5%E8%84%91/"/>
+    
+    
+    <category term="Windows" scheme="https://qyxblog.github.io/tags/Windows/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>卡巴斯基KES，你好丑，我要让你变成萌萌的卡巴酱</title>
+    <link href="https://qyxblog.github.io/2021/09/02/KES%E5%8D%A1%E5%B7%B4%E5%A8%98/"/>
+    <id>https://qyxblog.github.io/2021/09/02/KES%E5%8D%A1%E5%B7%B4%E5%A8%98/</id>
+    <published>2021-09-02T07:51:42.104Z</published>
+    <updated>2021-10-04T07:46:17.885Z</updated>
+    
+    <content type="html"><![CDATA[<p>嘿嘿嘿，自己动手，丰衣足食！</p><span id="more"></span><hr><h3 id="🦄适用版本"><a href="#🦄适用版本" class="headerlink" title="🦄适用版本"></a>🦄适用版本</h3><ul><li>测试版本：KES11.6<ul><li>听说KES11.7的UI会大改，所以可能只有11.6能用了啊</li></ul></li></ul><hr><h3 id="📚修改方法"><a href="#📚修改方法" class="headerlink" title="📚修改方法"></a>📚修改方法</h3><p>OK，直接扒开KES的安装目录，关闭卡巴斯基自我防护，退出卡巴斯基！</p><p>顺着skin摸下去，结果发现neutral中没有我想修改的文件，还有一个resources.zip没有爆破</p><p>最后瞄准了resources.zip</p><p>哈哈，果然在这里面</p><p>找到前人留下的卡巴酱，用画图覆盖一遍！</p><p><img src="https://s.pc.qq.com/tousu/img/20210827/9592070_1630031452.jpg" alt="卡巴娘.jpg"></p><p><del>啊啊，卡巴娘真的好可爱！萌出血！(/▽＼)</del></p><p>完成啦！效果如下！</p><p><img src="https://s.pc.qq.com/tousu/img/20210821/8227623_1629510096.jpg" alt="美化.png"></p><hr><h3 id="🚗美化文件下载"><a href="#🚗美化文件下载" class="headerlink" title="🚗美化文件下载"></a>🚗美化文件下载</h3><p>PS：使用方法和美化文件我已经发到了<a href="https://bbs.kafan.cn/thread-2215424-1-1.html">卡饭论坛</a>哦！</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;嘿嘿嘿，自己动手，丰衣足食！&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="折腾" scheme="https://qyxblog.github.io/categories/%E6%8A%98%E8%85%BE/"/>
+    
+    <category term="电脑" scheme="https://qyxblog.github.io/categories/%E6%8A%98%E8%85%BE/%E7%94%B5%E8%84%91/"/>
+    
+    
+    <category term="卡巴斯基" scheme="https://qyxblog.github.io/tags/%E5%8D%A1%E5%B7%B4%E6%96%AF%E5%9F%BA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>1582天，我与Emsisoft分道扬镳的故事</title>
+    <link href="https://qyxblog.github.io/2021/09/02/%E5%AE%8C%E6%95%B4%E7%89%88%E6%94%BE%E5%BC%83Emsisoft/"/>
+    <id>https://qyxblog.github.io/2021/09/02/%E5%AE%8C%E6%95%B4%E7%89%88%E6%94%BE%E5%BC%83Emsisoft/</id>
+    <published>2021-09-02T07:51:33.990Z</published>
+    <updated>2021-10-04T07:52:49.191Z</updated>
+    
+    <content type="html"><![CDATA[<p>有深度，很长</p><span id="more"></span><hr><h3 id="👋是时候离开并放弃-Emsisoft-了"><a href="#👋是时候离开并放弃-Emsisoft-了" class="headerlink" title="👋是时候离开并放弃 Emsisoft 了"></a>👋是时候离开并放弃 Emsisoft 了</h3><p>各位好，这将会是一篇我个人针对 Emsisoft 的抱怨与牢骚，<br>以及 Emsi 这间公司最近所发生的许多负面消息与现况，<br>因为文章写着写着结果变得相当的长，所以我决定改放在日志这边，<br>先在这里感谢能看完的朋友。</p><p>首先大家肯定会疑惑为什么我会突然想要放弃 Emsisoft ?<br>是什么原因让从 2017 年初拥护 Emsisoft 至今，<br>曾推荐 Emsisoft 给不少人使用的我，<br>会突然对 Emsi 这间公司感到极度失望甚至到了要放弃的地步 ?</p><p>答案是【诚信】。</p><p>当一间公司没了诚信，对于自己以往的承诺不再遵守， 并且将现有的用户视为草芥，<br>相信再怎么忠心的用户也都会感到反感。详情请容我慢慢细说 ~</p><hr><h3 id="😱我遇到了什么事情？"><a href="#😱我遇到了什么事情？" class="headerlink" title="😱我遇到了什么事情？"></a>😱我遇到了什么事情？</h3><p>大约在 20 多天前，也就是在今年的 8 月初，<br>我的 Emsisoft 软件突然遇到了个奇怪的请求，<br>也就是会时不时的跳出视窗，要求我重新验证我的授权码(KEY)，<br>一开始我并没有理会，将视窗关闭后其实也没有任何影响，<br>但几天后，弹窗次数开始多了起来，于是我在指示要求下， 重新验证了一次我的授权码(KEY)。</p><p>验证过程很顺利且通过了，但我的个人习惯是会再次做检查，</p><p>且软件正常不应该出现再次要求验证授权的要求。</p><p>于是我登入了已经许久没登入的 Emsisoft 的会员中心(Member Center)，<br>却惊讶的发现我刚刚验证过的授权码(KEY)从我的记名下直接消失了。</p><p>虽然授权(KEY)验证通过了，软件在更新上也毫无问题，<br>但授权码从我记名下消失显然是非常有问题的，于是我立刻透过电邮，将问题与细节状况，<br>将问题反馈给了官方的技术支持电邮 (<a href="mailto:&#x73;&#x75;&#x70;&#x70;&#x6f;&#x72;&#116;&#64;&#x65;&#x6d;&#x73;&#105;&#x73;&#111;&#102;&#x74;&#46;&#x63;&#x6f;&#x6d;">&#x73;&#x75;&#x70;&#x70;&#x6f;&#x72;&#116;&#64;&#x65;&#x6d;&#x73;&#105;&#x73;&#111;&#102;&#x74;&#46;&#x63;&#x6f;&#x6d;</a>)。，<br>却没想到这是导致我被迫离开 Emsisoft 的原因。</p><p>是的，是被迫。</p><hr><h3 id="🤔我的授权是怎么取得的-合法吗"><a href="#🤔我的授权是怎么取得的-合法吗" class="headerlink" title="🤔我的授权是怎么取得的 ? 合法吗 ?"></a>🤔我的授权是怎么取得的 ? 合法吗 ?</h3><p>这里就先解释一下我的 Emsisoft 授权是怎么来的。</p><p>首先简述一下 Esmi 以前曾经实施的奖励制度，<br>Emsi 在 2017 年初的时候为了推广自家知名度，<br>推出了所谓的推荐奖励，只要 Emsisoft 的使用者能透过自己的推荐连结，<br>每成功推广一个人安装 Emsisoft 在系统上，推荐者就能增加 30 天的授权时间。</p><p>而就这么刚好，2017 年中旬的时候，WannaCry 勒索软件在世界各地肆虐，<br>中港澳台也都是重灾区，恰好卡饭有篇评测文，将各家软件的库锁在 2016 年底，<br>来测试杀毒软件遇到未知威胁时，能否有效防护系统。</p><p>而 Emsisoft 在这项测试中表现亮眼，恰好我当时也在 Emsisoft 的试用期期间，<br>于是我在取得原作者同意后，将卡饭这篇文章，转载到其他论坛，<br>顺便放上了我个人的推荐连结。</p><p>卡饭的文章连结 : <a href="https://bbs.kafan.cn/thread-2089134-1-1.html">https://bbs.kafan.cn/thread-2089134-1-1.html</a><br>我转贴的连结 : <a href="https://www.mobile01.com/topicdetail.php?f=508&amp;t=5150528">https://www.mobile01.com/topicdetail.php?f=508&amp;t=5150528</a></p><p>没想到这篇评测文大受欢迎，我转贴到 Mobile01 的文章超过 30 万人次的观看次数。</p><p>且被再次转贴的次数多到数不清，还有几人因为我的推荐而购买了 Emsisoft，<br>让我成功累积更多的推荐奖励，结果意外的我的 Emsisoft 推荐奖励累积，<br>来到了惊人的 50 年左右，让我的授权有效期限来到了 206X 年。</p><p>在我惊讶之余，也担心我这样的推荐跟使用可能会让官方误以为我是滥用或作弊，<br>于是乎我自己主动去联系了 Emsi 官方，并找到了当时的销售领导/经理(Salse Manager)，<br>一位叫做 “ Thomas Ott “ 的人，这位 Thomas Ott 是当时负责 Emsi 所有授权、销售方面的领导主管。</p><p>这位 Thomas Ott 是位非常客气且有礼貌的人，<br>对于我的问题马上就给予了答案，在看完我的叙述及提供的相关资料与佐证后，<br>回覆中提到了对于我的成就感到惊讶，因为不是随随便便的人都能够让文章观看人数破 30 万人次，<br>更别说以个人身分推广超过百人去试用软件了。</p><p>也因此这位 Thomas Ott 还特定跟我说明，<br>他们内部特地为了我开了一次小小会议，讨论我的状况是否属于合法使用，<br>是否要承认我的授权(KEY)合法性， 经过讨论，他们认为我使用上完全合法且依照他们的规则，<br>所以没有理由拒绝我， 于是我正式且合法拥有了一个时间长得不像话的 Emsisoft 软件授权(KEY)。</p><p>在收到回信后我非常的感谢他，不过我也提出了个意见，<br>我认为我的授权长到 206X 年实在不太可能用的完，恰好我又有桌上型与笔记型两台设备，<br>于是我厚着脸皮提出了个想法，询问 Thomas Ott，Emsi 是否能允许我，<br>将原先 206X 年，但只能用在一台设备上的授权，将时间缩减一半，<br>但将设备数量由原先的一台，改为两台设备 ?</p><p>没想到 Thomas Ott 很快就给回应了，他表示 Emsi 非常乐意替我这么做，<br>所以在我收到电邮回信当下，我的授权码就已经完成修改，<br>从原先的 206X 年，变成 2030 年，但可以供两台设备使用。</p><p>下面这张撷图就是我与 Thomas Ott 的对话纪录撷图之一，<br>官方肯定并证实我的授权合法性，并可使用至 2030 年 10 月。</p><p><a href="https://i.loli.net/2021/08/28/ngDv9T7OaK8JZ5p.png%22+target=%22_blank%22+target=%22_blank%22+target=%22_blank%22+target=%22_blank"><img src="https://i.loli.net/2021/08/28/ngDv9T7OaK8JZ5p.png" alt="img"></a></p><p><a href="https://i.loli.net/2021/08/28/rD5LpaNqeKhbTzU.jpg%22+target=%22_blank%22+target=%22_blank%22+target=%22_blank%22+target=%22_blank"><img src="https://i.loli.net/2021/08/28/rD5LpaNqeKhbTzU.jpg" alt="img"></a></p><p>图片中甚至还特地注明，为了避免未来其他 Emsi 客服误以为我授权是滥用，<br>所以已经在授权系统旁边注记我的特殊状况，避免未来被误解、黑名单。</p><p>这里说一下 Thomas Ott 这位客服(销售经理)的印象非常好，除了态度非常好之外也非常贴心，<br>我曾跟他反应过我收到他的回信后，都已经是台湾时间大约清晨的两三点了，<br>常常因为这样所以我们信件往返之间都会浪费不少时间。</p><p>在得知这件事情后，Thomas Ott 主动告知他住在奥地利，而他习惯早上进办公室时先处理公务，<br>下午才开始回覆客户电邮，但得知我的状况后，他特地修改他的工作流程，<br>每天进办公室后先回覆我的电邮，之后才处理其他事情，<br>这样我就能在晚上 12 点以前收到他回覆的信件。</p><p>这点非常让人感到贴心，如此重视服务，也难怪许多人，<br>包含欧美地区的 Emsisoft 用户都赞美过 Emsi 的客服服务态度与质量很好。</p><hr><h3 id="🤯为什么我的合法授权突然被黑名单"><a href="#🤯为什么我的合法授权突然被黑名单" class="headerlink" title="🤯为什么我的合法授权突然被黑名单 ?"></a>🤯为什么我的合法授权突然被黑名单 ?</h3><p>以上时间都是在 2017 年，但我们把时间拉回到 2021 年吧，<br>很遗憾的是， Thomas Ott 这位亲切的人在 2019 年的时候，<br>因为个人因素从 Emsi 离职了，而授权方面的事宜则由另一位，<br>叫做 “ Fabio Di Bari “ 的人在接手处理。</p><p>时间回到今年的 8 月初， 我遇到了文章开头时所提到的授权在会员中心消失的问题，<br>当我将这件事情的详细经过与状况，透过官方的电邮反馈后，<br>并不意外的，由这位 Fabio Di Bari 来处理我的问题。</p><p><a href="https://i.loli.net/2021/08/28/CwhFKHglUdXN7kB.png%22+target=%22_blank%22+target=%22_blank%22+target=%22_blank%22+target=%22_blank"><img src="https://i.loli.net/2021/08/28/CwhFKHglUdXN7kB.png" alt="img"></a></p><p>但完全没想到这位 “ Fabio Di Bari “ 处理方式让我傻眼，<br>他非但没有试图找出问题或询问我问题细节，<br>也完全没有做任何说明，信件内只莫名其妙简单一句话，<br>声称我的授权是违法滥用所获得，所以授权已全数被他 terminated (终结、作废、拉黑)。<br>信件内完全没有做出其他解释或说明。</p><p>这让我非常的讶异，因为我的授权不但是合法取得，<br>且也早已在 2017 年时，通过 Emsi 官方的认证跟保证，<br>现在却在未说明、未查证的状况下直接把我序号作废 !?<br>更何况这与我原先提出的授权从会员中心消失的问题，是毫无关联的 !</p><p>由于我在突然毫无理由且未经查证状况下被黑名单，<br>于是乎我立刻回信给 Emsi 抗议，结果回信给我的人依然是这位 “ Fabio Di Bari “。</p><p>当时我在信件内附上了当初我与 Emsi 官方(也就是 Thomas Ott) 之间的交谈纪录撷图，<br>以证明我是正当且经过官方审核后认证的合法使用者，却没想到换来的仍是他的这么一句话 :</p><p>“ 请你付费购买全新的授权并提供购买证明，否则将不再提供你服务 “。</p><p>这简直让我气极了，这家伙不但没试图解决我的问题，<br>连我提出之前 Emsi 官方自己所做出的承诺跟相关证据也故意当作没看到，<br>完全刻意无视也不提出任何理由，还大言不惭的直接要求我再花钱买新的，<br>不然不继续服务了 !?</p><p>于是当我发现我跟这个人完全没有办法沟通时，<br>我当下提出要求请 Emsi 的领导(manager)来处理我的问题，<br>并对这位 Fabio Di Bari 做出投诉的抗议。</p><hr><h3 id="😡Emsi-突然翻脸不认人，背弃诺言且完全把客户当空气"><a href="#😡Emsi-突然翻脸不认人，背弃诺言且完全把客户当空气" class="headerlink" title="😡Emsi 突然翻脸不认人，背弃诺言且完全把客户当空气 ?"></a>😡Emsi 突然翻脸不认人，背弃诺言且完全把客户当空气 ?</h3><p>Emsi 的客服部门领导(经理、customer lead)，之前都是一位叫做 David Biggar 的人在担任，<br>他也是我比较熟悉的人，从 2017 年开始使用 Emsisoft 至今，<br>许多软件使用上的问题、意见、Bugs 反馈，都是这位 David Biggar 在与我接洽，<br>我们之间电邮的次数多到数不清。<br>而这位 David Biggar 在我印象中也是个态度良好且负责任的人，<br>许多问题反馈给他后， 都能很快、有效率的获得解决。</p><p><a href="https://i.loli.net/2021/08/28/FAb1VGOostJCB7p.jpg%22+target=%22_blank%22+target=%22_blank%22+target=%22_blank%22+target=%22_blank"><img src="https://i.loli.net/2021/08/28/FAb1VGOostJCB7p.jpg" alt="img"></a></p><p>但没想到，我回信抗议并要求由管理层来处理后，<br>将近 10 天过去了，我没有收到任何回应 !<br>我的投诉就真的如这位 Fabio Di Bari 所说，<br>Emsi 刻意不再回信或处理我的问题， 如同石沉大海，真的完全不给任何回应。</p><p>这让我非常讶异，因为就 Emsi 以前的对客户的态度及表现来看，<br>他们非常重视客户体验，绝对不会让这种事情发生。</p><p>在迟迟没有收到回信后，我尝试了所有我所知道的方式，<br>官方电邮、软件反馈功能、官方论坛私讯、官方网站的 Live Chat、Emsisoft 的官方 Facebook，<br>要求能够与 David Biggar 这位 Manager (领导/主管)联系上，并解决我的授权问题，<br>却全部都没有回应，而 Facebook 的讯息也显示对方已经看到并阅读过讯息，但就是不回应(已读不回)。<br>我分别在 8 月 13 与 17 日，发了两封讯息到官方的 Facebook 上面，<br>系统提示其实讯息都已经被读取， 但就是刻意不给任何回应。</p><p><a href="https://i.loli.net/2021/08/28/BPtGaXfFoveZUEJ.png%22+target=%22_blank%22+target=%22_blank%22+target=%22_blank%22+target=%22_blank"><img src="https://i.loli.net/2021/08/28/BPtGaXfFoveZUEJ.png" alt="img"></a></p><hr><h3 id="😢Emsi-突然改变，背后可能有问题"><a href="#😢Emsi-突然改变，背后可能有问题" class="headerlink" title="😢Emsi 突然改变，背后可能有问题 !"></a>😢Emsi 突然改变，背后可能有问题 !</h3><p>于是乎我开始查证到底 Emsi 发生了什么事，<br>我从官方论坛发现不少端倪，一经追查发现，<br>恐怕 Emsi 这间公司出现了翻天覆地的变化。</p><p>首先是官方论坛的撷图 :</p><p><a href="https://i.loli.net/2021/08/28/jMTvZRVHNqnSbmB.png%22+target=%22_blank%22+target=%22_blank%22+target=%22_blank%22+target=%22_blank"><img src="https://i.loli.net/2021/08/28/jMTvZRVHNqnSbmB.png" alt="img"></a></p><p>从撷图各位可以看到 从 2021 年的五月底左右开始，</p><p>许多的文章、帖子都不再有官方人员出面回应，</p><p>大多数变成其他用户来志愿回答问题。</p><p>这点很不寻常，如果客服系统有正常运作，</p><p>绝大多数的文章都应该会有官方人员出面回应或协助，<br>譬如撷图中的 “ GT500 “ 就是官方人员之一。</p><p>这位 GT500 虽然我不是很熟悉，<br>但在论坛上交流过数次，至少我认为是一位合格的客服，<br>对于客户提出的技术性问题也都能给予答覆或解决方案。</p><p>但奇怪的是这位 GT500 从五月底后就彻底消失在官方论坛上，<br>于是我在官方论坛上提出质疑后，没多久就收到了来自官方论坛，<br>其他的 Emsisoft 用户发来的私人讯息。</p><p>这位用户提到他跟我一样，对于 Emsi 近期的服务质量突然大幅下降非常有感，<br>并且告知我，根据他查询，透过 LinkedIn(领英) 服务，找到了 GT500 的个人页面，<br>他上面竟然显示七月后他已经不再是 Emsi 员工，目前失业中。(是离职还是被离职不得而知)</p><p><a href="https://i.loli.net/2021/08/28/p8wqCX3zPvaVlH4.png%22+target=%22_blank%22+target=%22_blank%22+target=%22_blank%22+target=%22_blank"><img src="https://i.loli.net/2021/08/28/p8wqCX3zPvaVlH4.png" alt="img"></a></p><p>这让我相当讶异，GT500 应该算是 Emsi 有些年资的员工了，<br>即使不是担任核心成员只是个客服，但怎么就这样(被)离职了 ?</p><p>于是乎我开始慢慢查找，发现论坛上有几个看过且活跃的官方帐号都消失了，<br>这也代表着 Emsi 不只 GT500 ，而是有好几位的员工不是离职就是异动，<br>造成服务质量大幅下降，也难怪官方论坛中许多使用者的求助甚至长达数个月没人回应。</p><p>此时我也注意到让我更心寒的，在 Emsi 的官网中，<br>在自我介绍的页面里面有段文章是在介绍管理团队，<br>以前 David Biggar 的名子一直都在上面，并标示为 Head Of Support(领导/经理)，<br>但不知道何时，他的名子竟然被拿掉了， 换句话说，<br>David Biggar 迟迟至今没能给我回应，也连系不上，恐怕不是被开除就是被调离了。</p><p><a href="https://i.loli.net/2021/08/28/Stvz2d9Y73wmThp.png%22+target=%22_blank%22+target=%22_blank%22+target=%22_blank%22+target=%22_blank"><img src="https://i.loli.net/2021/08/28/Stvz2d9Y73wmThp.png" alt="img"></a></p><p>那现在客服领导/经理由谁接手呢 ?<br>一查真是让人傻眼了，竟然就是这个 Fabio Di Bari 接手，<br>现在变成了 “ Head Of Support “ !</p><p><a href="https://i.loli.net/2021/08/28/mQrl9ZEtHicFn23.png%22+target=%22_blank%22+target=%22_blank%22+target=%22_blank%22+target=%22_blank"><img src="https://i.loli.net/2021/08/28/mQrl9ZEtHicFn23.png" alt="img"></a></p><p>也许有人会问这位 Fabio Di Bari 究竟是何许人也 ?<br>事实上我也不清楚，介绍中提到他是罗马尼亚人，<br>在 2020 年的时候，曾有其他 Emsi 官方在官方论坛上提到，<br>他还只是一个 “one of our sales representatives “，<br>也就是说只是销售部门的其中一位职员(伙伴)而已。</p><p>但我们来看看 LinkedIn 上，Fabio Di Bari 他现在的自我介绍吧 :</p><p><a href="https://i.loli.net/2021/08/28/q3mX2nzJFCSR6Y8.jpg%22+target=%22_blank%22+target=%22_blank%22+target=%22_blank%22+target=%22_blank"><img src="https://i.loli.net/2021/08/28/q3mX2nzJFCSR6Y8.jpg" alt="img"></a></p><p>他在 Emsi 的职位与工作内容是这么写的 :<br>-——————-</p><ul><li><p>Head Of Support, Emsisoft, Feb 2021 - Present</p></li><li><p>Responsible over the whole Support department and operations.</p></li><li><p>Coordinates Emsisoft’s operations in harmony with Sales, Marketing and DevOps.</p></li><li><p>Set targets and monitor individual and team KPIs and introduce efficiency in the productivity </p><p> and optimization on the scheduling.</p></li><li><p>Ensures workload is spread optimally between staff and shifts managing risks </p><p> and responding to changing requirements.</p></li><li><p>Defines training and development strategies for the support department </p><p> and set guidelines and objectives for the group.</p></li><li><p>Responsible and Accountable for people management and development through mentoring and coaching.</p></li></ul><p>-——————-</p><p>简单来说，这个 Fabio Di Bari 在 2021 年 2月，从原先的职员，</p><p>突然飞身成了整个部门之间的主管(领导)，</p><p>并拥有调整营销、策略、客服与开发部门之间的协调等等工作。</p><p>所以当我查证到这里，心里大概也有个谱了，<br>为什么 Emsi 服务质量突然变得极差，过往的承诺与政策全数被推翻 ?<br>部分的老员工与管理层不是被离职就是被拔除管理职位 ?<br>为什么我一直无法联系到原先的客服支持部门的领导/主管来证明我的清白 ?<br>为什么官方一直刻意忽视我提出的证据与记录 ?<br>为什么所有的讯息都被已读不回，对于我的抗议与陈情置之不理 ?</p><p>答案显然很明显，原先有能力、服务好的客服都被消失了，自然服务质量就下降，<br>申诉或抗议也都无效，自然也是因为问题转来转去还是同一批人在处理。</p><p>百般无奈之下，我在官方论坛上公开发表并指责 Emsi 现在的服务质量变差，<br>对待客户无理，且毫无根据将使用者拉黑(黑名单)，我认为受到不公平的待遇。</p><p>而就在我发出抗议相关的文章出去后，</p><p>我就突然收到 “ 前任 “ 的客服部门的领导/经理(customer manager)，</p><p>也就是 David Biggar 给我的讯息，他明明十多天来都沒回应，</p><p>却在我公开提出指责抗议后，突然发讯息给我 ?</p><p>而这位 “ 前 “ 客服部门的领导/经理(customer manager)的回应也耐人寻味，<br>只有简单两句话，首先提到我的授权突然被终止(terminated)，<br>实际上是出自于 Emsi 的最高领导人，也就是 CEO 的意思。</p><p>Emsi 的 CEO 认为当初由推荐奖励所获得的授权码(KEY)，<br>不管之前的政策或承诺是什么，都不应该超过一定的时间，<br>所以给的指示就是将之前的承诺、活动奖励全都废除，不再承认，<br>违背承诺也无妨。<br>也因此最后这位 “ 前 “ 客服部门的领导/经理(customer manager)，<br>最后给我的一句话就是 “ 现在一切以 Fabio 所说的为主 “。</p><hr><h3 id="🙃所以-Emsi-还有发生其他问题吗-有其他-Emsisoft-用户感到不满吗"><a href="#🙃所以-Emsi-还有发生其他问题吗-有其他-Emsisoft-用户感到不满吗" class="headerlink" title="🙃所以 Emsi 还有发生其他问题吗 ? 有其他 Emsisoft 用户感到不满吗 ?"></a>🙃所以 Emsi 还有发生其他问题吗 ? 有其他 Emsisoft 用户感到不满吗 ?</h3><p>事实上还真的有，<br>在 2021 年的 2 月，Emsi 恰好被爆出发生了资安事件，<br>Emsi 公司的资料库被发现有资料外泄的情况发生，据报导指出有 14 位客户的电邮位置被窃走，<br>但 Esmi 自己的事后调查报告指出除了上述资讯疑似被窃走之外，<br>并没有其他损失，且事发当下立即做出了处置。</p><p>资安事件相关报导 :<br><a href="https://securityaffairs.co/wordpress/114444/data-breach/emsisoft-data-leak.html">https://securityaffairs.co/wordpress/114444/data-breach/emsisoft-data-leak.html</a><br><a href="https://www.securityweek.com/antivirus-firm-emsisoft-discloses-data-breach">https://www.securityweek.com/antivirus-firm-emsisoft-discloses-data-breach</a></p><p>Emsi 官方针对此次的回应 :</p><p><a href="https://blog.emsisoft.com/en/37707/incident-report/">https://blog.emsisoft.com/en/37707/incident-report/</a></p><p>是不是这件事造成部分员工离职或被离职 ?<br>是不是这件事造成管理团队与 CEO 之间有纠纷产生 ?<br>是不是这件事造成董事会给了经营原团队不少压力 ?<br>恐怕都不是我们一般用户能知道的了。</p><p>此外，在官方论坛上除了不少同为 Emsisoft 的用户都感到 Emsi 的服务质量大幅下降之外，<br>我也意外收到了其他用户发给我的私讯，信件中的 Emsi 用户提到他认识了另一位 Emsi 的资深用户，<br>她(对、是女生)平时在 Emsi 官方论坛担任测试员及志愿者，平常协助回应其他使用者的问题，<br>同时也是软件的 BETA 测试者。</p><p>以下是发讯息给我的这位会员，引述她对目前的看法跟评论，<br>我将一些回应原文简单翻译后的内文 :</p><ul><li><p>她认为 Emsisoft 现在的负责人似乎与她和我以前打交道的人大不相同。</p><p> 这是她在怀疑现在是否有人关心个人用户的另一种(委婉)说法。</p></li><li><p>她或多或少已停止在 Beta 版论坛上发帖……“因为没有意义”。</p></li><li><p>Emsisoft（曾经鼓励有技术头脑的用户成为 Beta 测试人员，并会向他们提供免费许可证）</p><p> 近年来 Emsi 减少了他们告诉测试人员的信息量，并且越来越不接受测试人员发表的评论。</p></li><li><p>我从来没有要求过免费许可，因为有几次我对问题说得很直白， 我不想觉得作为一个免费用户，</p><p> 我可能被鼓励不要批评。我想我宁愿保持完全的独立性。</p></li></ul><p>很明显的，Emsi 连平时协助的 BETA 测试人员也开始漠视，<br>不再正面看待这些人的过往的付出，难怪连资深的测试员也都开始感到心寒。</p><p>但事情就这样结束了吗 ? 其实不然， 更离谱的事情还在后面。</p><p>就在我收到 “ 前 “ 客服部门的领导/经理(customer manager)的讯息后，<br>我在 Emsi 的官方论坛帐户就突然直接被封锁(Banned)了。</p><p><a href="https://i.loli.net/2021/08/28/QBovhJVtHxONZSU.png%22+target=%22_blank%22+target=%22_blank%22+target=%22_blank%22+target=%22_blank"><img src="https://i.loli.net/2021/08/28/QBovhJVtHxONZSU.png" alt="img"></a></p><p>一样没有任何理由、没有警告、没有说明， 我就突然被禁止访问 Emsi 的官方论坛。</p><p>由于所有沟通管道都被官方刻意关闭了， 我还得靠浏览器的隐私模式 + 轻功工具，<br>重新注册了新的帐户， 再次进入了 Emsi 官方论坛。</p><p>我使用新帐号，用非常客气且有礼的方式询问关于原帐户的问题，<br>并询问是否有机回能取回我的帐户，<br>然而官方的回答，就是直接再次将我的新帐号封锁(Banned)，</p><p>即使我没有任何违规。</p><p><a href="https://i.loli.net/2021/08/28/AVUxurof9jd3LS2.jpg%22+target=%22_blank%22+target=%22_blank%22+target=%22_blank%22+target=%22_blank"><img src="https://i.loli.net/2021/08/28/AVUxurof9jd3LS2.jpg" alt="img"></a></p><p>-——————–</p><p>但这还不是最可怕的，在相隔了超过 24 小时之后，<br>我靠浏览器的隐私模式 + 轻功工具，在官方论坛却看到我无法置信的画面。</p><p>我原先在 Emsi 官方论坛的被封的帐户(KevinYu0504)竟然显示的是 “在线上”，<br>点击我帐户名称后，系统显示最后活跃时间为 10 来分钟前 !</p><p><a href="https://i.loli.net/2021/08/28/2Bf6geqoMWnQuYA.jpg%22+target=%22_blank%22+target=%22_blank%22+target=%22_blank%22+target=%22_blank"><img src="https://i.loli.net/2021/08/28/2Bf6geqoMWnQuYA.jpg" alt="img"></a></p><p><a href="https://i.loli.net/2021/08/28/GAgT4ScWYKFRpjm.jpg%22+target=%22_blank%22+target=%22_blank%22+target=%22_blank%22+target=%22_blank"><img src="https://i.loli.net/2021/08/28/GAgT4ScWYKFRpjm.jpg" alt="img"></a></p><p>这就让人感到匪夷所思甚至到让人恶心了，<br>我帐户已经被封锁超过 24 小时，我是没有任何方法可以使用我帐户的。</p><p>但为什么我帐户却是在线上且最后活动时间是还是 10 来分钟前 ?</p><p>有谁在使用我的帐户吗 ?</p><p>再次检视 Emsi 官方论坛上我的原帐户资讯，<br>可以注意到最后浏览我帐户的是两位 Emsi 现任的员工，<br>其中一位是将我授权码(KEY)拉黑的人，另一个则是负责管理 Emsi 论坛的员工。</p><p><a href="https://i.loli.net/2021/08/28/PEN83xVmHFvG1YJ.jpg%22+target=%22_blank%22+target=%22_blank%22+target=%22_blank%22+target=%22_blank"><img src="https://i.loli.net/2021/08/28/PEN83xVmHFvG1YJ.jpg" alt="img"></a></p><p>我在官方论坛上的原帐户内，私人讯息很多，<br>里面有其他会员跟我在讨论 Emsi 内部发生事情的纪录，<br>有我跟前客服经理/领导 David Biggar 的交谈纪录，<br>当然也包含了我对官方人员的无理态度的抱怨。</p><p>但现在我的帐户在我完全无法使用的状况下却能出现在线上，<br>最后浏览我帐户的人又恰好是 Emsi 的高阶员工跟主管，<br>这种巧合很难不让人产生联想。</p><hr><h3 id="🚶‍结论-Emsisoft-还能用吗-值得信赖吗"><a href="#🚶‍结论-Emsisoft-还能用吗-值得信赖吗" class="headerlink" title="🚶‍结论 ? Emsisoft 还能用吗 ? 值得信赖吗 ?"></a>🚶‍结论 ? Emsisoft 还能用吗 ? 值得信赖吗 ?</h3><p>首先就产品能力与效果这层面来看，Emsisoft 仍拥有目前数一数二的防护技术，<br>在软件与技术层面上应该还是能有不错的表现，且从经营团队的介绍来看，<br>技术大神 Fabian Wosar 仍然担任 Emsi 的 CTO(Chief Technology Officer) 职位，<br>所以在软件的技术上应该还不至需要担心。</p><p>但从我长期的用户来看，<br>Emsi 确实在近一两年左右鲜少对于一般个人用户端有做出让人耳目一新的变化，<br>反倒是不断着重在企业、远端方面的技术与改进(甚至广告跟宣传)，<br>似乎确实是不再注重一般个人用户的市场。</p><p>恰好之前卡饭论坛的 yiohar 相当的热心，向 Ashampoo 厂商询问事情的时候，<br>得知 Emsi 已经停止 OEM 的业务，不再接受给其他厂商来 OEM，<br>并透露出 Emsi 已经将经营重心转向商务 (Business) 的部分，<br>对比目前 Emsi 的所作所为跟状况，可信度很高。</p><p>相关讨论 :<br><a href="https://bbs.kafan.cn/thread-2214455-1-1.html">https://bbs.kafan.cn/thread-2214455-1-1.html</a></p><p>但就服务层面来看，那就是完全不及格，甚至根本就是提油救火。<br>先不论不少员工消失或离职导致服务质量下降，<br>连最基本的承诺与规则也都无视，说改就改、说变就变，<br>这对任何人或消费者来说都是没保障的。<br>今天他答应你了，明天就反悔，且还没得申诉，也没人能维权，<br>信赖与诚信荡然无存。最后甚至恼羞成怒，毫无理由的封锁了我，眼不见为净。</p><p>在看过我这样被官方 “ 对待 “ 后，你还能对 Emsi 现在的管理团队有信心吗 ?<br>所以就结论来说，我个人目前认为 Emsisoft 并不合适一般个人用户使用，完全不推荐。</p><p>不只是因为厂商变得没有诚信、食言、政策反覆之外，<br>公司突然出现人事上的异动，将以往的政策都推翻、无视之前的承诺等等，<br>不经让人怀疑是经营上出了什么大问题，且连管理现在都是乱七八糟。</p><p>至于已经购买或者授权时间还没到期的用户我觉得也不须担心，<br>至少 Emsi 短时间内还不至于倒闭消失，软件的更新与使用上也都很正常，<br>只不过未来几年 Emsi 会变成怎样就很难说，<br>毕竟现在 Emsi 对我来说是一间没有诚信的公司，<br>加上大多数使用者都有感售后服务质量大幅下降，<br>对待客户的方式既鲁莽又无理，<br>所以在考虑 Emsisoft 是否為值得付费的產品時，各位就要三思了。</p><hr><h3 id="♥精选评论"><a href="#♥精选评论" class="headerlink" title="♥精选评论"></a>♥精选评论</h3><blockquote><p>Emsi 以前被称赞的其中一部份，就是官方与用户之间没有距离感，<br> 顾客能感受到官方人员不再是冷冰冰的客服或机器，<br> 有问题通常都能在第一时间反馈到正确的人上。</p><p> 这也是为什么官方论坛往常都会有客服保持一定的服务水准。<br> 但现在 ….</p></blockquote><blockquote><p>确实有点店大欺人的感觉了<br> 把所有好的员工都炒了，只留下无赖 </p></blockquote><blockquote><p>账号被拉黑也就算了，结果还要私自登录你的账号也太离谱了叭？？？？？</p></blockquote><blockquote><p>出尔反尔，你给他推广产品，结果到头来竹篮打水一场空，什么离谱公司啊</p></blockquote><blockquote><p>难不成是CEO更换了？如果是这样，这个人真是个毫无底线的人渣啊！想了一下，自从特烂扑上台后，这个世界就好像变了一个样，西方人已经不再讲道德，可以做着无耻的事情仍然洋洋得意，连伪装都没有！</p><blockquote><p>应该是 CEO 的主意，而新团队的作法又极其粗暴，如果是好好跟我说明是 CEO 的主意，他无力改变，好好说明就算了。<br> 但新团队的做法显然不是，先随便抹黑说你是违规违法使用，<br> 翻脸不认人，甚至直接拉黑，才会让人这么不爽。</p></blockquote><blockquote><p>CEO 没变，同个人。但从背后人事异动跟单位领导都改变的状况来看，<br> 显然不是 CEO 吃错药这么简单而已。</p></blockquote></blockquote><hr><p>原文来自<a href="https://bbs.kafan.cn/home.php?mod=space&uid=499683&do=blog&id=11665">卡饭论坛</a></p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;有深度，很长&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="文章收藏" scheme="https://qyxblog.github.io/categories/%E6%96%87%E7%AB%A0%E6%94%B6%E8%97%8F/"/>
+    
+    
+    <category term="Emsisoft" scheme="https://qyxblog.github.io/tags/Emsisoft/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>卡巴斯基21.3.10.391发布了f补丁</title>
+    <link href="https://qyxblog.github.io/2021/09/02/%E5%8D%A1%E5%B7%B4%E6%96%AF%E5%9F%BA21.3.10.391f%E8%A1%A5%E4%B8%81%E5%8F%91%E5%B8%83/"/>
+    <id>https://qyxblog.github.io/2021/09/02/%E5%8D%A1%E5%B7%B4%E6%96%AF%E5%9F%BA21.3.10.391f%E8%A1%A5%E4%B8%81%E5%8F%91%E5%B8%83/</id>
+    <published>2021-09-02T07:51:33.988Z</published>
+    <updated>2021-10-04T07:52:41.809Z</updated>
+    
+    <content type="html"><![CDATA[<p>卡巴斯基f补丁发布及无法接受补丁的解决办法</p><span id="more"></span><hr><h3 id="📡官方说明"><a href="#📡官方说明" class="headerlink" title="📡官方说明"></a>📡官方说明</h3><p>卡巴斯基官方：</p><blockquote><p>在补丁 F 中，我们修复了几个应用程序问题。</p></blockquote><hr><h3 id="❎没接收到补丁怎么办？"><a href="#❎没接收到补丁怎么办？" class="headerlink" title="❎没接收到补丁怎么办？"></a>❎没接收到补丁怎么办？</h3><p>但是有很多朋友并没有接收到f补丁，卡饭论坛的解决办法：</p><blockquote><p>根据 pal大 说的补丁推送机制，Windows 用户只要删除卡巴的注册表值 UpdateTarget 的数据，大概可以让卡巴无视推送范围而强行接收补丁。我这里三台电脑都已经用这种方法更新 f 补丁 。</p><p>方法：<br>关闭自保，64 位系统导入压缩包中的 x64.reg，32 位系统导入压缩包中的 x86.reg，手动更新卡巴。</p><p>如果不想用我提供的 .reg 文件，那就找到 UpdateTarget，64 位系统在</p><p><code>HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\KasperskyLab\AVP19.0.0\environment</code>&gt;</p><p>32 位系统在</p><p><code>HKEY_LOCAL_MACHINE\SOFTWARE\KasperskyLab\AVP19.0.0\environment</code></p><p>删除 UpdateTarget 的<strong>数据</strong>即可</p><blockquote><p>解决方法原帖来自<a href="https://bbs.kafan.cn/forum.php?mod=viewthread&tid=2146795&page=6#pid43804056">卡饭论坛</a></p></blockquote></blockquote><hr><h3 id="💗精选评论"><a href="#💗精选评论" class="headerlink" title="💗精选评论"></a>💗精选评论</h3><blockquote><p>AMD CPU 硬件虚拟化蓝屏问题解决了吗？</p><blockquote><p>实测未解决</p></blockquote><blockquote><p>没</p><blockquote><p>这就是论坛里吹的很牛逼的卡巴斯基？这点小问题都解决不了？</p><blockquote><p>卡巴斯基杀毒确实厉害，但使用体验嘛……真的有点遭</p></blockquote></blockquote></blockquote></blockquote><hr><p>原文来自<a href="https://bbs.kafan.cn/thread-2214618-1-1.html">卡饭论坛</a></p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;卡巴斯基f补丁发布及无法接受补丁的解决办法&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="文章收藏" scheme="https://qyxblog.github.io/categories/%E6%96%87%E7%AB%A0%E6%94%B6%E8%97%8F/"/>
+    
+    
+    <category term="卡巴斯基" scheme="https://qyxblog.github.io/tags/%E5%8D%A1%E5%B7%B4%E6%96%AF%E5%9F%BA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Avast被收购后的新产品——Avast One</title>
+    <link href="https://qyxblog.github.io/2021/09/02/avastone/"/>
+    <id>https://qyxblog.github.io/2021/09/02/avastone/</id>
+    <published>2021-09-02T07:51:33.982Z</published>
+    <updated>2021-10-04T07:33:06.022Z</updated>
+    
+    <content type="html"><![CDATA[<p>这是个新东西啊</p><span id="more"></span><hr><h3 id="😲Avast-One"><a href="#😲Avast-One" class="headerlink" title="😲Avast One"></a>😲Avast One</h3><p>Avast One最近更新了21.7，并换了新界面！</p><p>什么？竟然是Avast稀有的非深色背景！<br>新界面(免费版)大概如下：</p><p><img src="https://i.bmp.ovh/imgs/2021/08/10a00917e61ec849.png"></p><hr><h3 id="♥精选评论"><a href="#♥精选评论" class="headerlink" title="♥精选评论"></a>♥精选评论</h3><blockquote><p>配色好看，以前是抑郁症的那种趋向，现在感觉是疗愈后的豁然开朗 。。。</p></blockquote><blockquote><p>还行吧，看惯了红伞其他的UI都好看</p></blockquote><blockquote><p>跟Avira一样，被NLL收购就有大动作嘛，有钱任性了么</p></blockquote><blockquote><p>模仿卡巴MR4吗</p></blockquote><blockquote><p>太温柔了吧！</p></blockquote><hr><p>原文来自：<a href="https://bbs.kafan.cn/thread-2215414-1-1.html">卡饭论坛</a></p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;这是个新东西啊&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="文章收藏" scheme="https://qyxblog.github.io/categories/%E6%96%87%E7%AB%A0%E6%94%B6%E8%97%8F/"/>
+    
+    
+    <category term="Avast" scheme="https://qyxblog.github.io/tags/Avast/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>我为什么学编程？我学了个啥？</title>
+    <link href="https://qyxblog.github.io/2021/09/02/%E7%A4%BE%E4%BC%9A%E4%B8%8E%E6%A0%B8%E5%BF%83%E7%AB%9E%E4%BA%89%E5%8A%9B/"/>
+    <id>https://qyxblog.github.io/2021/09/02/%E7%A4%BE%E4%BC%9A%E4%B8%8E%E6%A0%B8%E5%BF%83%E7%AB%9E%E4%BA%89%E5%8A%9B/</id>
+    <published>2021-09-02T07:51:27.885Z</published>
+    <updated>2021-10-04T07:52:43.663Z</updated>
+    
+    <content type="html"><![CDATA[<p>随便扯扯编程这个事，很随意，无深度。</p><span id="more"></span><hr><h3 id="✋提前说明"><a href="#✋提前说明" class="headerlink" title="✋提前说明"></a>✋提前说明</h3><blockquote><p>观点仅代表个人，欢迎提出不同观点</p></blockquote><hr><h3 id="😕为什么要学编程？"><a href="#😕为什么要学编程？" class="headerlink" title="😕为什么要学编程？"></a>😕为什么要学编程？</h3><p><strong>为了给未来的自己找出路</strong></p><p>回答简单粗暴，就这么简单</p><p>因为这个社会是在不停内卷的</p><p>你不学编程，别人学了，那别人就有核心竞争力，就这么残酷</p><p>职场规则，这么粗暴简单</p><h3 id="🤓或许换个角度？"><a href="#🤓或许换个角度？" class="headerlink" title="🤓或许换个角度？"></a>🤓或许换个角度？</h3><p>但是也有同学有不同看法：</p><p><img src="https://i.bmp.ovh/imgs/2021/08/932f20a0ae2a9038.png"></p><p><img src="https://i.bmp.ovh/imgs/2021/08/679b01d70c1f06f0.png"></p><hr><h3 id="😚学什么好？"><a href="#😚学什么好？" class="headerlink" title="😚学什么好？"></a>😚学什么好？</h3><p>上面两张图里我已经说到了：冷门但有前途的</p><p>如果你愿意，Rust这门语言倒是个不错的选择</p><hr><h3 id="🎓总结"><a href="#🎓总结" class="headerlink" title="🎓总结"></a>🎓总结</h3><p>学习编程这件事，可能为时过早，可能为时已晚，未来会怎样，拭目以待就好。</p><p>最后留下一句话：技多不压身</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;随便扯扯编程这个事，很随意，无深度。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="记录" scheme="https://qyxblog.github.io/categories/%E8%AE%B0%E5%BD%95/"/>
+    
+    <category term="memo" scheme="https://qyxblog.github.io/categories/%E8%AE%B0%E5%BD%95/memo/"/>
+    
+    
+    <category term="编程" scheme="https://qyxblog.github.io/tags/%E7%BC%96%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>我们都在被流量反噬</title>
+    <link href="https://qyxblog.github.io/2021/09/02/%E6%88%91%E4%BB%AC%E9%83%BD%E5%9C%A8%E8%A2%AB%E6%B5%81%E9%87%8F%E5%8F%8D%E5%99%AC/"/>
+    <id>https://qyxblog.github.io/2021/09/02/%E6%88%91%E4%BB%AC%E9%83%BD%E5%9C%A8%E8%A2%AB%E6%B5%81%E9%87%8F%E5%8F%8D%E5%99%AC/</id>
+    <published>2021-09-02T07:51:27.877Z</published>
+    <updated>2021-10-04T07:52:51.148Z</updated>
+    
+    <content type="html"><![CDATA[<p>很有意义的一篇播客转录</p><span id="more"></span><hr><blockquote><p>转录自：<a href="https://dao.fm/2021/03/28/vol-279-%e7%a7%91%e6%8a%80%e4%b9%b1%e7%82%96%ef%bc%9a%e6%88%91%e4%bb%ac%e9%83%bd%e5%9c%a8%e8%a2%ab%e6%b5%81%e9%87%8f%e5%8f%8d%e5%99%ac/">科技乱炖</a></p></blockquote><hr><p>抖音上爆火了一位的“拉面哥”，还有“泡泡龙”猝死事件，这些事让我谨慎悲观，不禁反思：流量是否反噬了我们？</p><p>“拉面哥”的拉面每碗3元，坚持不涨价，就算物价贵也没涨过价。抖音博主“彭佳佳”曝光了“拉面哥”的这一事迹，“拉面哥”自此在抖音爆火。</p><p>“拉面哥”说，钱有的赚就行，做的都是街坊生意，我的拉面就是给旁边工地的工人准备的。但是大家都来拍“拉面哥”，拉面哥的生意没法做了，摊位前挤的水泄不通，这些人为了蹭流量，为了被平台推荐，这违背了拉面哥的初心，甚至有人追到了拉面哥家里求拍照。开始有人在拉面哥摊位边卖WIFI，运营商紧急加建了基站，这些都让拉面哥的生意没法做了。</p><p>最离谱的是有人在拉面哥摊位边抬棺材上坟，跪在拉面哥身边哭。</p><p>哗众取宠，走火入魔！</p><p>著名抖音网红泡泡龙，29岁，体重320斤，以猎奇吃播闻名，因拍反诈视频劳累过度猝死。他天天从事高强度拍摄，其实早已有人提醒它注意身体，但为了曝光度依然继续拍视频、猎奇搏赞。</p><p>这是否成为了一条产业链？</p><ol><li>出名</li><li> 积累流量 </li><li>做广告</li></ol><p>也许我们应该反思，如果没有猎奇向的追捧，是否就不会有那么多的网红为了所谓的流量挑战身体的极限，浪费别人的粮食，最终走到被捧杀甚至自我终结的穷途末路。</p><p>没办法啊，这就是他们的核心竞争力，但竞争力的保持肯定是会对身体有所损害。</p><p>大家陷入了一种流量焦虑，走火入魔地寻求流量。</p><p>但为什么会追求流量？答案是：变现。</p><p>如果不这样做，流量就会跑到别人那里去，开始逐渐更沉迷于流量的获取。</p><p>可以说每一个为他们点赞的人都是害了他们。</p><p>算法没有感情，但有核心价值观。那么什么样的东西会得到算法推荐？标新立异与越界的内容！也就是说：算法鼓励标新立异与猎奇。只要加了拉面哥字样的视频就会得到算法推荐，可以说平台有意无意之间给拉面哥们、泡泡龙们点了火。</p><p>平台为了流量不择手段，有流量就会有利益，互联网公司为了流量沉迷其中、无法自拔。</p><p>著名的流量漏斗理论印证了：10000个人看了我的视频，就一定会有3个人买我的产品。</p><p>所以流量至关重要。只要有流量就能变现，流量直接决定了一个公司的盈利。</p><p>视频创作者依附平台，为平台创造流量，从平台获得流量。平台给我流量，我用流量变现，开始“内卷”。但依附平台，流量也归于平台，视频创作者只不过是平台获取流量的工具人。</p><p>平台以各种形式鼓励用户不择手段地获得流量，在这个内卷的过程中，平台才是最大受益者，其次才是创作者。</p><p>我们都在被流量反噬。</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;很有意义的一篇播客转录&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="记录" scheme="https://qyxblog.github.io/categories/%E8%AE%B0%E5%BD%95/"/>
+    
+    <category term="memo" scheme="https://qyxblog.github.io/categories/%E8%AE%B0%E5%BD%95/memo/"/>
+    
+    
+    <category term="流量焦虑" scheme="https://qyxblog.github.io/tags/%E6%B5%81%E9%87%8F%E7%84%A6%E8%99%91/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>卡巴斯基KSC弹了个窗</title>
+    <link href="https://qyxblog.github.io/2021/09/02/%E8%AF%95%E7%94%A8%E5%8D%A1%E5%B7%B4%E6%96%AF%E5%9F%BA%E5%A5%BD%E6%84%9F%E9%AA%A4%E9%99%8D/"/>
+    <id>https://qyxblog.github.io/2021/09/02/%E8%AF%95%E7%94%A8%E5%8D%A1%E5%B7%B4%E6%96%AF%E5%9F%BA%E5%A5%BD%E6%84%9F%E9%AA%A4%E9%99%8D/</id>
+    <published>2021-09-02T07:51:23.109Z</published>
+    <updated>2021-10-04T07:52:46.212Z</updated>
+    
+    <content type="html"><![CDATA[<p>气死了！卡巴斯基！</p><span id="more"></span><hr><h3 id="🤔发生了什么？"><a href="#🤔发生了什么？" class="headerlink" title="🤔发生了什么？"></a>🤔发生了什么？</h3><p>之前不是我的卡巴斯基KES出问题了吗？正好我也用腻了KES，就想换KSC试试</p><p>激活了30天试用版，嗯，还不戳！</p><hr><h3 id="🔥可是后来"><a href="#🔥可是后来" class="headerlink" title="🔥可是后来"></a>🔥可是后来</h3><p>我不就用的是试用版吗？有必要开机弹个“您的试用版已激活”的弹窗吗？啊？体验极差！这个试用版界面丑死，这能看？</p><p><img src="https://i.bmp.ovh/imgs/2021/08/513c5031c4bb2140.png" alt="难看死了！"></p><p>好感度骤减。</p><hr><h3 id="🍻最后"><a href="#🍻最后" class="headerlink" title="🍻最后"></a>🍻最后</h3><p>又想换杀软了，啊啊啊啊，不行了，杀软综合征又犯了……</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;气死了！卡巴斯基！&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="记录" scheme="https://qyxblog.github.io/categories/%E8%AE%B0%E5%BD%95/"/>
+    
+    <category term="心情" scheme="https://qyxblog.github.io/categories/%E8%AE%B0%E5%BD%95/%E5%BF%83%E6%83%85/"/>
+    
+    
+    <category term="卡巴斯基" scheme="https://qyxblog.github.io/tags/%E5%8D%A1%E5%B7%B4%E6%96%AF%E5%9F%BA/"/>
+    
+    <category term="吐槽" scheme="https://qyxblog.github.io/tags/%E5%90%90%E6%A7%BD/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>开学前的乱境</title>
+    <link href="https://qyxblog.github.io/2021/09/02/nt%E7%9A%84%E5%90%8C%E5%AD%A6%E4%BB%AC/"/>
+    <id>https://qyxblog.github.io/2021/09/02/nt%E7%9A%84%E5%90%8C%E5%AD%A6%E4%BB%AC/</id>
+    <published>2021-09-02T07:51:23.102Z</published>
+    <updated>2021-10-04T07:47:24.252Z</updated>
+    
+    <content type="html"><![CDATA[<p>无脑吐槽，不喜勿进</p><span id="more"></span><hr><h3 id="😬提前说明"><a href="#😬提前说明" class="headerlink" title="😬提前说明"></a>😬提前说明</h3><blockquote><p>本文章纯吐槽，没有一点技术以及知识含量</p></blockquote><hr><h3 id="🤬正文"><a href="#🤬正文" class="headerlink" title="🤬正文"></a>🤬正文</h3><p><img src="https://i.bmp.ovh/imgs/2021/08/733625c5351a40e7.png" alt="OneNote吐槽"></p><hr><h3 id="😡补充"><a href="#😡补充" class="headerlink" title="😡补充"></a>😡补充</h3><blockquote><p>截取自我的OneNote，因为MarkDown并不支持绘图，且考虑到很难再现原来的心情，我选择做成图片，上传至CDN图床，再用MarkDown放到我的博客</p></blockquote><blockquote><p>我不是在针对某位同学，我是针对所有无脑的同学</p></blockquote>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;无脑吐槽，不喜勿进&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="记录" scheme="https://qyxblog.github.io/categories/%E8%AE%B0%E5%BD%95/"/>
+    
+    <category term="心情" scheme="https://qyxblog.github.io/categories/%E8%AE%B0%E5%BD%95/%E5%BF%83%E6%83%85/"/>
+    
+    
+    <category term="吐槽" scheme="https://qyxblog.github.io/tags/%E5%90%90%E6%A7%BD/"/>
+    
+    <category term="学校" scheme="https://qyxblog.github.io/tags/%E5%AD%A6%E6%A0%A1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://qyxblog.github.io/2021/09/01/hello-world/"/>
+    <id>https://qyxblog.github.io/2021/09/01/hello-world/</id>
+    <published>2021-09-01T10:11:27.948Z</published>
+    <updated>2021-10-04T07:45:30.847Z</updated>
+    
+    <content type="html"><![CDATA[<p>Hello Hexo！</p><span id="more"></span><hr><p>这是MaxLen在<a href="https://hexo.io/">Hexo</a>上的第一篇文章！你可以选择删除它或者保留它，当你看见了这篇文章，说明您的Hexo部署完成！  </p><p>开始写作吧！</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;Hello Hexo！&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="折腾" scheme="https://qyxblog.github.io/categories/%E6%8A%98%E8%85%BE/"/>
+    
+    <category term="其它" scheme="https://qyxblog.github.io/categories/%E6%8A%98%E8%85%BE/%E5%85%B6%E5%AE%83/"/>
+    
+    
+    <category term="Hexo" scheme="https://qyxblog.github.io/tags/Hexo/"/>
+    
+  </entry>
+  
+</feed>
