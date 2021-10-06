@@ -2,6 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://qyxblog.github.io/2021/09/06/%E7%94%B5%E9%82%AE/</loc>
+    
+    <lastmod>2021-10-06</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://qyxblog.github.io/2021/09/03/%E4%BB%A3%E6%9B%BFWinStore/</loc>
+    
+    <lastmod>2021-10-06</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://qyxblog.github.io/2021/09/04/%E6%90%AD%E5%8D%9A%E5%AE%A2/</loc>
+    
+    <lastmod>2021-10-06</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://qyxblog.github.io/2021/09/24/%E8%AF%9A%E4%BF%A1/</loc>
+    
+    <lastmod>2021-10-06</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://qyxblog.github.io/2021/10/06/2021%E5%9B%BD%E5%BA%86/</loc>
     
     <lastmod>2021-10-06</lastmod>
@@ -121,13 +149,6 @@
   </url>
   
   <url>
-    <loc>https://qyxblog.github.io/2021/09/06/%E7%94%B5%E9%82%AE/</loc>
-    
-    <lastmod>2021-10-04</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://qyxblog.github.io/2021/09/04/IPhone13%E5%8D%AB%E6%98%9F%E9%80%9A%E4%BF%A1/</loc>
     
     <lastmod>2021-10-04</lastmod>
@@ -135,28 +156,7 @@
   </url>
   
   <url>
-    <loc>https://qyxblog.github.io/2021/09/04/%E6%90%AD%E5%8D%9A%E5%AE%A2/</loc>
-    
-    <lastmod>2021-10-04</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://qyxblog.github.io/2021/09/24/%E8%AF%9A%E4%BF%A1/</loc>
-    
-    <lastmod>2021-10-04</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://qyxblog.github.io/2021/09/25/%E6%9C%88%E9%A5%BC%E6%B8%85%E9%99%A4%E5%A4%A7V/</loc>
-    
-    <lastmod>2021-10-04</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://qyxblog.github.io/2021/09/03/%E4%BB%A3%E6%9B%BFWinStore/</loc>
     
     <lastmod>2021-10-04</lastmod>
     
@@ -322,34 +322,6 @@
   
   <url>
     <loc>https://qyxblog.github.io/categories/%E6%96%87%E7%AB%A0%E6%94%B6%E8%97%8F/</loc>
-    <lastmod>2021-10-06</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://qyxblog.github.io/categories/%E6%8A%98%E8%85%BE/%E7%94%B5%E8%84%91/</loc>
-    <lastmod>2021-10-06</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://qyxblog.github.io/categories/%E6%8A%98%E8%85%BE/%E5%85%B6%E5%AE%83/</loc>
-    <lastmod>2021-10-06</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://qyxblog.github.io/categories/%E8%AE%B0%E5%BD%95/</loc>
-    <lastmod>2021-10-06</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://qyxblog.github.io/categories/%E8%AE%B0%E5%BD%95/memo/</loc>
     <lastmod>2021-10-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
