@@ -2,6 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://qyxblog.github.io/2021/10/06/mc%E5%90%AF%E5%8A%A8%E5%99%A8/</loc>
+    
+    <lastmod>2021-10-06</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://qyxblog.github.io/2021/10/06/2021%E5%9B%BD%E5%BA%86/</loc>
+    
+    <lastmod>2021-10-06</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://qyxblog.github.io/archive.html</loc>
+    
+    <lastmod>2021-10-06</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://qyxblog.github.io/PY.html</loc>
+    
+    <lastmod>2021-10-06</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://qyxblog.github.io/2021/09/06/%E7%94%B5%E9%82%AE/</loc>
     
     <lastmod>2021-10-06</lastmod>
@@ -30,21 +58,7 @@
   </url>
   
   <url>
-    <loc>https://qyxblog.github.io/2021/10/06/2021%E5%9B%BD%E5%BA%86/</loc>
-    
-    <lastmod>2021-10-06</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://qyxblog.github.io/tags/index.html</loc>
-    
-    <lastmod>2021-10-06</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://qyxblog.github.io/PY.html</loc>
     
     <lastmod>2021-10-06</lastmod>
     
@@ -124,13 +138,6 @@
     <loc>https://qyxblog.github.io/2021/10/03/%E6%8D%A2%E4%B8%BB%E9%A2%98/</loc>
     
     <lastmod>2021-10-06</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://qyxblog.github.io/guidang.html</loc>
-    
-    <lastmod>2021-10-05</lastmod>
     
   </url>
   
@@ -299,6 +306,20 @@
   
   <url>
     <loc>https://qyxblog.github.io/tags/%E6%97%85%E8%A1%8C/</loc>
+    <lastmod>2021-10-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://qyxblog.github.io/tags/Minecraft/</loc>
+    <lastmod>2021-10-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://qyxblog.github.io/tags/%E6%B8%B8%E6%88%8F/</loc>
     <lastmod>2021-10-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>

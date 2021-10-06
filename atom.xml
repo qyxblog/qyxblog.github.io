@@ -6,7 +6,7 @@
   <link href="https://qyxblog.github.io/atom.xml" rel="self"/>
   
   <link href="https://qyxblog.github.io/"/>
-  <updated>2021-10-06T05:55:14.966Z</updated>
+  <updated>2021-10-06T09:09:37.436Z</updated>
   <id>https://qyxblog.github.io/</id>
   
   <author>
@@ -17,16 +17,39 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>好用的Minecraft启动器</title>
+    <link href="https://qyxblog.github.io/2021/10/06/mc%E5%90%AF%E5%8A%A8%E5%99%A8/"/>
+    <id>https://qyxblog.github.io/2021/10/06/mc%E5%90%AF%E5%8A%A8%E5%99%A8/</id>
+    <published>2021-10-06T08:40:13.357Z</published>
+    <updated>2021-10-06T09:09:37.436Z</updated>
+    
+    <content type="html"><![CDATA[<p>最近有个朋友问了我一些Minecraft启动器的问题，我决定写篇文章推荐几款Minecraft启动器</p><span id="more"></span><hr><h3 id="🐷提醒"><a href="#🐷提醒" class="headerlink" title="🐷提醒"></a>🐷提醒</h3><p>玩盗版不可耻，这是在被逼无奈后的艰难选择。</p><p>请有能力后支持正版Minecraft</p><hr><h3 id="👴启动器元老：HMCL"><a href="#👴启动器元老：HMCL" class="headerlink" title="👴启动器元老：HMCL"></a>👴启动器元老：HMCL</h3><p>HMCL全名：<a href="https://hmcl.huangyuhui.net/">Hello Minecraft! Launcher</a></p><p><img src="https://i.bmp.ovh/imgs/2021/10/29fb5908db014fce.png" alt="HMCL"></p><ul><li><p>拥有六年历史。因为是Java语言开发，所以它有多系统支持。</p></li><li><p>一键创建游戏并安装 Fabric、Forge、LiteLoader、OptiFine</p></li><li><p>支持多线程（速度非常快）</p></li><li><p>开源、开放、自由</p></li></ul><p>它们的官网不太稳定，这里贴一个Windows端稳定版的<a href="https://url94.ctfile.com/d/33326794-44675752-fc62fc">下载链接（密码5267）</a></p><hr><h3 id="👦后起之秀：PCL-2"><a href="#👦后起之秀：PCL-2" class="headerlink" title="👦后起之秀：PCL 2"></a>👦后起之秀：PCL 2</h3><p>全名<a href="https://afdian.net/@LTCat?tab=home">Plain Craft Launcher 2！</a>（有种对标HMCL的感觉，哈哈）</p><p><img src="https://i.bmp.ovh/imgs/2021/10/fd5c9b546c32d300.png" alt="PCL2"></p><ul><li>可能是目前最受欢迎的启动器</li><li>支持盗版一键联机</li><li>支持多线程（速度非常快）</li><li>一键创建游戏并安装 Fabric、Forge、LiteLoader、OptiFine</li><li>更加人性化的设置</li><li>流畅的动画设计</li><li>一键下载模组</li></ul><hr><h3 id="👩时尚花哨：Bakaxl"><a href="#👩时尚花哨：Bakaxl" class="headerlink" title="👩时尚花哨：Bakaxl"></a>👩时尚花哨：Bakaxl</h3><p><a href="https://www.bakaxl.com/">官方</a>介绍：脑子有洞的新一代Minecraft崩坏启动器</p><p><img src="https://i.bmp.ovh/imgs/2021/10/ff16cfe52a8d6d69.png" alt="Bakaxl"></p><ul><li>最漂亮的启动器</li><li>支持盗版一键联机</li><li>笨蛋广场</li><li>一键创建游戏并安装 Fabric、Forge、LiteLoader、OptiFine</li><li>流畅的动画设计</li><li>支持多线程（速度非常快）</li></ul><p><a href="https://www.mcbbs.net/thread-512144-1-2.html">详细了解</a></p><hr><h3 id="🙃补充：Java下载链接"><a href="#🙃补充：Java下载链接" class="headerlink" title="🙃补充：Java下载链接"></a>🙃补充：Java下载链接</h3><p><a href="https://www.oracle.com/java/technologies/downloads/">Java都到17啦</a></p><hr>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;最近有个朋友问了我一些Minecraft启动器的问题，我决定写篇文章推荐几款Minecraft启动器&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="来点新鲜的" scheme="https://qyxblog.github.io/categories/%E6%9D%A5%E7%82%B9%E6%96%B0%E9%B2%9C%E7%9A%84/"/>
+    
+    
+    <category term="Minecraft" scheme="https://qyxblog.github.io/tags/Minecraft/"/>
+    
+    <category term="游戏" scheme="https://qyxblog.github.io/tags/%E6%B8%B8%E6%88%8F/"/>
+    
+  </entry>
+  
+  <entry>
     <title>国庆一行</title>
     <link href="https://qyxblog.github.io/2021/10/06/2021%E5%9B%BD%E5%BA%86/"/>
     <id>https://qyxblog.github.io/2021/10/06/2021%E5%9B%BD%E5%BA%86/</id>
     <published>2021-10-06T05:43:38.073Z</published>
-    <updated>2021-10-06T05:55:14.966Z</updated>
+    <updated>2021-10-06T08:40:50.092Z</updated>
     
-    <content type="html"><![CDATA[<p>国庆假期，我去了这里</p><span id="more"></span><hr>]]></content>
+    <content type="html"><![CDATA[<p>国庆假期的一些事</p><span id="more"></span><hr><p>国庆假期有7天，回到家发现数学老师在班级群里发的作业和在学校说的不一样，这就导致了我没带一些完成作业必要的东西。刚刚回到家，就得知必须要再去一趟沁阳取东西，这种事情发生，是个人都会生气且感到无力。</p><p>所以干脆在我去完成旅行作业时顺便去学校取东西。</p><p>到了10月6日，我决定去离家较近的晋冀鲁豫解放军第九纵队红色教育基地看看，顺便去学校取东西。</p><p>到了学校，发现学校已经在安装空调了，我们班里竟然有人！我的天，也有人来取东西了？结果不是，是杨绍华在班里写作业，我很是惊奇，以为他是来补课的，也没有在意。我到了座位上取东西，他问我：“什么时候开学的？”我回答：“明天下午6点。”他突然很震惊：“明天？！我以为是今天！”</p><blockquote><p>补充：</p><p>杨绍华是初三下来的，因为个人身体的一些原因，初三休学了一年。来到初二后上课也是断断续续的，经常回家。但他是一名爱学习的学生，初三考过年纪前十。</p><p>据卫老师说是因为他压力太大，身体经常出现一些状况，所以经常回家调养。</p></blockquote><p>好家伙，这是闹了个乌龙！</p><p>我取了东西，向红色教育基地进发。</p><p>到了那里，其实也没什么，由于当天下雨，没有开门…</p><p>不过我还是拍到了一些图片：</p>]]></content>
     
     
-    <summary type="html">&lt;p&gt;国庆假期，我去了这里&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;国庆假期的一些事&lt;/p&gt;</summary>
     
     
     
