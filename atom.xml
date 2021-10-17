@@ -6,7 +6,7 @@
   <link href="https://qyxblog.github.io/atom.xml" rel="self"/>
   
   <link href="https://qyxblog.github.io/"/>
-  <updated>2021-10-06T09:09:37.436Z</updated>
+  <updated>2021-10-17T07:24:25.714Z</updated>
   <id>https://qyxblog.github.io/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>给你的Ventoy整点花活</title>
+    <link href="https://qyxblog.github.io/2021/10/17/Ventoy%20zhut/"/>
+    <id>https://qyxblog.github.io/2021/10/17/Ventoy%20zhut/</id>
+    <published>2021-10-17T06:53:02.328Z</published>
+    <updated>2021-10-17T07:24:25.714Z</updated>
+    
+    <content type="html"><![CDATA[<p>美化一下咱们的Ventoy</p><span id="more"></span><hr><h3 id="📚前言"><a href="#📚前言" class="headerlink" title="📚前言"></a>📚前言</h3><p> 闲来无事，给Ventoy整个花吧。</p><p>官方对于主题插件的文档中提到：</p><blockquote><p>当你第一眼看到Ventoy的时候，你是什么感觉？不是很漂亮对吧？现在你可以定制你自己的主题了！<br> Ventoy 的启动菜单是基于 grub2 的，所以所有 grub2 的主题都可以应用在 Ventoy上面。</p></blockquote><p>那咱么就给它换个主题。</p><hr><h3 id="😀呜呼呼，开整！"><a href="#😀呜呼呼，开整！" class="headerlink" title="😀呜呼呼，开整！"></a>😀呜呼呼，开整！</h3><p><a href="https://www.gnome-look.org/browse/cat/109/order/latest/">GRUB Themes - Gnome-look.org</a>是个好网站，我们可以直接在里面找引导主题。</p><p><img src="https://i.bmp.ovh/imgs/2021/10/890ea40ab90c355a.png" alt="Sleek GrubBootloader themes [That greets you with your name]"></p><p>这个主题叫<a href="https://www.gnome-look.org/p/1414997">Sleek GrubBootloader themes [That greets you with your name]</a>，很好看。我就决定用它。</p><p>但是咱们怎么整？这可是Grub啊，到Ventoy上怎么整？</p><p>嘿嘿，其实我也不知道怎么整。不过我们可以参考一下现成的Ventoy主题。</p><p><img src="https://i.bmp.ovh/imgs/2021/10/4e25554312f6b346.png" alt="现成的Ventoy主题"></p><p><code>theme</code>是最主要的文件，我们把之前仿Big Sur的Grub替换一下。</p><p>然后测试一波哦~</p><p>成功，思路可行！</p><hr>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;美化一下咱们的Ventoy&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="折腾" scheme="https://qyxblog.github.io/categories/%E6%8A%98%E8%85%BE/"/>
+    
+    
+    <category term="Ventoy" scheme="https://qyxblog.github.io/tags/Ventoy/"/>
+    
+    <category term="U盘" scheme="https://qyxblog.github.io/tags/U%E7%9B%98/"/>
+    
+    <category term="美化" scheme="https://qyxblog.github.io/tags/%E7%BE%8E%E5%8C%96/"/>
+    
+  </entry>
   
   <entry>
     <title>好用的Minecraft启动器</title>
@@ -415,9 +440,9 @@
     <link href="https://qyxblog.github.io/2021/09/01/hello-world/"/>
     <id>https://qyxblog.github.io/2021/09/01/hello-world/</id>
     <published>2021-09-01T10:11:27.948Z</published>
-    <updated>2021-10-06T04:20:20.954Z</updated>
+    <updated>2021-10-17T07:04:12.047Z</updated>
     
-    <content type="html"><![CDATA[<p>Hello Hexo！</p><span id="more"></span><hr><p>这是MaxLen在<a href="https://hexo.io/">Hexo</a>上的第一篇文章！你可以选择删除它或者保留它，当你看见了这篇文章，说明您的Hexo部署完成！  </p><p>开始写作吧！</p>]]></content>
+    <content type="html"><![CDATA[<p>Hello Hexo！</p><span id="more"></span><hr><p>这是MaxLen在<a href="https://hexo.io/">Hexo</a>上的第一篇文章！你可以选择删除它或者保留它，当你看见了这篇文章，说明您的Hexo部署完成！  </p><p>开始写作吧！</p><hr><p>标题测试</p><h1 id="一级标题"><a href="#一级标题" class="headerlink" title="一级标题"></a>一级标题</h1><h2 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h2><h3 id="三级标题"><a href="#三级标题" class="headerlink" title="三级标题"></a>三级标题</h3><h4 id="四级标题"><a href="#四级标题" class="headerlink" title="四级标题"></a>四级标题</h4><h5 id="五级标题"><a href="#五级标题" class="headerlink" title="五级标题"></a>五级标题</h5><h6 id="六级标题"><a href="#六级标题" class="headerlink" title="六级标题"></a>六级标题</h6><hr>]]></content>
     
     
     <summary type="html">&lt;p&gt;Hello Hexo！&lt;/p&gt;</summary>
