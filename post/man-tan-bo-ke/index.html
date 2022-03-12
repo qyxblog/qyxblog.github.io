@@ -1,0 +1,647 @@
+<html>
+<head>
+    <meta charset="utf-8"/>
+<meta name="description" content=""/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+
+<title>漫谈播客 | MaxTalk</title>
+
+<link rel="shortcut icon" href="http://localhost:4000/favicon.ico?v=1647094006374">
+
+<link href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/css/all.min.css" rel="stylesheet">
+<link rel="stylesheet" href="http://localhost:4000/styles/main.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.0/dist/css/bootstrap.min.css">
+
+<script src="https://cdn.jsdelivr.net/npm/@highlightjs/cdn-assets/highlight.min.js"></script>
+<script src="https://cdn.bootcss.com/highlight.js/9.15.10/languages/dockerfile.min.js"></script>
+<script src="https://cdn.bootcss.com/highlight.js/9.15.10/languages/dart.min.js"></script>
+
+<script src="https://cdn.jsdelivr.net/npm/moment@2.27.0/moment.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.0/dist/js/bootstrap.min.js"></script>
+<!-- DEMO JS -->
+<!--<script src="media/scripts/index.js"></script>-->
+
+
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.12.0/dist/katex.css">
+</head>
+<body>
+<div class="main gt-bg-theme-color-first">
+    <nav class="navbar navbar-expand-lg">
+    <div class="navbar-brand">
+        <img class="user-avatar" src="/images/avatar.png" alt="头像">
+        <div class="site-name gt-c-content-color-first">
+            MaxTalk
+        </div>
+    </div>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+            aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <i class="fas fa-bars gt-c-content-color-first" style="font-size: 18px"></i>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <div class="navbar-nav mr-auto" style="text-align: center">
+            
+                <div class="nav-item">
+                    
+                        <a href="/gridea/" class="menu gt-a-link">
+                            首页
+                        </a>
+                    
+                </div>
+            
+                <div class="nav-item">
+                    
+                        <a href="/gridea/archives" class="menu gt-a-link">
+                            归档
+                        </a>
+                    
+                </div>
+            
+                <div class="nav-item">
+                    
+                        <a href="/gridea/tags" class="menu gt-a-link">
+                            标签
+                        </a>
+                    
+                </div>
+            
+                <div class="nav-item">
+                    
+                        <a href="/gridea/post/about" class="menu gt-a-link">
+                            关于
+                        </a>
+                    
+                </div>
+            
+        </div>
+        <div style="text-align: center">
+            <form id="gridea-search-form" style="position: relative" data-update="1647094006374" action="/search/index.html">
+                <input class="search-input" autocomplete="off" spellcheck="false" name="q" placeholder="搜索文章" />
+                <i class="fas fa-search gt-c-content-color-first" style="position: absolute; top: 9px; left: 10px;"></i>
+            </form>
+        </div>
+    </div>
+</nav>
+
+    <div class="post-container">
+        <div class="post-detail gt-bg-theme-color-second">
+            <article class="gt-post-content">
+                <h2 class="post-title">
+                    漫谈播客
+                </h2>
+                <div class="post-info">
+                    <time class="post-time gt-c-content-color-first">
+                        · 2022-01-19 ·
+                    </time>
+                    
+                        <a href="http://localhost:4000/tag/uru0Lrytc/" class="post-tags">
+                            # Pure
+                        </a>
+                    
+                </div>
+                <div class="post-content">
+                    <p>你知道播客吗？你了解播客吗？</p>
+<p>这篇文章，从播客概念、发展潜力、收听平台、制作团队、优秀播客多方面带你了解博客、入门博客</p>
+<!-- more -->
+<h3 id="什么是播客">🤓什么是播客？</h3>
+<p>播客是一种新媒体，它以声音的形式呈现。播客这个概念被人们广知的是苹果的iPod系列产品，苹果合成了一个词：<strong>PodCast</strong>，即播客。后来播客作为一个APP内置在了iPhone中。</p>
+<p>首先请看维基百科：</p>
+<blockquote>
+<p>播客是一种数字媒体，指一系列的音频、影片、电子电台或文字档以列表形式经互联网发布，然后听众经由电子设备订阅该列表以下载或流当中的电子文件，从而接收内容。</p>
+</blockquote>
+<p>播客这个概念不清楚，甚至百度百科上的解释都十分含糊。简言之，可以将其理解为网络电台，但不同于传统电台，相比之下播客更加开放、形式更加多样。可以是几个人随意聊天、可以是一个人说一些事、可以是对谈……播客分类也多样，有喜剧类的、科技类的、日常类的、知识类的……</p>
+<p>总之，请你试试听听看，你就会明白播客是什么。</p>
+<h3 id="播客我天天听啊不就是郭德纲相声-有声书吗">🙄播客？我天天听啊，不就是郭德纲相声、有声书吗？</h3>
+<p>请不要这样想。<strong>有声书、相声不算是播客。</strong></p>
+<figure data-type="image" tabindex="1"><img src="http://p2.itc.cn/q_70/images03/20200702/52bc55768db54a48821ef99f4b544feb.png" alt="播客与其它音频类型的关系" loading="lazy"></figure>
+<p>播客要求有<strong>个人表达</strong>、<strong>有交流</strong>。有声书、相声我不认为是播客，因为它和播客面对群众不一样。播客是主播直接单向与听友交流。而有声书是在简单地读一个东西。相声像是面对现场观众的，<strong>做成音频只是顺手的事，而本质目的不是做成音频文件</strong>。</p>
+<p>还是那句话：</p>
+<blockquote>
+<p>总之，请你试试听听看，你就会明白播客是什么。</p>
+</blockquote>
+<h3 id="播客的发展潜力">🔝播客的发展潜力</h3>
+<p>作为一种近几十年才诞生的新媒体，播客未来还有很大发展空间。</p>
+<p>播客现在在国内仍然小众，不过它在外国已经爆火。现在国内入局的人也少，可谓潜力巨大。</p>
+<p>成功案例：<a href="https://justpodmedia.com/">JustPod</a></p>
+<h3 id="小宇宙小圈子也有大巨人">✨小宇宙——小圈子也有大巨人</h3>
+<p>小宇宙是一款专门为播客设计的一款音频APP。小宇宙界面美观、本地化支持优秀，受到很多主播和听友的喜爱。</p>
+<figure data-type="image" tabindex="2"><img src="https://inews.gtimg.com/newsapp_bt/0/11516708568/1000" alt="小宇宙登录界面" loading="lazy"></figure>
+<p>小宇宙每天会<strong>人工筛选</strong>三条优质播客放在发现页</p>
+<figure data-type="image" tabindex="3"><img src="https://inews.gtimg.com/newsapp_bt/0/11516708569/1000" alt="小宇宙发现页" loading="lazy"></figure>
+<p>小宇宙可以智能搜索，如果找不到结果，会进行模糊搜索</p>
+<p>这里的模糊音体现了小宇宙出色的本地化</p>
+<figure data-type="image" tabindex="4"><img src="http://p7.itc.cn/q_70/images03/20200702/ca3352c4c88746079bd4e585859ac818.png" alt="小宇宙搜索" loading="lazy"></figure>
+<p>倍速播放、定时暂停、跳过空白、人声增强都是小宇宙的特色功能</p>
+<figure data-type="image" tabindex="5"><img src="http://p5.itc.cn/q_70/images03/20200702/8b3c7be47016457986d4c19674e070c7.png" alt="小宇宙的贴心小功能" loading="lazy"></figure>
+<p>Shownotes中的时间轴可以帮助用户更好地把握重点</p>
+<figure data-type="image" tabindex="6"><img src="http://p4.itc.cn/q_70/images03/20200702/e9e41c0105f240c084c172ccada71739.jpeg" alt="小宇宙的Shownotes" loading="lazy"></figure>
+<p>播放界面简洁，可以给精彩时间段点赞</p>
+<p>热度条也独具特色</p>
+<figure data-type="image" tabindex="7"><img src="http://p4.itc.cn/q_70/images03/20200702/39ccd25148e147f4a4794426d79e47cd.jpeg" alt="小宇宙的播放页面" loading="lazy"></figure>
+<p>评论支持添加时间戳</p>
+<figure data-type="image" tabindex="8"><img src="http://p0.itc.cn/q_70/images03/20200702/fa2049dbd72c41ee94976a1192abff2f.png" alt="小宇宙评论区" loading="lazy"></figure>
+<p>您的想法已经向宇宙发射</p>
+<figure data-type="image" tabindex="9"><img src="http://p3.itc.cn/q_70/images03/20200702/8cdfed6cc45f408991f979b280a5c4b9.png" alt="小宇宙想法" loading="lazy"></figure>
+<p>Shownotes里有不知道的东西？</p>
+<p>没关系，一键搜索，刨根追底</p>
+<figure data-type="image" tabindex="10"><img src="http://p6.itc.cn/q_70/images03/20200702/74cf24626aeb4b0d9b33a7ab7cf2afde.jpeg" alt="小宇宙快捷搜索" loading="lazy"></figure>
+<p>多彩的颜色为播客增加了活力</p>
+<figure data-type="image" tabindex="11"><img src="http://p5.itc.cn/q_70/images03/20200702/3d1cefe5f1b14910bf68b88bbc43f371.jpeg" alt="小宇宙为每个播客选定了主题色" loading="lazy"></figure>
+<p>小宇宙领航员会赞你的评论，刷新按钮是一个星球</p>
+<figure data-type="image" tabindex="12"><img src="http://p1.itc.cn/q_70/images03/20200702/06a2641dc26b43499ddc3b06ed2e7220.jpeg" alt="小宇宙冷暖可触" loading="lazy"></figure>
+<p>小宇宙作为中文播客圈的老大还是很用心的。</p>
+<h3 id="中文播客界三大制作团队">💖中文播客界三大制作团队</h3>
+<p><strong><a href="https://dao.fm/">津津乐道播客网络</a></strong></p>
+<p>官方介绍：</p>
+<blockquote>
+<p>津津乐道播客是各领域达人联手制作的多档高质量播客，分享经验、传播体验。每周日早八点，我们一起用耳朵体验世界</p>
+</blockquote>
+<p>津津乐道是我很喜欢的播客制作团队，其节目风格轻松、视角独特、嘉宾专业</p>
+<figure data-type="image" tabindex="13"><img src="https://img.daofm.cn/wp-content/uploads/2020/01/mmexport1546432862271_mr1546432994500_mh1546433034194.jpg" alt="团队" loading="lazy"></figure>
+<figure data-type="image" tabindex="14"><img src="https://img.daofm.cn/wp-content/uploads/2020/01/mmexport1550201738578.jpg" alt="录制现场" loading="lazy"></figure>
+<p>旗下节目有（部分）：</p>
+<ul>
+<li>科技乱炖
+<ul>
+<li>朱峰、高春辉等多位知名 IT 业者主持的科技资讯点评播客。主播和嘉宾利用多年经验和业内视角，嬉笑怒骂之间，把近期科技热点变成犀利、独到、深刻的独家观点。</li>
+</ul>
+</li>
+<li>拼娃时代
+<ul>
+<li>拼娃时代是面向家长的 K-12 教育主题播客，主播张珺是一位真正的学生家长。他以理工男出色的分析能力和整合能力，帮普通家长理解复杂的教育知识、跟上多变的教育市场。</li>
+</ul>
+</li>
+<li>品质生活
+<ul>
+<li>品质生活是品味生活好物、提升生活品位的主题播客，节目主播和嘉宾阅历丰富，利用长期、真实、用心的体验，帮你熟悉那些原本无法接触的好产品，带你提前进入有品质的生活。津津乐道播客网络出品。</li>
+</ul>
+</li>
+<li>津津有味
+<ul>
+<li>健康生活无需变身苦行僧，无能之辈才会传递说教和乏味，养生其实简单日常不神秘，健康可以和快乐同行，科学可以严谨而逗趣。津津有味，听二位吃货主播联手各界达人每期给你一记“纳尼？居然是这样！”的暴击。</li>
+</ul>
+</li>
+<li>不叁不肆
+<ul>
+<li>三个打破传统理念、不按人生轨迹发展的女生，不拘泥于传统，不在乎他人眼光，在播客里一起挥泪、言笑、励人、悦己，让感性交汇，让理性碰撞，让共鸣之声更响。</li>
+<li>聊感情，聊经历，聊八卦，聊囧事，聊喜悦烦恼，聊渴望困扰，接受所有不期而遇，不枉跌跌撞撞走这一遭。</li>
+</ul>
+</li>
+<li>原汤话原食
+<ul>
+<li>三位女记者，带你剖析热点事件、发现不为人知的背后故事。真人说真事，原汤话原食。</li>
+<li>我们在灾难现场经历过绝望，在体育赛场追过苏炳添孙杨；发现过名人的伪装，也见证了普通人的光芒；最大限度感受世界的多元，不断突破认知感叹人性的复杂…有太多的瞬间，希望能和大家分享。</li>
+<li>在“原汤话原食”这档播客节目里，我们想要拥抱一个新世界，尝试突破传统媒体的刻板，用最自然、最真实的方式，和你一起分享有深度、有温度的想法。</li>
+</ul>
+</li>
+<li>厂长来了
+<ul>
+<li>说出创业者自己的故事。</li>
+<li>“厂长来了”是一档创新的访谈类播客节目，邀请成功创业者与投资人，一起拆解创业中的问题，分享创业中的挑战、艰辛与收获。</li>
+<li>借助声音独有的亲切和温度，和一个个真实的小故事，“厂长来了”摆脱了普通公关稿、媒体采访和产业观察的距离感，帮助听友感受到平视的交流，也帮助创业者和听友建立起真实的情感连接。</li>
+<li>“厂长来了”第二季由津津乐道与华创资本联合制作。</li>
+</ul>
+</li>
+<li>编码人声
+<ul>
+<li>解码成长故事，编码多彩人生。</li>
+<li>编码人声是一档聚焦程序员成长的播客节目，由资深程序员和年轻开发者共同担任主播。邀请不同背景的程序员担任节目嘉宾，分享程序员职业成长、个人成长经验，为程序员听友答疑解惑。</li>
+<li>本节目由津津乐道播客网络与声网联合制作。</li>
+</ul>
+</li>
+<li>叫卖图
+<ul>
+<li>我们！来自天津！来的都是牛人，聊的都是哏儿事儿，姿态绝不端着，有范儿也不拿着，话题感性有余，冷暖触手可及。</li>
+<li>描绘原汁原味的旧日市井文化，铺陈活络不羁的新天津卫烟火气。道地风物，都市传奇，一档节目，一站过瘾，嬉笑怒骂诉生活，插科打诨图一乐儿，期待与你相遇的每一分钟，用鲜活的声音联通你我的精神角落。</li>
+<li>本节目由津津乐道、侃爷茶馆、生活漫游指南联合制作，通过津津乐道播客网络发行</li>
+</ul>
+</li>
+<li>串台
+<ul>
+<li>由津津乐道播客网络推出的一档播客行业节目，旨在为播客受众推荐优秀节目、与播客制作者共同探索播客产业及其商业模式。</li>
+</ul>
+</li>
+</ul>
+<blockquote>
+<p>懂技术的播客不多，津津乐道算是其中一个</p>
+</blockquote>
+<p><strong><a href="https://justpodmedia.com/">JustPod</a></strong></p>
+<figure data-type="image" tabindex="15"><img src="https://justpodmedia.com/static/img/banner5.00e69c40.png" alt="介绍" loading="lazy"></figure>
+<p>旗下播客有（部分）：</p>
+<ul>
+<li>忽左忽右
+<ul>
+<li>「忽左忽右」是一档文化沙龙类播客节目，试图为中文播客听众提供基于经验视角的话题和内容。本节目由JustPod出品。曾荣获苹果播客2019年度最佳播客。</li>
+</ul>
+</li>
+<li>东亚观察局
+<ul>
+<li>《东亚观察局》是由主播梵一如、沙青青、权小星三人为固定成员的对谈聊天节目，聚焦以中日韩三国为核心的“东亚地区”的热点话题、文化现象以及历史趣闻。</li>
+</ul>
+</li>
+<li>杯弓蛇瘾
+<ul>
+<li>《杯弓舌瘾》是一档专注酒类生活方式的中文播客节目，由钱睿荪和戴鸿靖主持。我们将沉浸在与美酒相关的话题中，与您一同微醺邂逅。《杯弓舌瘾》由JustPod出品。</li>
+</ul>
+</li>
+<li>贝望录
+<ul>
+<li>2019苹果播客「年度精选播客」及「年度最受欢迎新播客」。 《贝望录》是一档观察广告如何影响着社会运行以及人们日常生活的谈话节目，由资深广告人李倩玲女士担任常驻主持。《贝望录》由JustPod出品。</li>
+</ul>
+</li>
+<li>跳岛FM
+<ul>
+<li>「跳岛FM」是一档文学主题播客，一份可以用耳朵收听的文学杂志。每周三更新。我们跟随作家探寻文学作品的诞生起点，听各行各业的创意头脑分享文学灵感，让谈论文学也成为艺术创作。</li>
+</ul>
+</li>
+</ul>
+<blockquote>
+<p>可能是中国最有影响力的播客团队</p>
+</blockquote>
+<p><strong>声动活泼</strong></p>
+<p>旗下播客有（部分）：</p>
+<ul>
+<li>
+<p>声东击西</p>
+<ul>
+<li>世界宽广，但人们被日常及社交媒体所限制。</li>
+<li>那就让作为记者的我们，帮你推开一些意想不到的窗户，触及不一样的信息，激发不一样的思考。</li>
+<li>在这里，我们对话各种有趣有料，能带来启发的专业人士，也不定期会有神秘嘉宾出现。</li>
+<li>我们也时不时做各种和声音有关的尝试，打开一些新体验。</li>
+</ul>
+</li>
+<li>
+<p>What's Next｜科技早知道</p>
+<ul>
+<li>原「硅谷早知道」，全新改版的「What's Next｜科技早知道」我们会继续放眼全球，不仅聚焦纯科技的话题，也会关注科技引领世界以及商业格局变化等新话题。</li>
+<li>新一季我们的节目会由多个模块共同组成，除了延续我们以往不同科技领域新技术新动向的话题，我们也会加入出海、多视角解读科技行业大事件。</li>
+</ul>
+</li>
+<li>
+<p>声动早咖啡</p>
+<ul>
+<li>浓缩、新鲜，商业科技轻解读。</li>
+<li>这是一档充满新鲜咖啡气息的清晨播客节目， 每期15分钟，在工作日早晨出门前，为你带来精心挑选的几条即时商业科技轻解读，以开启能量满满新一天。</li>
+</ul>
+</li>
+<li>
+<p>组织进化论</p>
+<ul>
+<li>「组织进化论」由字节跳动飞书与声动活泼联合推出，专注于职场话题和企业管理。我们邀请有趣有料的嘉宾一同分享对于未来工作和管理方式的洞察，希望思维的碰撞可以使大家产生新的思考，让大家更加高效愉悦地工作与生活。</li>
+</ul>
+</li>
+<li>
+<p>泡腾VC</p>
+<ul>
+<li>泡腾 VC 是由两位身处一线的风险投资人：Ted（孙腾）和 Momo（陈默默）主持的节目。</li>
+<li>带你听段子抹平信息不对称，带给你冒着泡泡的新鲜观点和最前沿的 VC 趣闻。</li>
+</ul>
+</li>
+</ul>
+<h3 id="优秀播客推荐">💝优秀播客推荐</h3>
+<ul>
+<li>无聊斋
+<ul>
+<li>两个喜剧演员聊天，会邀请嘉宾</li>
+</ul>
+</li>
+<li>谐星聊天会
+<ul>
+<li>快乐源泉！强烈推荐！</li>
+</ul>
+</li>
+<li>三五环
+<ul>
+<li>商业、互联网那些事。强烈推荐！</li>
+</ul>
+</li>
+<li>一派·Podcast
+<ul>
+<li>少数派出品，必属精品。强烈推荐！</li>
+</ul>
+</li>
+<li>声东击西
+<ul>
+<li>驻美记者带你了解世界</li>
+</ul>
+</li>
+<li>枫言枫语
+<ul>
+<li>一位设计师、一位程序员聊科技</li>
+</ul>
+</li>
+<li>科技乱炖
+<ul>
+<li>犀利解读科技新鲜事，强烈推荐！</li>
+</ul>
+</li>
+<li>日谈公园
+<ul>
+<li>治愈人心，增长见野。强烈推荐！</li>
+</ul>
+</li>
+<li>故事FM
+<ul>
+<li>用你的声音，讲述你的故事。强烈推荐！</li>
+</ul>
+</li>
+<li>NickTalk
+<ul>
+<li>Nick的杂谈节目（偏科技）</li>
+</ul>
+</li>
+<li>Anyway.FM
+<ul>
+<li>两位设计师闲聊数码、科技、设计，轻松有趣，强烈推荐！</li>
+</ul>
+</li>
+<li>津津乐道
+<ul>
+<li>津津乐道旗下播客节目都聚合在这里</li>
+</ul>
+</li>
+<li>叫卖图
+<ul>
+<li>你或许对天津有些刻板印象，这里带你看新天津</li>
+</ul>
+</li>
+<li>一言不合
+<ul>
+<li>喜剧节目</li>
+</ul>
+</li>
+<li>嘻谈录
+<ul>
+<li>喜剧联盒国的喜剧节目，类似谐星聊天会。强烈推荐！</li>
+</ul>
+</li>
+<li>第七电台
+<ul>
+<li>轻松闲聊</li>
+</ul>
+</li>
+<li>没理想编辑部
+<ul>
+<li>看理想旗下电台</li>
+</ul>
+</li>
+<li>看理想电台
+<ul>
+<li>看理想旗下电台。强烈推荐！</li>
+</ul>
+</li>
+<li>文化有限
+<ul>
+<li>推荐书，有独到见解</li>
+</ul>
+</li>
+<li>路人抓马
+<ul>
+<li>闲谈。强烈推荐</li>
+</ul>
+</li>
+<li>机核网GADIO游戏广播
+<ul>
+<li>游戏热爱者可以听</li>
+</ul>
+</li>
+<li>限时肤浅
+<ul>
+<li>闲聊</li>
+</ul>
+</li>
+<li>无限进步
+<ul>
+<li>影视飓风旗下播客</li>
+</ul>
+</li>
+<li>编码人声
+<ul>
+<li>聊程序员</li>
+</ul>
+</li>
+<li>津津有味
+<ul>
+<li>聊吃的，强烈推荐！</li>
+</ul>
+</li>
+<li>原汤话原食
+<ul>
+<li>新鲜时事</li>
+</ul>
+</li>
+<li>发发大王
+<ul>
+<li>杂谈</li>
+</ul>
+</li>
+<li>基本无害
+<ul>
+<li>毛冬的个人播客</li>
+</ul>
+</li>
+<li>姜思达
+<ul>
+<li>姜思达的个人播客</li>
+</ul>
+</li>
+<li>伐要去管它
+<ul>
+<li>Storm的个人播客</li>
+</ul>
+</li>
+<li>乱翻书
+<ul>
+<li>潘乱老师的播客，关于科技、互联网。强烈推荐！</li>
+</ul>
+</li>
+<li>对话复兴 | PodFest China 2021
+<ul>
+<li>聊博客的</li>
+</ul>
+</li>
+<li>FView Friday
+<ul>
+<li>爱否旗下播客，关于数码。强烈推荐！</li>
+</ul>
+</li>
+<li>迟早更新
+<ul>
+<li>闲聊。强烈推荐！</li>
+</ul>
+</li>
+<li>晚点聊
+<ul>
+<li>晚点新闻旗下播客</li>
+</ul>
+</li>
+<li>大内密谈
+<ul>
+<li>播客元老，闲聊</li>
+</ul>
+</li>
+<li>黑水公园
+<ul>
+<li>聊鬼怪、聊灵异</li>
+</ul>
+</li>
+<li>八分
+<ul>
+<li>强烈推荐！</li>
+</ul>
+</li>
+</ul>
+<p>PS：排名不分先后</p>
+<h3 id="参考资料">📃参考资料</h3>
+<p><a href="https://www.sohu.com/a/405340206_114819">产品分析 | 小宇宙——为播客而生</a></p>
+<p><a href="https://dao.fm/">津津乐道</a></p>
+<p><a href="https://justpodmedia.com/">JustPod</a></p>
+<p>声动活泼</p>
+
+                </div>
+            </article>
+        </div>
+
+        
+            <div class="next-post">
+                <div class="next gt-c-content-color-first">下一篇</div>
+                <a href="http://localhost:4000/post/hello-gridea/" class="post-title gt-a-link">
+                    Hello Gridea
+                </a>
+            </div>
+        
+
+        
+
+        
+            
+                <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk/dist/gitalk.min.css">
+<script src="https://cdn.jsdelivr.net/npm/gitalk/dist/gitalk.min.js"></script>
+<script>
+    // md5.min.js
+    !function(n){
+        "use strict";
+        function d(n,t){var r=(65535&n)+(65535&t);return(n>>16)+(t>>16)+(r>>16)<<16|65535&r}
+        function f(n,t,r,e,o,u){return d((c=d(d(t,n),d(e,u)))<<(f=o)|c>>>32-f,r);var c,f}
+        function l(n,t,r,e,o,u,c){return f(t&r|~t&e,n,t,o,u,c)}
+        function v(n,t,r,e,o,u,c){return f(t&e|r&~e,n,t,o,u,c)}
+        function g(n,t,r,e,o,u,c){return f(t^r^e,n,t,o,u,c)}
+        function m(n,t,r,e,o,u,c){return f(r^(t|~e),n,t,o,u,c)}
+        function i(n,t){var r,e,o,u,c;n[t>>5]|=128<<t%32,n[14+(t+64>>>9<<4)]=t;var f=1732584193,i=-271733879,a=-1732584194,h=271733878;for(r=0;r<n.length;r+=16)f=l(e=f,o=i,u=a,c=h,n[r],7,-680876936),h=l(h,f,i,a,n[r+1],12,-389564586),a=l(a,h,f,i,n[r+2],17,606105819),i=l(i,a,h,f,n[r+3],22,-1044525330),f=l(f,i,a,h,n[r+4],7,-176418897),h=l(h,f,i,a,n[r+5],12,1200080426),a=l(a,h,f,i,n[r+6],17,-1473231341),i=l(i,a,h,f,n[r+7],22,-45705983),f=l(f,i,a,h,n[r+8],7,1770035416),h=l(h,f,i,a,n[r+9],12,-1958414417),a=l(a,h,f,i,n[r+10],17,-42063),i=l(i,a,h,f,n[r+11],22,-1990404162),f=l(f,i,a,h,n[r+12],7,1804603682),h=l(h,f,i,a,n[r+13],12,-40341101),a=l(a,h,f,i,n[r+14],17,-1502002290),f=v(f,i=l(i,a,h,f,n[r+15],22,1236535329),a,h,n[r+1],5,-165796510),h=v(h,f,i,a,n[r+6],9,-1069501632),a=v(a,h,f,i,n[r+11],14,643717713),i=v(i,a,h,f,n[r],20,-373897302),f=v(f,i,a,h,n[r+5],5,-701558691),h=v(h,f,i,a,n[r+10],9,38016083),a=v(a,h,f,i,n[r+15],14,-660478335),i=v(i,a,h,f,n[r+4],20,-405537848),f=v(f,i,a,h,n[r+9],5,568446438),h=v(h,f,i,a,n[r+14],9,-1019803690),a=v(a,h,f,i,n[r+3],14,-187363961),i=v(i,a,h,f,n[r+8],20,1163531501),f=v(f,i,a,h,n[r+13],5,-1444681467),h=v(h,f,i,a,n[r+2],9,-51403784),a=v(a,h,f,i,n[r+7],14,1735328473),f=g(f,i=v(i,a,h,f,n[r+12],20,-1926607734),a,h,n[r+5],4,-378558),h=g(h,f,i,a,n[r+8],11,-2022574463),a=g(a,h,f,i,n[r+11],16,1839030562),i=g(i,a,h,f,n[r+14],23,-35309556),f=g(f,i,a,h,n[r+1],4,-1530992060),h=g(h,f,i,a,n[r+4],11,1272893353),a=g(a,h,f,i,n[r+7],16,-155497632),i=g(i,a,h,f,n[r+10],23,-1094730640),f=g(f,i,a,h,n[r+13],4,681279174),h=g(h,f,i,a,n[r],11,-358537222),a=g(a,h,f,i,n[r+3],16,-722521979),i=g(i,a,h,f,n[r+6],23,76029189),f=g(f,i,a,h,n[r+9],4,-640364487),h=g(h,f,i,a,n[r+12],11,-421815835),a=g(a,h,f,i,n[r+15],16,530742520),f=m(f,i=g(i,a,h,f,n[r+2],23,-995338651),a,h,n[r],6,-198630844),h=m(h,f,i,a,n[r+7],10,1126891415),a=m(a,h,f,i,n[r+14],15,-1416354905),i=m(i,a,h,f,n[r+5],21,-57434055),f=m(f,i,a,h,n[r+12],6,1700485571),h=m(h,f,i,a,n[r+3],10,-1894986606),a=m(a,h,f,i,n[r+10],15,-1051523),i=m(i,a,h,f,n[r+1],21,-2054922799),f=m(f,i,a,h,n[r+8],6,1873313359),h=m(h,f,i,a,n[r+15],10,-30611744),a=m(a,h,f,i,n[r+6],15,-1560198380),i=m(i,a,h,f,n[r+13],21,1309151649),f=m(f,i,a,h,n[r+4],6,-145523070),h=m(h,f,i,a,n[r+11],10,-1120210379),a=m(a,h,f,i,n[r+2],15,718787259),i=m(i,a,h,f,n[r+9],21,-343485551),f=d(f,e),i=d(i,o),a=d(a,u),h=d(h,c);return[f,i,a,h]}
+        function a(n){var t,r="",e=32*n.length;for(t=0;t<e;t+=8)r+=String.fromCharCode(n[t>>5]>>>t%32&255);return r}
+        function h(n){var t,r=[];for(r[(n.length>>2)-1]=void 0,t=0;t<r.length;t+=1)r[t]=0;var e=8*n.length;for(t=0;t<e;t+=8)r[t>>5]|=(255&n.charCodeAt(t/8))<<t%32;return r}
+        function e(n){var t,r,e="0123456789abcdef",o="";for(r=0;r<n.length;r+=1)t=n.charCodeAt(r),o+=e.charAt(t>>>4&15)+e.charAt(15&t);return o}
+        function r(n){return unescape(encodeURIComponent(n))}
+        function o(n){return a(i(h(t=r(n)),8*t.length));var t}
+        function u(n,t){return function(n,t){var r,e,o=h(n),u=[],c=[];for(u[15]=c[15]=void 0,16<o.length&&(o=i(o,8*n.length)),r=0;r<16;r+=1)u[r]=909522486^o[r],c[r]=1549556828^o[r];return e=i(u.concat(h(t)),512+8*t.length),a(i(c.concat(e),640))}(r(n),r(t))}
+        function t(n,t,r){return t?r?u(t,n):e(u(t,n)):r?o(n):e(o(n))}
+        "function"==typeof define&&define.amd?define(function(){return t}):"object"==typeof module&&module.exports?module.exports=t:n.md5=t;
+    }(this);
+</script>
+
+
+<div id="gitalk-container"></div>
+
+<script>
+
+  var gitalk = new Gitalk({
+    clientID: 'b2c159be1e08198ea57c',
+    clientSecret: 'b9eb3127565cfd9928c744f25aa17a259430db8a',
+    repo: 'grideagitalk',
+    owner: 'qyxblog',
+    admin: ['qyxblog'],
+    id: md5(location.pathname),      // Ensure uniqueness and length less than 50
+    distractionFreeMode: false       // Facebook-like distraction free mode
+  })
+
+  gitalk.render('gitalk-container')
+
+</script>
+
+            
+
+            
+        
+
+        
+
+        <div class="site-footer gt-c-content-color-first">
+    <div class="slogan gt-c-content-color-first">生命不息，折腾不止</div>
+    <div class="social-container">
+        
+            
+                <a href="https://github.com/qyxblog" target="_blank">
+                    <i class="fab fa-github gt-c-content-color-first"></i>
+                </a>
+            
+        
+            
+        
+            
+        
+            
+                <a href="https://www.zhihu.com/people/bu-zhi-ming-wang-you-55-12" target="_blank">
+                    <i class="fab fa-zhihu gt-c-content-color-first"></i>
+                </a>
+            
+        
+            
+        
+            
+        
+    </div>
+    <div class="footer-info">
+        	<div style="font-size: 0.85rem">
+	  <span id="timeDate">载入天数...</span>
+	  <span id="times">载入时分秒...</span>
+	  <script>
+	  !(function() {
+	    /** 计时起始时间，自行修改 **/
+	    var start = new Date("2022/1/18 21:49:54");
+	  
+	    function update() {
+	      var now = new Date();
+	      now.setTime(now.getTime()+250);
+	      days = (now - start) / 1000 / 60 / 60 / 24;
+	      dnum = Math.floor(days);
+	      hours = (now - start) / 1000 / 60 / 60 - (24 * dnum);
+	      hnum = Math.floor(hours);
+	      if(String(hnum).length === 1 ){
+	        hnum = "0" + hnum;
+	      }
+	      minutes = (now - start) / 1000 /60 - (24 * 60 * dnum) - (60 * hnum);
+	      mnum = Math.floor(minutes);
+	      if(String(mnum).length === 1 ){
+	        mnum = "0" + mnum;
+	      }
+	      seconds = (now - start) / 1000 - (24 * 60 * 60 * dnum) - (60 * 60 * hnum) - (60 * mnum);
+	      snum = Math.round(seconds);
+	      if(String(snum).length === 1 ){
+	        snum = "0" + snum;
+	      }
+	      document.getElementById("timeDate").innerHTML = "本站已运行&nbsp"+dnum+"&nbsp天";
+	      document.getElementById("times").innerHTML = hnum + "&nbsp小时&nbsp" + mnum + "&nbsp分&nbsp" + snum + "&nbsp秒，感谢你的陪伴";
+	    }
+	  
+	    update();
+	    setInterval(update, 1000);
+	  })();
+	  </script>
+<p>永远年轻 永远热泪盈眶</p>
+    </div>
+    <div>
+        Theme by <a href="https://imhanjie.com/" target="_blank">imhanjie</a>, Powered by <a
+                href="https://github.com/getgridea/gridea" target="_blank">Gridea | <a href="http://localhost:4000/atom.xml" target="_blank">RSS</a></a>
+    </div>
+</div>
+
+<script>
+  hljs.initHighlightingOnLoad()
+</script>
+
+    </div>
+</div>
+</body>
+</html>

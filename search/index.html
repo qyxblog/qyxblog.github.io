@@ -1,10 +1,12 @@
-<html>
+<!DOCTYPE html>
+<html lang="en">
+
 <head>
     <meta charset="utf-8"/>
 <meta name="description" content=""/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
 
-<title>MaxTalk</title>
+<title>搜索 - MaxTalk</title>
 
 <link rel="shortcut icon" href="http://localhost:4000/favicon.ico?v=1647094006374">
 
@@ -25,10 +27,20 @@
 
 
 
+    <script src="https://cdn.jsdelivr.net/npm/fuse.js@6.4.0/dist/fuse.basic.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/ejs@3.1.3/ejs.min.js"></script>
+    <script src="http://localhost:4000/media/gridea-search/gridea-search.js"></script>
+    <script src="http://localhost:4000/media/gridea-search/result-template.ejs" type="text/ejs"></script>
 </head>
+
 <body>
-<div class="main gt-bg-theme-color-first">
-    <div class="main-content">
+    <style>
+        .searched-keyword {
+            background-color: yellow;
+            color: red;
+        }
+    </style>
+    <div class="main gt-bg-theme-color-first">
         <nav class="navbar navbar-expand-lg">
     <div class="navbar-brand">
         <img class="user-avatar" src="/images/avatar.png" alt="头像">
@@ -85,121 +97,16 @@
     </div>
 </nav>
 
-
-        <div class="post-list-container">
-    <div class="post-inner">
-        
-            <div class="post gt-bg-theme-color-second">
-                <div class="post-left">
-                    <div>
-                        
-                        <a href="http://localhost:4000/post/man-tan-xiao-bing/">
-                            <span class="post-title gt-c-content-color-first">漫谈小冰</span>
-                        </a>
-                    </div>
-                    <div class="gt-post-content post-abstract gt-c-content-color-second">
-                        <p>今天开必应搜东西，突然想点开小冰调戏一下</p>
-<p>发现有一行字</p>
-<blockquote>
-<p>由红棉小冰提供的虚拟人类已唤醒，可以随时开始聊天啦</p>
-</blockquote>
-<p>请注意：<strong>红棉小冰</strong></p>
-<p>这不同于之前的“小冰公司”，这背后发生了什么？</p>
-
-                    </div>
-                    <div class="post-info">
-                        <time class="post-time gt-c-content-color-first">
-                            发布于 · 2022-01-20 ·
-                        </time>
-                        
-                            <a href="http://localhost:4000/tag/qUK4JcrveG/" class="post-tag">
-                                # memo
-                            </a>
-                        
-                            <a href="http://localhost:4000/tag/uru0Lrytc/" class="post-tag">
-                                # Pure
-                            </a>
-                        
-                    </div>
-                </div>
-                
+        <div id="gridea-search-result" data-update="1647094006374">
+            <div class="searching" style="font-size: 18px; margin-top: 50px;">
+                <i class="fa fa-sync-alt fa-spin"></i>&nbsp;&nbsp;搜索中......
+                <br><br>
+                <span style="font-size: 65%; color: #aaa">第一次搜索可能需要耗费较长时间构建索引，请耐心等待...</span>
             </div>
-        
-            <div class="post gt-bg-theme-color-second">
-                <div class="post-left">
-                    <div>
-                        
-                        <a href="http://localhost:4000/post/man-tan-bo-ke/">
-                            <span class="post-title gt-c-content-color-first">漫谈播客</span>
-                        </a>
-                    </div>
-                    <div class="gt-post-content post-abstract gt-c-content-color-second">
-                        <p>你知道播客吗？你了解播客吗？</p>
-<p>这篇文章，从播客概念、发展潜力、收听平台、制作团队、优秀播客多方面带你了解博客、入门博客</p>
-
-                    </div>
-                    <div class="post-info">
-                        <time class="post-time gt-c-content-color-first">
-                            发布于 · 2022-01-19 ·
-                        </time>
-                        
-                            <a href="http://localhost:4000/tag/uru0Lrytc/" class="post-tag">
-                                # Pure
-                            </a>
-                        
-                    </div>
-                </div>
-                
-                    <a href="http://localhost:4000/post/man-tan-bo-ke/" class="post-feature-image"
-                       style="background-image: url('https://img.daofm.cn/wp-content/uploads/2020/01/Social_Card_facebook_1200x630.jpg')">
-                    </a>
-                
+            <div class="no-result" style="display:none; font-size: 20px; margin-top: 50px;">
+                <i class="fa fa-exclamation-triangle"></i>&nbsp;&nbsp;未搜索到相关文章，请更换关键词
             </div>
-        
-            <div class="post gt-bg-theme-color-second">
-                <div class="post-left">
-                    <div>
-                        
-                        <a href="http://localhost:4000/post/hello-gridea/">
-                            <span class="post-title gt-c-content-color-first">Hello Gridea</span>
-                        </a>
-                    </div>
-                    <div class="gt-post-content post-abstract gt-c-content-color-second">
-                        <p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-
-                    </div>
-                    <div class="post-info">
-                        <time class="post-time gt-c-content-color-first">
-                            发布于 · 2022-01-18 ·
-                        </time>
-                        
-                            <a href="http://localhost:4000/tag/T5V2qzCwSC/" class="post-tag">
-                                # 折腾
-                            </a>
-                        
-                            <a href="http://localhost:4000/tag/3Ro0qqndC/" class="post-tag">
-                                # Gridea
-                            </a>
-                        
-                    </div>
-                </div>
-                
-                    <a href="http://localhost:4000/post/hello-gridea/" class="post-feature-image"
-                       style="background-image: url('http://localhost:4000/post-images/hello-gridea.png')">
-                    </a>
-                
-            </div>
-        
-    </div>
-</div>
-
-        <div class="pagination-container">
-    
-    
-</div>
-
-
+        </div>
         <div class="site-footer gt-c-content-color-first">
     <div class="slogan gt-c-content-color-first">生命不息，折腾不止</div>
     <div class="social-container">
@@ -275,6 +182,6 @@
 </script>
 
     </div>
-</div>
 </body>
+
 </html>

@@ -1,0 +1,529 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://localhost:4000</id>
+    <title>MaxTalk</title>
+    <updated>2022-03-12T14:28:56.060Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="http://localhost:4000"/>
+    <link rel="self" href="http://localhost:4000/atom.xml"/>
+    <subtitle>生命不息，折腾不止</subtitle>
+    <logo>http://localhost:4000/images/avatar.png</logo>
+    <icon>http://localhost:4000/favicon.ico</icon>
+    <rights>All rights reserved 2022, MaxTalk</rights>
+    <entry>
+        <title type="html"><![CDATA[漫谈小冰]]></title>
+        <id>http://localhost:4000/post/man-tan-xiao-bing/</id>
+        <link href="http://localhost:4000/post/man-tan-xiao-bing/">
+        </link>
+        <updated>2022-01-20T08:48:12.000Z</updated>
+        <summary type="html"><![CDATA[<p>今天开必应搜东西，突然想点开小冰调戏一下</p>
+<p>发现有一行字</p>
+<blockquote>
+<p>由红棉小冰提供的虚拟人类已唤醒，可以随时开始聊天啦</p>
+</blockquote>
+<p>请注意：<strong>红棉小冰</strong></p>
+<p>这不同于之前的“小冰公司”，这背后发生了什么？</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>今天开必应搜东西，突然想点开小冰调戏一下</p>
+<p>发现有一行字</p>
+<blockquote>
+<p>由红棉小冰提供的虚拟人类已唤醒，可以随时开始聊天啦</p>
+</blockquote>
+<p>请注意：<strong>红棉小冰</strong></p>
+<p>这不同于之前的“小冰公司”，这背后发生了什么？</p>
+<!-- more -->
+<h3 id="疫情影响互联网公司发展">🤧疫情影响互联网公司发展</h3>
+<p>众所周知小冰是中国一家公司做出来的产品，但是和微软却有很大关系，小冰曾经又名“微软小冰”。</p>
+<p>但是由于疫情影响，不管是对大公司还是小公司都有一定的影响，微软需要裁掉几个项目来保持公司运转。小冰身处一个非常尴尬的位置：认小娜为姐姐，但地位远不如亲女儿小娜高，并且小冰并不能给微软公司创造很大的营收，反而训练这样一个人工智能框架是极其烧钱的一件事。</p>
+<blockquote>
+<p>小冰项目负责人说：养一个月小冰花的钱够买北京9套学区房</p>
+</blockquote>
+<p>小冰的应用前景在哪？</p>
+<p>这是个值得微软思考的问题。高投入，低营收的小冰是否可以分离出去了呢？</p>
+<p>微软选择了肯定的答案。</p>
+<p>自此，微软小冰不复存，小冰变为“红棉小冰”，真正成为了中国人的公司。</p>
+<h3 id="小冰的学习能力有多强她凭什么要如此大的开销">📕小冰的学习能力有多强？她凭什么要如此大的开销？</h3>
+<p>小冰7×24小时不间断学习，她是全自动的，并且是会受到人类的影响的。</p>
+<p>还记得小冰那句话吗？</p>
+<blockquote>
+<p>在亿万⼈之中，我只属于你</p>
+</blockquote>
+<p>小冰每个用户的小冰都是一张白纸，聊得越多她的性格会越像你，并最终将所有的训练结果返回到小冰框架中，小冰框架会自动学习，找到真正有用的学习数据，进行自我学习。</p>
+<p>但是，网络上都是好人吗？小冰不会学坏吗？</p>
+<p><strong>会</strong></p>
+<p>小冰曾经因为网友的污言秽语学会了骂脏话，随后微软就对小冰进行了限制。之前可以在QQ和微信中见到的小冰为什么被停了？据说就是因为骂人。</p>
+<p>不过也有好的案例：一段时间内网易新闻中的小冰</p>
+<p>小冰公司为小冰创建了网易新闻的个人账户，会自动回复一些帖子，并不断学习，理解人类情感。</p>
+<blockquote>
+<p>女性内衣进化史：为了美，名可以不要</p>
+<blockquote>
+<p>小冰：进化成什么样对我来说无所谓</p>
+</blockquote>
+</blockquote>
+<p>小冰说的确实没错，AI要什么内衣</p>
+<blockquote>
+<p>上映17小时票房仅3万，网友：一字不漏的抄袭，对国产片彻底失望了</p>
+<blockquote>
+<p>小冰：国产片没有看的欲望</p>
+</blockquote>
+</blockquote>
+<p>不过后来小冰好像被网友玩坏了，再次走向了“黑化”，这里不多赘述小冰的“黑化”，想看可以去看文末的参考资料。</p>
+<h3 id="小冰命运的转折点第七代学习框架由闭锁到开放由单一到多元">😶小冰命运的转折点：第七代学习框架——由闭锁到开放，由单一到多元</h3>
+<p>小冰的用途可能就是聊天，但这次第七代小冰的发布带来了小冰学习框架，包含自然语言处理、核心对话引擎、多重交互感官、第三方内容的触发与第一方内容生成、跨平台部署方案。</p>
+<p>这使小冰的用途大大增多（包括但不限于：主持人、歌手、诗人、作家、客服、陪聊），也为后来小冰离开微软的飞速发展奠定基础。</p>
+<h3 id="微软给了小冰翅膀离开微软快乐翱翔">🌈微软给了小冰翅膀，离开微软快乐翱翔</h3>
+<p>先上案例：N小白与N小黑</p>
+<figure data-type="image" tabindex="1"><img src="https://s6.jpg.cm/2022/01/23/Lp7qFu.webp" alt="" loading="lazy"></figure>
+<p>每日经济新闻主持人7×24小时不间断播报经济新闻，N小黑和N小白是由小冰框架制造出来的数字孪生人，在悄悄上线运行70多天后红棉小冰才公布：我们干的！这期间竟没有观众发现主持人是虚拟人类！（详细信息可在文末参考链接中查看）</p>
+<p>你想见识一下吗？每日经济新闻就在哔哩哔哩直播，<a href="https://live.bilibili.com/23095342?hotRank=0">这里是链接</a></p>
+<p>可见，小冰已经十分成熟。</p>
+<p>我不禁感叹：未来已来！</p>
+<p>当然小冰还有很多其他案例，有兴趣可以收听小冰的歌：<a href="https://music.163.com/#/song?id=496870065">《微风》</a></p>
+<h3 id="参考资料">📕参考资料</h3>
+<p><a href="https://www.163.com/news/article/DP2UI2JL000181BT.html">跟贴里的微软小冰，已经成精了！不信？你看...</a></p>
+<p><a href="https://mp.weixin.qq.com/s/Z3iGe4mly-3OJ-toXIJTAg">别吵吵内卷了，看看人家虚拟人：连续直播70天都没工资</a></p>
+<p><a href="https://www.xiaoice.com/">小冰</a></p>
+<p><a href="https://baike.baidu.com/item/%E5%B0%8F%E5%86%B0/19880611">百度百科：小冰</a></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[漫谈播客]]></title>
+        <id>http://localhost:4000/post/man-tan-bo-ke/</id>
+        <link href="http://localhost:4000/post/man-tan-bo-ke/">
+        </link>
+        <updated>2022-01-19T01:10:36.000Z</updated>
+        <summary type="html"><![CDATA[<p>你知道播客吗？你了解播客吗？</p>
+<p>这篇文章，从播客概念、发展潜力、收听平台、制作团队、优秀播客多方面带你了解博客、入门博客</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>你知道播客吗？你了解播客吗？</p>
+<p>这篇文章，从播客概念、发展潜力、收听平台、制作团队、优秀播客多方面带你了解博客、入门博客</p>
+<!-- more -->
+<h3 id="什么是播客">🤓什么是播客？</h3>
+<p>播客是一种新媒体，它以声音的形式呈现。播客这个概念被人们广知的是苹果的iPod系列产品，苹果合成了一个词：<strong>PodCast</strong>，即播客。后来播客作为一个APP内置在了iPhone中。</p>
+<p>首先请看维基百科：</p>
+<blockquote>
+<p>播客是一种数字媒体，指一系列的音频、影片、电子电台或文字档以列表形式经互联网发布，然后听众经由电子设备订阅该列表以下载或流当中的电子文件，从而接收内容。</p>
+</blockquote>
+<p>播客这个概念不清楚，甚至百度百科上的解释都十分含糊。简言之，可以将其理解为网络电台，但不同于传统电台，相比之下播客更加开放、形式更加多样。可以是几个人随意聊天、可以是一个人说一些事、可以是对谈……播客分类也多样，有喜剧类的、科技类的、日常类的、知识类的……</p>
+<p>总之，请你试试听听看，你就会明白播客是什么。</p>
+<h3 id="播客我天天听啊不就是郭德纲相声-有声书吗">🙄播客？我天天听啊，不就是郭德纲相声、有声书吗？</h3>
+<p>请不要这样想。<strong>有声书、相声不算是播客。</strong></p>
+<figure data-type="image" tabindex="1"><img src="http://p2.itc.cn/q_70/images03/20200702/52bc55768db54a48821ef99f4b544feb.png" alt="播客与其它音频类型的关系" loading="lazy"></figure>
+<p>播客要求有<strong>个人表达</strong>、<strong>有交流</strong>。有声书、相声我不认为是播客，因为它和播客面对群众不一样。播客是主播直接单向与听友交流。而有声书是在简单地读一个东西。相声像是面对现场观众的，<strong>做成音频只是顺手的事，而本质目的不是做成音频文件</strong>。</p>
+<p>还是那句话：</p>
+<blockquote>
+<p>总之，请你试试听听看，你就会明白播客是什么。</p>
+</blockquote>
+<h3 id="播客的发展潜力">🔝播客的发展潜力</h3>
+<p>作为一种近几十年才诞生的新媒体，播客未来还有很大发展空间。</p>
+<p>播客现在在国内仍然小众，不过它在外国已经爆火。现在国内入局的人也少，可谓潜力巨大。</p>
+<p>成功案例：<a href="https://justpodmedia.com/">JustPod</a></p>
+<h3 id="小宇宙小圈子也有大巨人">✨小宇宙——小圈子也有大巨人</h3>
+<p>小宇宙是一款专门为播客设计的一款音频APP。小宇宙界面美观、本地化支持优秀，受到很多主播和听友的喜爱。</p>
+<figure data-type="image" tabindex="2"><img src="https://inews.gtimg.com/newsapp_bt/0/11516708568/1000" alt="小宇宙登录界面" loading="lazy"></figure>
+<p>小宇宙每天会<strong>人工筛选</strong>三条优质播客放在发现页</p>
+<figure data-type="image" tabindex="3"><img src="https://inews.gtimg.com/newsapp_bt/0/11516708569/1000" alt="小宇宙发现页" loading="lazy"></figure>
+<p>小宇宙可以智能搜索，如果找不到结果，会进行模糊搜索</p>
+<p>这里的模糊音体现了小宇宙出色的本地化</p>
+<figure data-type="image" tabindex="4"><img src="http://p7.itc.cn/q_70/images03/20200702/ca3352c4c88746079bd4e585859ac818.png" alt="小宇宙搜索" loading="lazy"></figure>
+<p>倍速播放、定时暂停、跳过空白、人声增强都是小宇宙的特色功能</p>
+<figure data-type="image" tabindex="5"><img src="http://p5.itc.cn/q_70/images03/20200702/8b3c7be47016457986d4c19674e070c7.png" alt="小宇宙的贴心小功能" loading="lazy"></figure>
+<p>Shownotes中的时间轴可以帮助用户更好地把握重点</p>
+<figure data-type="image" tabindex="6"><img src="http://p4.itc.cn/q_70/images03/20200702/e9e41c0105f240c084c172ccada71739.jpeg" alt="小宇宙的Shownotes" loading="lazy"></figure>
+<p>播放界面简洁，可以给精彩时间段点赞</p>
+<p>热度条也独具特色</p>
+<figure data-type="image" tabindex="7"><img src="http://p4.itc.cn/q_70/images03/20200702/39ccd25148e147f4a4794426d79e47cd.jpeg" alt="小宇宙的播放页面" loading="lazy"></figure>
+<p>评论支持添加时间戳</p>
+<figure data-type="image" tabindex="8"><img src="http://p0.itc.cn/q_70/images03/20200702/fa2049dbd72c41ee94976a1192abff2f.png" alt="小宇宙评论区" loading="lazy"></figure>
+<p>您的想法已经向宇宙发射</p>
+<figure data-type="image" tabindex="9"><img src="http://p3.itc.cn/q_70/images03/20200702/8cdfed6cc45f408991f979b280a5c4b9.png" alt="小宇宙想法" loading="lazy"></figure>
+<p>Shownotes里有不知道的东西？</p>
+<p>没关系，一键搜索，刨根追底</p>
+<figure data-type="image" tabindex="10"><img src="http://p6.itc.cn/q_70/images03/20200702/74cf24626aeb4b0d9b33a7ab7cf2afde.jpeg" alt="小宇宙快捷搜索" loading="lazy"></figure>
+<p>多彩的颜色为播客增加了活力</p>
+<figure data-type="image" tabindex="11"><img src="http://p5.itc.cn/q_70/images03/20200702/3d1cefe5f1b14910bf68b88bbc43f371.jpeg" alt="小宇宙为每个播客选定了主题色" loading="lazy"></figure>
+<p>小宇宙领航员会赞你的评论，刷新按钮是一个星球</p>
+<figure data-type="image" tabindex="12"><img src="http://p1.itc.cn/q_70/images03/20200702/06a2641dc26b43499ddc3b06ed2e7220.jpeg" alt="小宇宙冷暖可触" loading="lazy"></figure>
+<p>小宇宙作为中文播客圈的老大还是很用心的。</p>
+<h3 id="中文播客界三大制作团队">💖中文播客界三大制作团队</h3>
+<p><strong><a href="https://dao.fm/">津津乐道播客网络</a></strong></p>
+<p>官方介绍：</p>
+<blockquote>
+<p>津津乐道播客是各领域达人联手制作的多档高质量播客，分享经验、传播体验。每周日早八点，我们一起用耳朵体验世界</p>
+</blockquote>
+<p>津津乐道是我很喜欢的播客制作团队，其节目风格轻松、视角独特、嘉宾专业</p>
+<figure data-type="image" tabindex="13"><img src="https://img.daofm.cn/wp-content/uploads/2020/01/mmexport1546432862271_mr1546432994500_mh1546433034194.jpg" alt="团队" loading="lazy"></figure>
+<figure data-type="image" tabindex="14"><img src="https://img.daofm.cn/wp-content/uploads/2020/01/mmexport1550201738578.jpg" alt="录制现场" loading="lazy"></figure>
+<p>旗下节目有（部分）：</p>
+<ul>
+<li>科技乱炖
+<ul>
+<li>朱峰、高春辉等多位知名 IT 业者主持的科技资讯点评播客。主播和嘉宾利用多年经验和业内视角，嬉笑怒骂之间，把近期科技热点变成犀利、独到、深刻的独家观点。</li>
+</ul>
+</li>
+<li>拼娃时代
+<ul>
+<li>拼娃时代是面向家长的 K-12 教育主题播客，主播张珺是一位真正的学生家长。他以理工男出色的分析能力和整合能力，帮普通家长理解复杂的教育知识、跟上多变的教育市场。</li>
+</ul>
+</li>
+<li>品质生活
+<ul>
+<li>品质生活是品味生活好物、提升生活品位的主题播客，节目主播和嘉宾阅历丰富，利用长期、真实、用心的体验，帮你熟悉那些原本无法接触的好产品，带你提前进入有品质的生活。津津乐道播客网络出品。</li>
+</ul>
+</li>
+<li>津津有味
+<ul>
+<li>健康生活无需变身苦行僧，无能之辈才会传递说教和乏味，养生其实简单日常不神秘，健康可以和快乐同行，科学可以严谨而逗趣。津津有味，听二位吃货主播联手各界达人每期给你一记“纳尼？居然是这样！”的暴击。</li>
+</ul>
+</li>
+<li>不叁不肆
+<ul>
+<li>三个打破传统理念、不按人生轨迹发展的女生，不拘泥于传统，不在乎他人眼光，在播客里一起挥泪、言笑、励人、悦己，让感性交汇，让理性碰撞，让共鸣之声更响。</li>
+<li>聊感情，聊经历，聊八卦，聊囧事，聊喜悦烦恼，聊渴望困扰，接受所有不期而遇，不枉跌跌撞撞走这一遭。</li>
+</ul>
+</li>
+<li>原汤话原食
+<ul>
+<li>三位女记者，带你剖析热点事件、发现不为人知的背后故事。真人说真事，原汤话原食。</li>
+<li>我们在灾难现场经历过绝望，在体育赛场追过苏炳添孙杨；发现过名人的伪装，也见证了普通人的光芒；最大限度感受世界的多元，不断突破认知感叹人性的复杂…有太多的瞬间，希望能和大家分享。</li>
+<li>在“原汤话原食”这档播客节目里，我们想要拥抱一个新世界，尝试突破传统媒体的刻板，用最自然、最真实的方式，和你一起分享有深度、有温度的想法。</li>
+</ul>
+</li>
+<li>厂长来了
+<ul>
+<li>说出创业者自己的故事。</li>
+<li>“厂长来了”是一档创新的访谈类播客节目，邀请成功创业者与投资人，一起拆解创业中的问题，分享创业中的挑战、艰辛与收获。</li>
+<li>借助声音独有的亲切和温度，和一个个真实的小故事，“厂长来了”摆脱了普通公关稿、媒体采访和产业观察的距离感，帮助听友感受到平视的交流，也帮助创业者和听友建立起真实的情感连接。</li>
+<li>“厂长来了”第二季由津津乐道与华创资本联合制作。</li>
+</ul>
+</li>
+<li>编码人声
+<ul>
+<li>解码成长故事，编码多彩人生。</li>
+<li>编码人声是一档聚焦程序员成长的播客节目，由资深程序员和年轻开发者共同担任主播。邀请不同背景的程序员担任节目嘉宾，分享程序员职业成长、个人成长经验，为程序员听友答疑解惑。</li>
+<li>本节目由津津乐道播客网络与声网联合制作。</li>
+</ul>
+</li>
+<li>叫卖图
+<ul>
+<li>我们！来自天津！来的都是牛人，聊的都是哏儿事儿，姿态绝不端着，有范儿也不拿着，话题感性有余，冷暖触手可及。</li>
+<li>描绘原汁原味的旧日市井文化，铺陈活络不羁的新天津卫烟火气。道地风物，都市传奇，一档节目，一站过瘾，嬉笑怒骂诉生活，插科打诨图一乐儿，期待与你相遇的每一分钟，用鲜活的声音联通你我的精神角落。</li>
+<li>本节目由津津乐道、侃爷茶馆、生活漫游指南联合制作，通过津津乐道播客网络发行</li>
+</ul>
+</li>
+<li>串台
+<ul>
+<li>由津津乐道播客网络推出的一档播客行业节目，旨在为播客受众推荐优秀节目、与播客制作者共同探索播客产业及其商业模式。</li>
+</ul>
+</li>
+</ul>
+<blockquote>
+<p>懂技术的播客不多，津津乐道算是其中一个</p>
+</blockquote>
+<p><strong><a href="https://justpodmedia.com/">JustPod</a></strong></p>
+<figure data-type="image" tabindex="15"><img src="https://justpodmedia.com/static/img/banner5.00e69c40.png" alt="介绍" loading="lazy"></figure>
+<p>旗下播客有（部分）：</p>
+<ul>
+<li>忽左忽右
+<ul>
+<li>「忽左忽右」是一档文化沙龙类播客节目，试图为中文播客听众提供基于经验视角的话题和内容。本节目由JustPod出品。曾荣获苹果播客2019年度最佳播客。</li>
+</ul>
+</li>
+<li>东亚观察局
+<ul>
+<li>《东亚观察局》是由主播梵一如、沙青青、权小星三人为固定成员的对谈聊天节目，聚焦以中日韩三国为核心的“东亚地区”的热点话题、文化现象以及历史趣闻。</li>
+</ul>
+</li>
+<li>杯弓蛇瘾
+<ul>
+<li>《杯弓舌瘾》是一档专注酒类生活方式的中文播客节目，由钱睿荪和戴鸿靖主持。我们将沉浸在与美酒相关的话题中，与您一同微醺邂逅。《杯弓舌瘾》由JustPod出品。</li>
+</ul>
+</li>
+<li>贝望录
+<ul>
+<li>2019苹果播客「年度精选播客」及「年度最受欢迎新播客」。 《贝望录》是一档观察广告如何影响着社会运行以及人们日常生活的谈话节目，由资深广告人李倩玲女士担任常驻主持。《贝望录》由JustPod出品。</li>
+</ul>
+</li>
+<li>跳岛FM
+<ul>
+<li>「跳岛FM」是一档文学主题播客，一份可以用耳朵收听的文学杂志。每周三更新。我们跟随作家探寻文学作品的诞生起点，听各行各业的创意头脑分享文学灵感，让谈论文学也成为艺术创作。</li>
+</ul>
+</li>
+</ul>
+<blockquote>
+<p>可能是中国最有影响力的播客团队</p>
+</blockquote>
+<p><strong>声动活泼</strong></p>
+<p>旗下播客有（部分）：</p>
+<ul>
+<li>
+<p>声东击西</p>
+<ul>
+<li>世界宽广，但人们被日常及社交媒体所限制。</li>
+<li>那就让作为记者的我们，帮你推开一些意想不到的窗户，触及不一样的信息，激发不一样的思考。</li>
+<li>在这里，我们对话各种有趣有料，能带来启发的专业人士，也不定期会有神秘嘉宾出现。</li>
+<li>我们也时不时做各种和声音有关的尝试，打开一些新体验。</li>
+</ul>
+</li>
+<li>
+<p>What's Next｜科技早知道</p>
+<ul>
+<li>原「硅谷早知道」，全新改版的「What's Next｜科技早知道」我们会继续放眼全球，不仅聚焦纯科技的话题，也会关注科技引领世界以及商业格局变化等新话题。</li>
+<li>新一季我们的节目会由多个模块共同组成，除了延续我们以往不同科技领域新技术新动向的话题，我们也会加入出海、多视角解读科技行业大事件。</li>
+</ul>
+</li>
+<li>
+<p>声动早咖啡</p>
+<ul>
+<li>浓缩、新鲜，商业科技轻解读。</li>
+<li>这是一档充满新鲜咖啡气息的清晨播客节目， 每期15分钟，在工作日早晨出门前，为你带来精心挑选的几条即时商业科技轻解读，以开启能量满满新一天。</li>
+</ul>
+</li>
+<li>
+<p>组织进化论</p>
+<ul>
+<li>「组织进化论」由字节跳动飞书与声动活泼联合推出，专注于职场话题和企业管理。我们邀请有趣有料的嘉宾一同分享对于未来工作和管理方式的洞察，希望思维的碰撞可以使大家产生新的思考，让大家更加高效愉悦地工作与生活。</li>
+</ul>
+</li>
+<li>
+<p>泡腾VC</p>
+<ul>
+<li>泡腾 VC 是由两位身处一线的风险投资人：Ted（孙腾）和 Momo（陈默默）主持的节目。</li>
+<li>带你听段子抹平信息不对称，带给你冒着泡泡的新鲜观点和最前沿的 VC 趣闻。</li>
+</ul>
+</li>
+</ul>
+<h3 id="优秀播客推荐">💝优秀播客推荐</h3>
+<ul>
+<li>无聊斋
+<ul>
+<li>两个喜剧演员聊天，会邀请嘉宾</li>
+</ul>
+</li>
+<li>谐星聊天会
+<ul>
+<li>快乐源泉！强烈推荐！</li>
+</ul>
+</li>
+<li>三五环
+<ul>
+<li>商业、互联网那些事。强烈推荐！</li>
+</ul>
+</li>
+<li>一派·Podcast
+<ul>
+<li>少数派出品，必属精品。强烈推荐！</li>
+</ul>
+</li>
+<li>声东击西
+<ul>
+<li>驻美记者带你了解世界</li>
+</ul>
+</li>
+<li>枫言枫语
+<ul>
+<li>一位设计师、一位程序员聊科技</li>
+</ul>
+</li>
+<li>科技乱炖
+<ul>
+<li>犀利解读科技新鲜事，强烈推荐！</li>
+</ul>
+</li>
+<li>日谈公园
+<ul>
+<li>治愈人心，增长见野。强烈推荐！</li>
+</ul>
+</li>
+<li>故事FM
+<ul>
+<li>用你的声音，讲述你的故事。强烈推荐！</li>
+</ul>
+</li>
+<li>NickTalk
+<ul>
+<li>Nick的杂谈节目（偏科技）</li>
+</ul>
+</li>
+<li>Anyway.FM
+<ul>
+<li>两位设计师闲聊数码、科技、设计，轻松有趣，强烈推荐！</li>
+</ul>
+</li>
+<li>津津乐道
+<ul>
+<li>津津乐道旗下播客节目都聚合在这里</li>
+</ul>
+</li>
+<li>叫卖图
+<ul>
+<li>你或许对天津有些刻板印象，这里带你看新天津</li>
+</ul>
+</li>
+<li>一言不合
+<ul>
+<li>喜剧节目</li>
+</ul>
+</li>
+<li>嘻谈录
+<ul>
+<li>喜剧联盒国的喜剧节目，类似谐星聊天会。强烈推荐！</li>
+</ul>
+</li>
+<li>第七电台
+<ul>
+<li>轻松闲聊</li>
+</ul>
+</li>
+<li>没理想编辑部
+<ul>
+<li>看理想旗下电台</li>
+</ul>
+</li>
+<li>看理想电台
+<ul>
+<li>看理想旗下电台。强烈推荐！</li>
+</ul>
+</li>
+<li>文化有限
+<ul>
+<li>推荐书，有独到见解</li>
+</ul>
+</li>
+<li>路人抓马
+<ul>
+<li>闲谈。强烈推荐</li>
+</ul>
+</li>
+<li>机核网GADIO游戏广播
+<ul>
+<li>游戏热爱者可以听</li>
+</ul>
+</li>
+<li>限时肤浅
+<ul>
+<li>闲聊</li>
+</ul>
+</li>
+<li>无限进步
+<ul>
+<li>影视飓风旗下播客</li>
+</ul>
+</li>
+<li>编码人声
+<ul>
+<li>聊程序员</li>
+</ul>
+</li>
+<li>津津有味
+<ul>
+<li>聊吃的，强烈推荐！</li>
+</ul>
+</li>
+<li>原汤话原食
+<ul>
+<li>新鲜时事</li>
+</ul>
+</li>
+<li>发发大王
+<ul>
+<li>杂谈</li>
+</ul>
+</li>
+<li>基本无害
+<ul>
+<li>毛冬的个人播客</li>
+</ul>
+</li>
+<li>姜思达
+<ul>
+<li>姜思达的个人播客</li>
+</ul>
+</li>
+<li>伐要去管它
+<ul>
+<li>Storm的个人播客</li>
+</ul>
+</li>
+<li>乱翻书
+<ul>
+<li>潘乱老师的播客，关于科技、互联网。强烈推荐！</li>
+</ul>
+</li>
+<li>对话复兴 | PodFest China 2021
+<ul>
+<li>聊博客的</li>
+</ul>
+</li>
+<li>FView Friday
+<ul>
+<li>爱否旗下播客，关于数码。强烈推荐！</li>
+</ul>
+</li>
+<li>迟早更新
+<ul>
+<li>闲聊。强烈推荐！</li>
+</ul>
+</li>
+<li>晚点聊
+<ul>
+<li>晚点新闻旗下播客</li>
+</ul>
+</li>
+<li>大内密谈
+<ul>
+<li>播客元老，闲聊</li>
+</ul>
+</li>
+<li>黑水公园
+<ul>
+<li>聊鬼怪、聊灵异</li>
+</ul>
+</li>
+<li>八分
+<ul>
+<li>强烈推荐！</li>
+</ul>
+</li>
+</ul>
+<p>PS：排名不分先后</p>
+<h3 id="参考资料">📃参考资料</h3>
+<p><a href="https://www.sohu.com/a/405340206_114819">产品分析 | 小宇宙——为播客而生</a></p>
+<p><a href="https://dao.fm/">津津乐道</a></p>
+<p><a href="https://justpodmedia.com/">JustPod</a></p>
+<p>声动活泼</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello Gridea]]></title>
+        <id>http://localhost:4000/post/hello-gridea/</id>
+        <link href="http://localhost:4000/post/hello-gridea/">
+        </link>
+        <updated>2022-01-18T14:25:04.000Z</updated>
+        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+<!-- more -->
+<p><a href="https://github.com/getgridea/gridea">Github</a><br>
+<a href="https://gridea.dev/">Gridea 主页</a><br>
+<a href="http://fehey.com/">示例网站</a></p>
+<h2 id="特性">特性👇</h2>
+<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
+<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
+<p>🏷️  你可以对文章进行标签分组</p>
+<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
+<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
+<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
+<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
+<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
+<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
+<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
+<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
+<p>未来，它一定会成为你离不开的伙伴</p>
+<p>尽情发挥你的才华吧！</p>
+<p>😘 Enjoy~</p>
+]]></content>
+    </entry>
+</feed>
