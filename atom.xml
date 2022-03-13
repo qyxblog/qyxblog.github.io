@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://qyxblog.github.io/</id>
     <title>MaxTalk</title>
-    <updated>2022-03-13T01:02:21.865Z</updated>
+    <updated>2022-03-13T01:15:39.309Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://qyxblog.github.io/"/>
     <link rel="self" href="https://qyxblog.github.io/atom.xml"/>
@@ -10,6 +10,17 @@
     <logo>https://qyxblog.github.io/images/avatar.png</logo>
     <icon>https://qyxblog.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, MaxTalk</rights>
+    <entry>
+        <title type="html"><![CDATA[我热爱的一些话]]></title>
+        <id>https://qyxblog.github.io/post/wo-re-ai-de-yi-xie-hua/</id>
+        <link href="https://qyxblog.github.io/post/wo-re-ai-de-yi-xie-hua/">
+        </link>
+        <updated>2022-03-13T01:13:03.000Z</updated>
+        <content type="html"><![CDATA[<p>永远年轻，永远热泪盈眶<br>
+生命不息，折腾不止<br>
+人间不值得</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[漫谈播客]]></title>
         <id>https://qyxblog.github.io/post/man-tan-bo-ke/</id>
