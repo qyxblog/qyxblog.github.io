@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://qyxblog.github.io/</id>
     <title>MaxTalk</title>
-    <updated>2022-03-13T03:02:10.740Z</updated>
+    <updated>2022-03-13T03:20:58.153Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://qyxblog.github.io/"/>
     <link rel="self" href="https://qyxblog.github.io/atom.xml"/>
@@ -10,6 +10,63 @@
     <logo>https://qyxblog.github.io/images/avatar.png</logo>
     <icon>https://qyxblog.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, MaxTalk</rights>
+    <entry>
+        <title type="html"><![CDATA[最近的变化]]></title>
+        <id>https://qyxblog.github.io/post/zui-jin-de-bian-hua/</id>
+        <link href="https://qyxblog.github.io/post/zui-jin-de-bian-hua/">
+        </link>
+        <updated>2022-03-13T02:52:50.000Z</updated>
+        <summary type="html"><![CDATA[<p>讲讲最近发生的变化，或许你注意到了，又或许你没留意</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>讲讲最近发生的变化，或许你注意到了，又或许你没留意</p>
+<!-- more -->
+<ol>
+<li>
+<p>再见Hexo</p>
+<ul>
+<li>原来我只用Gridea试试水，另开了一个仓库。考虑到我不需要那么多功能，不够简洁的主题界面，不是很方便的命令行，我现在全面转向Gridea。不过Hexo仍然保留在了master分支。</li>
+</ul>
+</li>
+<li>
+<p>卡纳作为我的脸，怎么变成了白上吹雪</p>
+<ul>
+<li><s>哈哈，竟然有人说我原来的头像幼稚</s></li>
+<li>我现在已经把部分社区的个人头像换成白上吹雪了，至于为什么，纯纯是因为好看。</li>
+</ul>
+</li>
+<li>
+<p>人间值得了？</p>
+<ul>
+<li>我最近看了很多老罗的东西，包括发布会、演讲、对谈和他的书，现在已经彻底被罗教主洗脑了。</li>
+<li>跟我大声喊：
+<ul>
+<li>生命不息，折腾不止</li>
+<li>永远年轻，永远热泪盈眶</li>
+<li>我不是为了输赢，我就是认真</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>最近特别喜欢上谷歌、FaceBook、推特、电报。总之就是外网的这些东西。</p>
+</li>
+<li>
+<p>写博客的心态改变</p>
+<ul>
+<li>以前是写给读者看 <s>但现在看来我好像没什么读者</s></li>
+<li>所以现在MaxTalk博客站我就不追求什么了，我就随便吐槽吐槽，说点最近的小事，有功夫了来几篇教程之类的，反而我的<strong>竹白</strong>会成为一个比较高质量的文章发表的地方，有兴趣可以关注一下。</li>
+<li><s>不保证更新速度哦</s></li>
+</ul>
+</li>
+</ol>
+<hr>
+<p>好了，应该没什么了<br>
+<s>有遗漏我也不补，略略略，你打我呀</s></p>
+<p>二次元镇帖<br>
+<img src="https://s6.jpg.cm/2022/03/13/L2UAVf.png" alt="白上吹雪" loading="lazy"><br>
+<img src="https://s6.jpg.cm/2022/03/13/L2UXkU.png" alt="風使いの少女と果てなき空の幻想歌" loading="lazy"></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我热爱的一些话]]></title>
         <id>https://qyxblog.github.io/post/wo-re-ai-de-yi-xie-hua/</id>
