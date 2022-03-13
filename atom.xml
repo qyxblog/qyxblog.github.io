@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://qyxblog.github.io/</id>
     <title>MaxTalk</title>
-    <updated>2022-03-13T03:20:58.153Z</updated>
+    <updated>2022-03-13T03:30:47.490Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://qyxblog.github.io/"/>
     <link rel="self" href="https://qyxblog.github.io/atom.xml"/>
@@ -55,7 +55,22 @@
 <ul>
 <li>以前是写给读者看 <s>但现在看来我好像没什么读者</s></li>
 <li>所以现在MaxTalk博客站我就不追求什么了，我就随便吐槽吐槽，说点最近的小事，有功夫了来几篇教程之类的，反而我的<strong>竹白</strong>会成为一个比较高质量的文章发表的地方，有兴趣可以关注一下。</li>
+<li>GitBook上我写了一点技术文档，比如MarkDown简明教程、Win端神剑——火绒剑之类的</li>
 <li><s>不保证更新速度哦</s></li>
+</ul>
+</li>
+<li>
+<p>学了点PPT设计，开始乱搞了</p>
+<ul>
+<li>你注意到了我在GitBook上的教程封面图了吧，那是我用PPT设计的，效果很不错</li>
+<li>你注意到MaxTalk的图标了吧，也是我用PPT设计的
+<ul>
+<li>黄色背景，致敬我曾经的头像，也与MaxTalk强调色相合</li>
+<li>背景图形像个对话气泡，代表Talk</li>
+<li>上面文字M偏大，致敬曾经我的网站图标</li>
+<li>Talk字体飘逸，代表随心所欲，文章内容不约束</li>
+</ul>
+</li>
 </ul>
 </li>
 </ol>
