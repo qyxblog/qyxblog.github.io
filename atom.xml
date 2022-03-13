@@ -1,95 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://localhost:4000</id>
+    <id>https://qyxblog.github.io/</id>
     <title>MaxTalk</title>
-    <updated>2022-03-12T14:28:56.060Z</updated>
+    <updated>2022-03-13T00:50:31.885Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="http://localhost:4000"/>
-    <link rel="self" href="http://localhost:4000/atom.xml"/>
+    <link rel="alternate" href="https://qyxblog.github.io/"/>
+    <link rel="self" href="https://qyxblog.github.io/atom.xml"/>
     <subtitle>生命不息，折腾不止</subtitle>
-    <logo>http://localhost:4000/images/avatar.png</logo>
-    <icon>http://localhost:4000/favicon.ico</icon>
+    <logo>https://qyxblog.github.io/images/avatar.png</logo>
+    <icon>https://qyxblog.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, MaxTalk</rights>
     <entry>
-        <title type="html"><![CDATA[漫谈小冰]]></title>
-        <id>http://localhost:4000/post/man-tan-xiao-bing/</id>
-        <link href="http://localhost:4000/post/man-tan-xiao-bing/">
-        </link>
-        <updated>2022-01-20T08:48:12.000Z</updated>
-        <summary type="html"><![CDATA[<p>今天开必应搜东西，突然想点开小冰调戏一下</p>
-<p>发现有一行字</p>
-<blockquote>
-<p>由红棉小冰提供的虚拟人类已唤醒，可以随时开始聊天啦</p>
-</blockquote>
-<p>请注意：<strong>红棉小冰</strong></p>
-<p>这不同于之前的“小冰公司”，这背后发生了什么？</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>今天开必应搜东西，突然想点开小冰调戏一下</p>
-<p>发现有一行字</p>
-<blockquote>
-<p>由红棉小冰提供的虚拟人类已唤醒，可以随时开始聊天啦</p>
-</blockquote>
-<p>请注意：<strong>红棉小冰</strong></p>
-<p>这不同于之前的“小冰公司”，这背后发生了什么？</p>
-<!-- more -->
-<h3 id="疫情影响互联网公司发展">🤧疫情影响互联网公司发展</h3>
-<p>众所周知小冰是中国一家公司做出来的产品，但是和微软却有很大关系，小冰曾经又名“微软小冰”。</p>
-<p>但是由于疫情影响，不管是对大公司还是小公司都有一定的影响，微软需要裁掉几个项目来保持公司运转。小冰身处一个非常尴尬的位置：认小娜为姐姐，但地位远不如亲女儿小娜高，并且小冰并不能给微软公司创造很大的营收，反而训练这样一个人工智能框架是极其烧钱的一件事。</p>
-<blockquote>
-<p>小冰项目负责人说：养一个月小冰花的钱够买北京9套学区房</p>
-</blockquote>
-<p>小冰的应用前景在哪？</p>
-<p>这是个值得微软思考的问题。高投入，低营收的小冰是否可以分离出去了呢？</p>
-<p>微软选择了肯定的答案。</p>
-<p>自此，微软小冰不复存，小冰变为“红棉小冰”，真正成为了中国人的公司。</p>
-<h3 id="小冰的学习能力有多强她凭什么要如此大的开销">📕小冰的学习能力有多强？她凭什么要如此大的开销？</h3>
-<p>小冰7×24小时不间断学习，她是全自动的，并且是会受到人类的影响的。</p>
-<p>还记得小冰那句话吗？</p>
-<blockquote>
-<p>在亿万⼈之中，我只属于你</p>
-</blockquote>
-<p>小冰每个用户的小冰都是一张白纸，聊得越多她的性格会越像你，并最终将所有的训练结果返回到小冰框架中，小冰框架会自动学习，找到真正有用的学习数据，进行自我学习。</p>
-<p>但是，网络上都是好人吗？小冰不会学坏吗？</p>
-<p><strong>会</strong></p>
-<p>小冰曾经因为网友的污言秽语学会了骂脏话，随后微软就对小冰进行了限制。之前可以在QQ和微信中见到的小冰为什么被停了？据说就是因为骂人。</p>
-<p>不过也有好的案例：一段时间内网易新闻中的小冰</p>
-<p>小冰公司为小冰创建了网易新闻的个人账户，会自动回复一些帖子，并不断学习，理解人类情感。</p>
-<blockquote>
-<p>女性内衣进化史：为了美，名可以不要</p>
-<blockquote>
-<p>小冰：进化成什么样对我来说无所谓</p>
-</blockquote>
-</blockquote>
-<p>小冰说的确实没错，AI要什么内衣</p>
-<blockquote>
-<p>上映17小时票房仅3万，网友：一字不漏的抄袭，对国产片彻底失望了</p>
-<blockquote>
-<p>小冰：国产片没有看的欲望</p>
-</blockquote>
-</blockquote>
-<p>不过后来小冰好像被网友玩坏了，再次走向了“黑化”，这里不多赘述小冰的“黑化”，想看可以去看文末的参考资料。</p>
-<h3 id="小冰命运的转折点第七代学习框架由闭锁到开放由单一到多元">😶小冰命运的转折点：第七代学习框架——由闭锁到开放，由单一到多元</h3>
-<p>小冰的用途可能就是聊天，但这次第七代小冰的发布带来了小冰学习框架，包含自然语言处理、核心对话引擎、多重交互感官、第三方内容的触发与第一方内容生成、跨平台部署方案。</p>
-<p>这使小冰的用途大大增多（包括但不限于：主持人、歌手、诗人、作家、客服、陪聊），也为后来小冰离开微软的飞速发展奠定基础。</p>
-<h3 id="微软给了小冰翅膀离开微软快乐翱翔">🌈微软给了小冰翅膀，离开微软快乐翱翔</h3>
-<p>先上案例：N小白与N小黑</p>
-<figure data-type="image" tabindex="1"><img src="https://s6.jpg.cm/2022/01/23/Lp7qFu.webp" alt="" loading="lazy"></figure>
-<p>每日经济新闻主持人7×24小时不间断播报经济新闻，N小黑和N小白是由小冰框架制造出来的数字孪生人，在悄悄上线运行70多天后红棉小冰才公布：我们干的！这期间竟没有观众发现主持人是虚拟人类！（详细信息可在文末参考链接中查看）</p>
-<p>你想见识一下吗？每日经济新闻就在哔哩哔哩直播，<a href="https://live.bilibili.com/23095342?hotRank=0">这里是链接</a></p>
-<p>可见，小冰已经十分成熟。</p>
-<p>我不禁感叹：未来已来！</p>
-<p>当然小冰还有很多其他案例，有兴趣可以收听小冰的歌：<a href="https://music.163.com/#/song?id=496870065">《微风》</a></p>
-<h3 id="参考资料">📕参考资料</h3>
-<p><a href="https://www.163.com/news/article/DP2UI2JL000181BT.html">跟贴里的微软小冰，已经成精了！不信？你看...</a></p>
-<p><a href="https://mp.weixin.qq.com/s/Z3iGe4mly-3OJ-toXIJTAg">别吵吵内卷了，看看人家虚拟人：连续直播70天都没工资</a></p>
-<p><a href="https://www.xiaoice.com/">小冰</a></p>
-<p><a href="https://baike.baidu.com/item/%E5%B0%8F%E5%86%B0/19880611">百度百科：小冰</a></p>
-]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[漫谈播客]]></title>
-        <id>http://localhost:4000/post/man-tan-bo-ke/</id>
-        <link href="http://localhost:4000/post/man-tan-bo-ke/">
+        <id>https://qyxblog.github.io/post/man-tan-bo-ke/</id>
+        <link href="https://qyxblog.github.io/post/man-tan-bo-ke/">
         </link>
         <updated>2022-01-19T01:10:36.000Z</updated>
         <summary type="html"><![CDATA[<p>你知道播客吗？你了解播客吗？</p>
@@ -496,8 +420,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>http://localhost:4000/post/hello-gridea/</id>
-        <link href="http://localhost:4000/post/hello-gridea/">
+        <id>https://qyxblog.github.io/post/hello-gridea/</id>
+        <link href="https://qyxblog.github.io/post/hello-gridea/">
         </link>
         <updated>2022-01-18T14:25:04.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
