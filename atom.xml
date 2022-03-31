@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://qyxblog.github.io/</id>
     <title>MaxTalk</title>
-    <updated>2022-03-13T03:38:53.504Z</updated>
+    <updated>2022-03-31T01:11:43.910Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://qyxblog.github.io/"/>
     <link rel="self" href="https://qyxblog.github.io/atom.xml"/>
@@ -10,6 +10,16 @@
     <logo>https://qyxblog.github.io/images/avatar.png</logo>
     <icon>https://qyxblog.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, MaxTalk</rights>
+    <entry>
+        <title type="html"><![CDATA[第一次过敏]]></title>
+        <id>https://qyxblog.github.io/post/di-yi-ci-guo-min/</id>
+        <link href="https://qyxblog.github.io/post/di-yi-ci-guo-min/">
+        </link>
+        <updated>2022-03-30T14:26:45.000Z</updated>
+        <content type="html"><![CDATA[<p>此夜21时近22时，身上忽然发痒，便挠。脱衣欲睡，发现挠过处出现了大片的疙瘩，心想不是大事，躺下了。而后不停发痒，虽耳边有播客，但心不能安。坐起，百度，得知可能过敏。心想过敏而已，继续睡去，忽而想起有过敏休克案例，又坐起，迅速穿衣，下楼，寻母。母亦不知，让我问奶奶。奶奶看疙瘩成片，知道我挠过了，感到情况严重，立马带我寻医，此时已22点多。<br>
+到医处，无光。轻轻敲门，呼其名，医醒，开门。看情况后，准备针管，注射一针后开出药方。我们离去，至家，温水，吃药，睡去，愿第二天相安无事。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[最近的变化]]></title>
         <id>https://qyxblog.github.io/post/zui-jin-de-bian-hua/</id>
@@ -90,7 +100,8 @@
         <updated>2022-03-13T01:13:03.000Z</updated>
         <content type="html"><![CDATA[<p>永远年轻，永远热泪盈眶<br>
 生命不息，折腾不止<br>
-人间不值得</p>
+人间不值得<br>
+黑夜给了我黑色的眼睛，我要用它看的是光明</p>
 ]]></content>
     </entry>
     <entry>
